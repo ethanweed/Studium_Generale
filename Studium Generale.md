@@ -1,0 +1,39 @@
+#Studium Generale
+- February 5
+    - Read interview with Alex Rosenberg
+    - Listen to podcast: What is Philosophy of Science good for?
+    - Answer questions
+- February 12
+    - Read Bird (1998) Chapter 2: page 41 to top of page 56
+    - Answer questions
+- February 19
+    - Read Bird (1998) Chapter 2: page 56 to end
+    - Answer questions
+- February 26
+    - Read Campbell (2001) History of Linguistics
+    - Answer questions
+- March 5
+    - Read Peregrin (2012) Linguistics and Philosophy
+    - Answer questions
+- March 12
+    - Listen to podcast on Karl Popper
+    - Answer questions
+- *March 19 -> Ethan in Philly Guest speaker?*
+- March 26
+    - Read Bird (1998) Inductive Knowledge
+    - Answer questions
+- April 9
+    - Read Kuhn Chapter
+    - Answer questions
+- April 16
+    - Read Latour Chapter 2
+    - Answer questions
+- April 23
+    - Read Gigerenzer article
+    - Listen to Lakens podcast
+    - Answer questions
+- April 30
+    - Read Stapel Chapter
+    - Answer questions
+- May 7
+- *May 14 -> Ethan in Utah*
