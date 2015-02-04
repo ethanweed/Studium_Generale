@@ -11,3 +11,4 @@
 1. Julia brings up a point about the tension between statistics and the way science is usually done. What is her point here? What is Massimo's response?
 1. The hosts get into a discussion of science vs. psuedoscience, and discuss evolutionary psychology in particular. What are the three reasons Massimo gives that evolutionary psychology be less scientific than other branches of evolutionary science? Do you agree?
 1. By the end of the podcast, Julia has refined her interpretation of the Feynman quote slightly. How has the discussion with Massimo altered the way she understands the quote?
+1. In the interview, Alex Rosenberg has some harsh words about the humanities. What is his criticism? Do you agree with it? Do you think Linguistics is susceptible to this same criticism? Why or why not?
