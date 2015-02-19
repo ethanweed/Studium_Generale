@@ -25,7 +25,7 @@
   the covering-law approach (pg. 48)
 12. How does this relate to quote in question 10?
 13. How does the static-electricity example on pg. 49 relate to the quote
-  in question 11?
+  in question 10?
 14. After reading pages 41-55k and the first paragraph of page 56, do you
   feel it is possible to actually explain anything at all?
 15. Find an example of an explanandum and an explanans from any area of
