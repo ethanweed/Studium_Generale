@@ -23,7 +23,7 @@
   describe what this means.
 11. Briefly describe Achinstein’s example, and why it is problematic for
   the covering-law approach (pg. 48)
-12. How does this relate to quote in question 11?
+12. How does this relate to quote in question 10?
 13. How does the static-electricity example on pg. 49 relate to the quote
   in question 11?
 14. After reading pages 41-55k and the first paragraph of page 56, do you
