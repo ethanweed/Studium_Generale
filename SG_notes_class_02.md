@@ -67,7 +67,7 @@
           otters suckle their young”
         - “Duck-billed platypuses do not suckle their young/platypuses
           are mammals/therefore not all mammals suckle their young
-        - Scientific inference is typically *not* inductive. Why?
+        - Scientific inference is typically *not* deductive. Why?
     - Inductive argument
         - Non-deductive (empirical sciences vs. pure math / logic)
         - Argue from specific cases to support a generalization
