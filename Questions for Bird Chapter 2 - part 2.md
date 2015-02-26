@@ -1,6 +1,6 @@
 # Questions for Bird Chapter 2 part 2
 
-1. For Bird, “Humean induction” refers to more specific kind of
+1. For Bird, “Humean induction” refers to a specific kind of
   scientific argument, i.e. one where we argue from several particular
   cases to the truth of a generalization covering them [e.g.] the case
   of a doctor who took the existence of many anaemic colitis sufferers
