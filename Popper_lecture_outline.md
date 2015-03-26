@@ -1,7 +1,9 @@
 # Karl Popper
 # 
 # 
-“Those among us who are unwilling to expose their ideas to the hazards of refutation do not take part in the game of science” (Popper, quoted in Dienes, 2008; pg. 12)
+“Those among us who are unwilling to expose their ideas to the hazards of refutation do not take part in the game of science” (Popper, quoted in [Dienes, 2008]; pg. 12)
+ 
+[Dienes, 2008]:http://www.amazon.com/Understanding-Psychology-Science-Introduction-Statistical/dp/023054231X
   
 ---
 
@@ -86,13 +88,18 @@ There is only one way to advance human understanding: critical discussion
 ---
 ##Demarcation
 
-- Sapir-Whorf (Hopi language)
+- [Sapir-Whorf] (Hopi language)
 - Color perception
 - Color univeralism
-- Himba color perception
-- Russian blues
+- [Himba color perception]
+- [Russian blues]
 - Chinese color perception
-- Bilateral EEG studies
+- [Bilateral EEG studies]
+
+[Russian blues]: https://www.google.dk/search?q=russian+blues+winawer&gws_rd=cr&ei=TAYUVYXxCo2qOuysgfgJ
+[Himba color perception]: https://scholar.google.com/scholar?q=himba%20color%20perception
+[Sapir-Whorf]: https://archive.org/details/languagethoughtr00whor
+[Bilateral EEG studies]: http://www.sciencedirect.com/science/article/pii/S1364661309001454
 
 ---
 
