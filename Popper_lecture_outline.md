@@ -42,7 +42,7 @@ There is *no* amount of evidence that will ever be enough for us to justify beli
 - I will get up tomorrow
 - My kids will always fight, every chance they get
 
-——
+---
 
 ##Induction
 
@@ -51,7 +51,7 @@ Bertrand Russel father of logical positivism:
 If we don’t figure out how induction could  be valid there is
 no way to decide between good scientific theory and “the mere obsession of a madman”
 
-——
+---
 ##Induction
 
 Popper: we don’t need to work out how induction can be valid. 
@@ -59,7 +59,7 @@ Popper: we don’t need to work out how induction can be valid.
 - Let’s accept that induction can never prove that a theory is right 
 - That doesn’t mean we can’t use evidence to prove that a theory is *wrong*
 
-—-
+---
 ##Popper:
 
 There is only one way to advance human understanding: critical discussion
