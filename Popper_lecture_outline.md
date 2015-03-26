@@ -7,12 +7,12 @@
 
 ## Induction 
 
-Humes’s problem
+Hume’s problem
 
 ---
 ## Induction 
 
-Humes’s problem
+Hume’s problem
 
 There is *no* amount of evidence that will ever be enough for us to justify believing a theory without a shadow of a doubt.
 
@@ -23,7 +23,7 @@ There is *no* amount of evidence that will ever be enough for us to justify beli
 
 ## Induction 
 
-Humes’s problem
+Hume’s problem
 
 There is *no* amount of evidence that will ever be enough for us to justify believing a theory without a shadow of a doubt.
 
@@ -34,7 +34,7 @@ There is *no* amount of evidence that will ever be enough for us to justify beli
 
 ## Induction 
 
-Humes’s problem
+Hume’s problem
 
 There is *no* amount of evidence that will ever be enough for us to justify believing a theory without a shadow of a doubt.
 
