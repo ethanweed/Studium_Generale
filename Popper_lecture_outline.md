@@ -64,7 +64,7 @@ Popper: we don’t need to work out how induction can be valid.
 
 There is only one way to advance human understanding: critical discussion
 
-——
+---
 ##Popper:
 
 - Observation without theory is useless
