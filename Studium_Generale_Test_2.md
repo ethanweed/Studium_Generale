@@ -12,5 +12,5 @@ Describe your group’s progress on the Box Project. Remember, the box project a
 	6. Your personal motivation for conducting research on the box
 	7. What your next steps will be in continuing your research on the box
 	
-2 pages. Please submit your test by email with the subject "yourname - team name - test 2". 
+2 pages. Please submit your test by email with the subject "yourname - team name - DoL Test 2". 
 You are very welcome to discuss your ideas in groups, but please submit individual tests
