@@ -5,7 +5,7 @@
   science is not a neutral act” (pg. 421). What does he mean (in broad
   terms) by this?
 1. What is a p-value? Search the internet or other texts, and be as
-  precise as you can
+  precise as you can. (https://xkcd.com/1478/)
 1. The article begins with a quote from Fischer (1956) and a quote from
   Altmann (2007). Who was Fischer, and why are these two quotes here?
 1. “These routines are surprising, given that in most psychological
