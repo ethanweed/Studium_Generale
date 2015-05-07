@@ -1,9 +1,9 @@
 # Studium Generale Test 3
 
 
-Please answer both of the questions below. You may answer in English or Danish. Approximate page counts are given. Normal page lengths are assumed.
+Please choose one of the questions below. You may answer in English or Danish. Approximate page counts are given. Normal page lengths are assumed.
 
-Submit your answers by email to ethan@dac.au.dk by Monday 20th at midnight. In the subject line of your email, please write "SG Test 3" and then your name. So for me, I would write "SG Test 3 Ethan Weed". This will help me make sure I don't lose any of your emails.
+Submit your answers by email to ethan@dac.au.dk by Monday 11th at midnight. In the subject line of your email, please write "SG Test 3" and then your name. So for me, I would write "SG Test 3 Ethan Weed". This will help me make sure I don't lose any of your emails.
 
 
 ##Question 1: 
