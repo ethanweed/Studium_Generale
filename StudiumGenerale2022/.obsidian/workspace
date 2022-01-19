@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "e1603661639bccc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ee73aa20919331b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a150a1505983935",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0156a5e88e5027",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d517b581849848e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "99fec0618ddcfc36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f79236ee0b7236f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4db05c0640c1c989",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f43f853ea8fd0f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1ee73aa20919331b",
+  "lastOpenFiles": [
+    "Syllabus.md",
+    "Welcome.md",
+    "Students schedule - spring semester.md",
+    "Schedule.md",
+    "01_Principe Ch 1 & 2.md",
+    "01_Okasha Ch 1.md",
+    "Literature/01_Principe_The Scientific Revolution A Very Short Introduction.pdf",
+    "Literature/01_Okasha, Ch 1.pdf",
+    "Literature/Campbell_History-of-Linguistics.pdf"
+  ]
+}
