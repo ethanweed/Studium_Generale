@@ -7,8 +7,12 @@
         "id": "1ee73aa20919331b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CourseInfo/Syllabus.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CourseInfo/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,8 @@
   },
   "active": "1ee73aa20919331b",
   "lastOpenFiles": [
+    "CourseInfo/Syllabus.md",
+    "CourseInfo/Schedule.md",
     "Syllabus.md",
     "Welcome.md",
     "Students schedule - spring semester.md",
@@ -91,7 +98,6 @@
     "01_Principe Ch 1 & 2.md",
     "01_Okasha Ch 1.md",
     "Literature/01_Principe_The Scientific Revolution A Very Short Introduction.pdf",
-    "Literature/01_Okasha, Ch 1.pdf",
-    "Literature/Campbell_History-of-Linguistics.pdf"
+    "Literature/01_Okasha, Ch 1.pdf"
   ]
 }

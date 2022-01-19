@@ -1,4 +1,7 @@
-           
+
+
+
+<!--#include file="Schedule.html" -->
 
 ## Course description
 The purpose of this course is to give linguistics students an introduction to scientific and humanistic reasoning, praxis, and culture that is oriented to the concerns of linguistics as a discipline. Aside from outlining some of the major ideas in the philosophy of science, the course will place particular focus on the position of linguistics within the architecture of scientific thought and culture, including nearby disciplines such as anthropology, archaeology, psychology, and cognitive science. The course will discuss methods, argumentation, and theory as they are relevant to linguistics. The role and place of the discipline within society will also be explored, leading into discussion of ethics and (mis-)applications of linguistics. Essential to an understanding of the nature of modern science and linguistics—why they are as they are—is an appreciation of how they have developed over time; thus a part of the course will be devoted to an exploration of the history of the disciplines.
