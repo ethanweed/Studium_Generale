@@ -59,15 +59,17 @@ the term universitas in the medieval context was the term for a guild or a corpo
 ::: {.container}
 :::: {.col}
 
-- Theology
-- Law
-- Medicine
-- Arts
+
+<img src="https://maps.lib.utexas.edu/maps/historical/shepherd/mediaeval_universities.jpg" width="500"/>
+
 
 ::::
 :::: {.col}
 
-<img src="https://maps.lib.utexas.edu/maps/historical/shepherd/mediaeval_universities.jpg" width="500"/>
+- Theology
+- Law
+- Medicine
+- Arts
 
 ::::
 :::
