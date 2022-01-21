@@ -74,8 +74,36 @@ the term universitas in the medieval context was the term for a guild or a corpo
 
 
  
-
 ---------------------------------------- 
+
+### Aarhus University
+
+
+
+
+::: {.container}
+:::: {.col}
+
+<img src="https://omnibus.au.dk/uploads/pics/csm_DSC_0711_c0ef4124d2.jpg" width=""/>
+
+::::
+:::: {.col}
+
+- Founded in 1928
+- _Universitetsundervisningen i Jylland_
+- 64 students
+- First teachers: Philosophy, French, English, German & Danish
+- Next added: Medicine (1933)
+
+::::
+:::
+
+
+
+---
+
+### This course
+
 
 
 
