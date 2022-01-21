@@ -106,7 +106,30 @@ the term universitas in the medieval context was the term for a guild or a corpo
 
 ### This course
 
+``
+```   
 
+Designed to give an introduction to scientific and humanistic reasoning, praxis, and culture that is oriented to the concerns of linguistics as a discipline.
+
+```
+
+
+---
+
+### Goals
+
+   
+
+- Provide an introduction to scientific reasoning, praxis, and culture
+- Discuss the relationship of humanities and science
+- Outline some of the major ideas in the philosophy of science
+- Position linguistics within the architecture of scientific thought and culture, including nearby disciplines such as anthropology, archaeology, psychology, sociology, and cognitive science
+- Give you a basis in significant writings by linguists of the twentieth century (mainly)
+
+
+---
+
+### Organization of course
 
 
 ---

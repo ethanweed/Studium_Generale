@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1ee73aa20919331b",
+        "id": "5c3f5698b1fc6686",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,9 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ee73aa20919331b",
+  "active": "5c3f5698b1fc6686",
   "lastOpenFiles": [
     "Slides/Lecture1_What-is-science.md",
+    "Templates/Block-quote.md",
     "Templates/New slide.md",
     "Templates/Columns.md",
     "Slides/Lecture1_What-is-science?.md",
@@ -97,7 +98,6 @@
     "CourseInfo/Syllabus.md",
     "CourseInfo/Schedule.md",
     "CourseInfo/Students_schedule - spring_semester.md",
-    "Syllabus.md",
-    "Welcome.md"
+    "Syllabus.md"
   ]
 }
