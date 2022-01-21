@@ -61,5 +61,7 @@ the term universitas in the medieval context was the term for a guild or a corpo
 
 ### References
 
+<font size = 2>
+
 [Georgedes, K. (2006). Religion, Education and the Role of Government in Medieval Universities: Lessons Learned or Lost?. In _Forum on Public Policy: A Journal of the Oxford Round Table_ (Vol. 2, No. 1, pp. 73-96).](https://web.archive.org/web/20110711021202/http://www.forumonpublicpolicy.com/vol2.no1.rel.2006/georgedes.pdf)
 
