@@ -11,11 +11,25 @@
 
 ---------------------------------------- 
 
-### Slide 1
+### "Studium Generale"
 
 
-<section data-background-image="http://example.com/image.png">  <h2>Image</h2></section><section data-background-image="http://example.com/image.png"           data-background-size="100px" data-background-repeat="repeat">  <h2>This background image will be sized to 100px and repeated</h2></section>
+A place where people can come to study.
 
+---
+
+
+```
+ 
+
+The term studium generale, or studium was used to designate universities early on, and referred to the school’s ability to attract students from a broad geographical area, as opposed to a provincial studium particulare, and those studia of the friars.
+
+```
+---
+
+
+<img src="https://maps.lib.utexas.edu/maps/historical/shepherd/mediaeval_universities.jpg" width="500"/>
+ 
 
 ---------------------------------------- 
 
