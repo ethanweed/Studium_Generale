@@ -3,15 +3,6 @@
 
 ## Studium General
 
-<style>
-.container{
-  display: flex;
-}
-.col {
-  flex: 1;
-}
-</style>
-
 
 ---------------------------------------- 
 
@@ -438,9 +429,14 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ---
 
+
+
+---
+
 ### Scientific Hoaxes and Data Manipulation
 
 <img src="https://jacksadventuresinmuseumland.files.wordpress.com/2014/04/dawson-sketch-of-pitldown-gravel-bed-section_114208_1.jpg" width="500"/>
+
 
 ---
 
