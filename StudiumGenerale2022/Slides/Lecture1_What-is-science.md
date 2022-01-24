@@ -1,4 +1,4 @@
-
+## Studium General
 
 <style>
 .container{
@@ -10,7 +10,9 @@
 </style>
 
 
-Reveal.initialize({ slideNumber: true });
+<script src="dist/reveal.js"></script>
+<script>  Reveal.initialize({ transition: 'none' });
+</script>
 
 ---------------------------------------- 
 
