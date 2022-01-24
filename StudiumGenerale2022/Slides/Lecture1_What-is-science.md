@@ -16,7 +16,7 @@
 Reveal.initialize({ 
 controls: true,
 controlsTutorial: true,
-progress: false
+progress: "h/v"
 });
 
 </script>
