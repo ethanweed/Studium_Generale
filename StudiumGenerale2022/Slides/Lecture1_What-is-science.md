@@ -55,7 +55,7 @@ the term universitas in the medieval context was the term for a guild or a corpo
 :::: {.col}
 
 
-<img src="https://maps.lib.utexas.edu/maps/historical/shepherd/mediaeval_universities.jpg" width="500"/>
+<img src="https://maps.lib.utexas.edu/maps/historical/shepherd/mediaeval_universities.jpg" width="600"/>
 
 
 ::::
