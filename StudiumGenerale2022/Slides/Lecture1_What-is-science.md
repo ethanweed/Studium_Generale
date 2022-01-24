@@ -60,11 +60,11 @@ the term universitas in the medieval context was the term for a guild or a corpo
 
 ::::
 :::: {.col}
-
-Theology
-Law
-Medicine
-Arts
+‎
+- Theology
+- Law
+- Medicine
+- Arts
 
 ::::
 :::
