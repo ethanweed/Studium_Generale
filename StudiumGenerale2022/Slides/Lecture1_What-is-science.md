@@ -9,6 +9,9 @@
 }
 </style>
 
+
+Reveal.initialize({ slideNumber: true });
+
 ---------------------------------------- 
 
 ### "Studium Generale"
@@ -106,7 +109,7 @@ the term universitas in the medieval context was the term for a guild or a corpo
 
 ### This course
 
-``
+
 ```   
 
 Designed to give an introduction to scientific and humanistic reasoning, praxis, and culture that is oriented to the concerns of linguistics as a discipline.
@@ -244,15 +247,14 @@ Peer-reviewed publications
   
 ---
 
-### Induction 
+### Induction: Hume’s problem
 
-Hume’s problem
+
 
 ---
 
-### Induction 
+### Induction: Hume’s problem
 
-Hume’s problem
 
 There is *no* amount of evidence that will ever be enough for us to justify believing a theory without a shadow of a doubt.
 
@@ -261,7 +263,7 @@ There is *no* amount of evidence that will ever be enough for us to justify beli
 
 ---
 
-### Induction 
+### Induction: Hume’s problem
 
 Hume’s problem
 
@@ -272,7 +274,7 @@ There is *no* amount of evidence that will ever be enough for us to justify beli
 
 ---
 
-### Induction 
+### Induction: Hume’s problem
 
 Hume’s problem
 
@@ -304,22 +306,16 @@ Popper: we don’t need to work out how induction can be valid.
 There is only one way to advance human understanding: _critical discussion_
 
 ---
-### Popper:
 
-- Observation without theory is useless
-- What would Popper think about data-driven science, e.g. "data science"?
-
----
 ### Demarcation
 - Science vs pseudoscience
 
 ---
+
 ### Demarcation
 - Science vs pseudoscience
-- Marxism
-- Freudian psychology
-- Chomskyian linguistics?
-- Functionalist linguistics?
+- Marxism?
+- Freudian psychology?
 - Linguistic relativity?
 
 ---
@@ -361,13 +357,13 @@ Accepting an observation statement involves accepting layers of theory supportin
 
 ---
 
-##All theories are falsified anyway
+### All theories are falsified anyway
 
 Lakatos: “In the history of science, all theories have been born falsified” (in Dienes, 2008; pg. 22)
 
 ---
 
-##All theories are falsified anyway
+### All theories are falsified anyway
 
 - Many theories that were widely accepted at the time seem ridiculous today
 	- Phrenology
@@ -375,7 +371,7 @@ Lakatos: “In the history of science, all theories have been born falsified” 
 
 ---
 
-##All theories are falsified anyway
+### All theories are falsified anyway
 
 - Many theories that are currently accepted are actually countered by evidence
 	- Newtonian physics could not explain Mercury’s path in the sky
@@ -383,23 +379,23 @@ Lakatos: “In the history of science, all theories have been born falsified” 
 
 ---
 
-##Even theories that are wrong, can still be ~~right~~ useful
+### Even theories that are wrong, can still be ~~right~~ useful
 
-###Newtonian physics
+#### Newtonian physics
 In one sense, Newtonian physics is “wrong”, because it doesn’t explain everything, but even now we do not reject it entirely. In fact, we
 use it all the time.
 
 ---
 
-##Even theories that are wrong, can still be ~~right~~ useful
+### Even theories that are wrong, can still be ~~right~~ useful
 
-###Linguistic relativity
+#### Linguistic relativity
 - In its strong sense has been rejected
 - But in a weaker sense, it is very tenacious
 
 ---
 
-##Good science (according to Popper) needs:
+### Good science (according to Popper) needs:
 
 1. A substantial theory
 1. Solid background information
@@ -407,7 +403,7 @@ use it all the time.
 
 ---
 
-##Using Popper to critique a paper
+### Using Popper to critique a paper
 
 ### Is there a substantial theory?
 - A theory from which several predictions follow
@@ -415,7 +411,7 @@ use it all the time.
 
 ---
 
-##Using Popper to critique a paper
+### Using Popper to critique a paper
 
 ### Solid background information
 - What are the auxiliary assumptions?
@@ -424,7 +420,7 @@ use it all the time.
 - We cannot exhaustively test all of these every time, but we should do as much as possible to identify the auxiliaries decide whether they are safe
 
 ---
-##Using Popper to critique a paper
+### Using Popper to critique a paper
 
 ### A test that is severe
 
@@ -434,7 +430,7 @@ use it all the time.
 
 ---
 
-# Popper and politics
+### Popper and politics
 
 - What goes for science also goes for politics
 - Political ideas should be criticized and discussed just as
@@ -443,89 +439,9 @@ use it all the time.
 
 ---
 
-# Popper and our own psychology
+### Popper and our own psychology
 
 How many of our own opinions are based on untested theories built on shaky background information?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-times too the scientific revolution did not come from nowhere. In
-these earlier periods the dominant world-view was Aristotelianism,
-named after the ancient Greek philosopher Aristotle, who put
-forward detailed theories in physics, biology, astronomy, and
-cosmology. But Aristotle's ideas would seem very strange to a
-modern scientist, as would his methods of enquiry. To pick just one
-example, he believed that all earthly bodies are composed of just
-four elements: earth, fire, air, and water. This view is obviously at
-odds with what modern chemistry tells us.
-
-Taken together, Kepler's laws provided a far superior planetary
-theory than had ever been advanced before, solving problems that
-had confounded astronomers for centuries. Galileo was a life-long
-supporter of Copernicanism, and one of the early pioneers of the
-telescope. When he pointed his telescope at the heavens, he made a
-wealth of amazing discoveries, including mountains on the moon, a
-vast array of stars, sun-spots, and Jupiter's moons. All of these
-conflicted thoroughly with Aristotelian cosmology, and played a
-pivotal role in converting the scientific community to
-Copernicanism.
-
-species to evolve into a wholly new one, Darwin argued. So
-persuasive was the evidence Darwin adduced for his theory that by
-the start of the 20th century it was accepted as scientific
-orthodoxy, despite considerable theological opposition (Figure 3).
-Subsequent work has provided striking confirmation of Darwin's
-theory, which forms the centrepiece of the modern biological
-world-view.
-
-consider scientific experimentation. Suppose a scientist does an
-experiment and gets a particular result. He repeats the experiment
-a few times and keeps getting the same result. After that he will
-probably stop, confident that were he to keep repeating the
-experiment, under exactly the same conditions, he would continue
-to get the same result. This assumption may seem obvious, but as
-philosophers we want to question it. Why assume that future
-repetitions of the experiment will yield the same result? How do we
-know this is true? The scientist is unlikely to spend too much time
-puzzling over these somewhat curious questions: he probably has
-better things to do. They are quintessentially philosophical
-questions, to which we return in the next chapter.
-
-The philosopher Ludwig Wittgenstein argued that there is no
-fixed set of features that define what it is to be a 'game'. Rather,
-there is a loose cluster of features most of which are possessed by
-most games. But any particular game may lack any of the features in
-the cluster and still be a game. The same may be true of science. If
-so, a simple criterion for demarcating science from pseudo-science
-is unlikely to be found.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
