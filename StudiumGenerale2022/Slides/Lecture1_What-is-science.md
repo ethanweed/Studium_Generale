@@ -1,3 +1,12 @@
+
+---
+output: 
+  revealjs::revealjs_presentation:
+    reveal_options:
+      progress: false
+---
+
+
 ## Studium General
 
 <style>
