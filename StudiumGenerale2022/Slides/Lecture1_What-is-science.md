@@ -19,10 +19,6 @@ output:
 </style>
 
 
-<script src="dist/reveal.js"></script>
-
-<script>  Reveal.initialize({ controls: true, controlsTutorial: true, progress: false});</script>
-
 ---------------------------------------- 
 
 ### "Studium Generale"
