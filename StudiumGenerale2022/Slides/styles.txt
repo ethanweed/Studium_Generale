@@ -3,6 +3,10 @@
 .reveal .slide h1 { font-size: 200%; text-decoration: underline; }
 </style>
 
+
+
+
+
 <style>
 .container{
   display: flex;
@@ -12,3 +16,13 @@
 }
 </style>
 
+
+
+
+
+<style>
+.grid-container {
+  display: grid;
+  gap: 1em;
+}
+</style>
