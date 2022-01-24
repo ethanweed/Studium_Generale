@@ -342,14 +342,6 @@ There is only one way to advance human understanding: _critical discussion_
 Accepting an observation statement involves accepting layers of theory supporting the theory being tested
 
 ---
-## No theory is falsifiable
-
-### Theory: "Music has syntax just like language"
-
-- "Musical syntax is processed in Broca’s area" (Maess et al, 2001)
-- http://www.nature.com/neuro/journal/v4/n5/full/nn0501_540.html
-
----
 ## Background knowledge
 
 - Popper: at a certain level, we just have to accept some information as “background knowledge”
@@ -444,6 +436,14 @@ use it all the time.
 
 How many of our own opinions are based on untested theories built on shaky background information?
 
+---
+
+### Scientific Hoaxes and Data Manipulation
+
+
+<img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg" width=""/>
+
+---
 
 
 
