@@ -1,7 +1,7 @@
 
 
 
-## Studium General sdfsdf
+## Studium General
 
 <style>
 .container{
