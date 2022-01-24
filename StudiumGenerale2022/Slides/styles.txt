@@ -7,14 +7,12 @@
 
 
 
-
-
-
-
-
 <style>
 .container{
-  display: grid;
-  grid-auto-flow: column;
+  display: flex;
+}
+.col {
+  flex: 1;
 }
 </style>
+
