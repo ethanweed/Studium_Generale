@@ -1,10 +1,4 @@
 
----
-output: 
-  revealjs::revealjs_presentation:
-    reveal_options:
-      progress: false
----
 
 
 ## Studium General
@@ -350,7 +344,7 @@ Accepting an observation statement involves accepting layers of theory supportin
 ---
 ## No theory is falsifiable
 
-###Theory: "Music has syntax just like language"
+### Theory: "Music has syntax just like language"
 
 - "Musical syntax is processed in Broca’s area" (Maess et al, 2001)
 - http://www.nature.com/neuro/journal/v4/n5/full/nn0501_540.html
