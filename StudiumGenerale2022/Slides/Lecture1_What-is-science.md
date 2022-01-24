@@ -11,7 +11,14 @@
 
 
 <script src="dist/reveal.js"></script>
-<script>  Reveal.initialize({ transition: 'none' });
+<script>  
+
+Reveal.initialize({ 
+controls: true,
+controlsTutorial: true,
+progress: true
+});
+
 </script>
 
 ---------------------------------------- 
