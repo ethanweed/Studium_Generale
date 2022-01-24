@@ -440,12 +440,15 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ### Scientific Hoaxes and Data Manipulation
 
-
-<img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg" width=""/>
+<img src="https://jacksadventuresinmuseumland.files.wordpress.com/2014/04/dawson-sketch-of-pitldown-gravel-bed-section_114208_1.jpg" width="500"/>
 
 ---
 
+### Scientific Hoaxes and Data Manipulation
 
+<img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg" width="500"/>
+
+---
 
 
 
