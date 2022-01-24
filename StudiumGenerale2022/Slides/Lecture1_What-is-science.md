@@ -244,12 +244,13 @@ Peer-reviewed publications
   
 ---
 
-## Induction 
+### Induction 
 
 Hume’s problem
 
 ---
-## Induction 
+
+### Induction 
 
 Hume’s problem
 
@@ -260,7 +261,7 @@ There is *no* amount of evidence that will ever be enough for us to justify beli
 
 ---
 
-## Induction 
+### Induction 
 
 Hume’s problem
 
