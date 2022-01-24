@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>Lecture-on-inductive-knowledge</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js//dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js//dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js//dist/theme/black.css" id="theme">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+
+<section id="inductive-knowledge" class="slide level1">
+<h1>Inductive knowledge</h1>
+<table style="width:6%;">
+<colgroup>
+<col style="width: 5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>## David Hume</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>## David Hume</td>
+</tr>
+<tr class="even">
+<td><img data-src="https://www.youtube.com/watch?v=r3QZ2Ko-FOg" alt="inLine" /></td>
+</tr>
+</tbody>
+</table>
+<h2 id="what-is-the-big-deal-about-induction">What is the big deal about induction?</h2>
+<p>Bird (pg. 141): “the philosophical problem is not: <em>Do we know that p?</em> Rather it is: <em>Could we know that p?</em></p>
+</section>
+<section class="slide level1">
+
+<h2 id="why-should-scientists-care">Why should scientists care?</h2>
+</section>
+<section class="slide level1">
+
+<h2 id="why-should-scientists-care-1">Why should scientists care?</h2>
+<p>Science is about acquiring new knowledge about the world</p>
+</section>
+<section class="slide level1">
+
+<h2 id="what-does-it-mean-to-know-something">What does it mean to know something?</h2>
+</section>
+<section class="slide level1">
+
+<h2 id="what-does-it-mean-to-know-something-1">What does it mean to know something?</h2>
+<ul>
+<li>Do you know what 1+1 is?</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<h2 id="what-does-it-mean-to-know-something-2">What does it mean to know something?</h2>
+<ul>
+<li>Do you know what 1+1 is?</li>
+<li>Do you know what 5x6 is?</li>
+</ul>
+<table style="width:6%;">
+<colgroup>
+<col style="width: 5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>## What does it mean to know something?</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>## Do you know that you know what you know?</td>
+</tr>
+<tr class="even">
+<td>- Do you know what 1+1 is? - Do you know what 5x6 is? - Do you know what the square root of 6 is?</td>
+</tr>
+</tbody>
+</table>
+<h2 id="i-dont-know-it-but-i-could-figure-it-out">I don’t know it, but I could figure it out</h2>
+<h3 id="method">Method</h3>
+<figure>
+<img data-src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxEQEBQQEBQPDw8PEA8QDw8QEBAPDw8QFBQXFhURFBQYHCggGBomHBQVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGhAQGy0kHCUyLCwsLCw3LDcuKywsNi8sLCwvLzcsLCwsLCwsLCwsLCwsLCwsLCwsLCwsNywsLCwsLP/AABEIAMIBAwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBQcGBAj/xABFEAABAwEFAwcICAMIAwAAAAABAAIDEQQFBhIhMUFREyJhcYGRoRYyUlOSscHRFCNCYnKCk9IkQ/AHFTOio8Lh8TSy4v/EABoBAQADAQEBAAAAAAAAAAAAAAADBAUCAQb/xAAnEQEAAgIBAwMEAwEAAAAAAAAAAQIDEQQTIVESFFIxMjNxFUGRIv/aAAwDAQACEQMRAD8A3FCSqRAtUiEhKBUJudJnQPQm5ktUCoSVSoBCSqKoFQkqkzIHITM6MyB6EzMnVQKhCEBVLVIhAtUqahA5CSqKoFQhCAQhCAQhCAQhCBqQlKVE8oK7EV6izWeSWoDmMcWA7305um/Wiyjy8vH1zf0Yf2q7/tLt1eZXeB8T7ln4Wrw8FZp6rRtSz5Ji2ol0vl1eHrh+jD+1KMc3h64fow/tXNJwVzo4/jH+K/Uv5l2N34xtzql0oNDs5KIf7Vpd328Ssa7iAT101WLXeaNrxdQeAXWXvfD4LMxlnkDJs7A4gNcQyhroQRtos/nUpXURGlrjWtO9y0rlEhlWWx4gte+Z3sx/tU4vy0nbK7ub8lnLbssS4hbZIeUoHuzsaGVpmBdzv8tV6rsvmK0MD4zoRqDo5p4ELLb0e6Z4zEuNakk8OjtV9cMJjoW1HxQd++0ACpNBxXDYhxXMLQWWeRoiaxmxjHVeS6upHUrS+bURZ3E7Nlekg6eBWcMfV7j1fFXOFSLZO8b7IORaYr2dF5V2z1v+nF+1PixPbCf8X/Ti/aqFpU0G3sWr0cfxj/FHqX8yvvKS1+tP6cX7Vf4UvuSblGzOzlpZkOVrTQg1HNA4BcQSrXDU4ZI8kgCjSSdOKr8rFSMUzEQkw5LTeNy0lsidnXGRX8ZbQ6OKSsbIWE5QP8TO6upHDKvb9Ll9N3c35LGaLps6XOuZ+mS+mfZZ8k4W6X0z7LPkg6UOSgrn4r0kG3K4doKsLNeDXaeaeB+aCxQo2vTwUDgUqahA5CSqVAIQhAIQhAxy81ofQE8ASvSVWX28thcRtpQIMfxja+UtBHCp7/8ApUIVtfVle2VxMb3hxqHAE9mirjC/1UvcVtYc+OtIjbPvjvNpnSNOCORf6ub2UchJ6E3shSe5x+UfRv4WthjryTeL8x6m1PxSXhPklBfXISdQ0nnDZ1b1bYMuqaSQF8cgjaDR0jcu3cOK0FtwQEaxsPYs3mZIvfsucek1r3ZV/e8XFx/IU2S/WAaB5/IVq/k7Z/Vs9kKtvu44WxOIjYDTQgBU1hwlx23lyX0oA7KKih2An3rp7Re0dlizv57vsRhwbU/eduHUCTwXK2azzGQxQROcSal7qthZXeTvPQF2FyYUDSJJjysu4kUaz8Dd3XtQcjaTbrU/6VaDycTMwhgALGtDgRUM3aHaauO9eKyO5zv63laXiGwUhoBvWXWyzTRyOo2XboWhpFO0K5w71peZsg5FZtXss2qaDaqISWgfZlP5W/JPFotPoS+yFpe5x+VOcN/DoCU+ya8oPuBc3y9q4T+y35Lr8D3bM8vfMx4Y4ADlAGk8dOGxQ8jPS2OYiXeLFaLxMwoLBehsc73Gg5RjRzmkg0NdKK28th9z2XfNd67DtncNY29yZ5MWf1bO5ZEtBwpxsPu+w75p8eNmE/y+0PHxK7R+FrMf5bV4LZgmzvGgy+IXgrrHiaJ+0drCJB3aHwV1ZZ2SNzxua9p3tNRXh0FcTfOCXRc6OopsLNPBU9hvWeySguOtaV2NmHoP6eB2hBsNltZbodR7lbRS1XNWC0tmjbKzzXtDhXaOg9KsbJNlNDsOzoPD+ulBdApVDG5SgoFTk1KECoQhAIQhA1Meyu1PQg8UljYdrW9wURu9not7grEhJRe7Ff8A3ez0W9wSi72ei3uC99EibEEdnA3KUNTkLwNLVFNZ2vFHAOHA7FOhB5TZG6UAFNgAoApGxAKZIgidEDtoVC+xsP2W9wXrJTC5B4/oDPRb3BJ9AZ6Le4L2ZkmZe9x5RYGei3uC9EcAGxPDk4FAZUZUtU1z14Cia5qhtFtawFzjs3DUk8AN5TxMCKjYQCOooIrRECCDqCszxrdDWk0Gh1HQVpsj1w2N5MxaxoLnuNGtGpJOwBA/AD3OsYzbnuHg0nxJXSSaNrwoe41Xhw/d/wBHs8cRpmaKvI9Mmp17adi9lrNIz00aOkuIB8KnsQW1lfUL2NKrrBsCsGoHoQEIHISBKgEIQgahKkQCRKkqgEiQlRPloglqm5lz15Yss0JpmMrx9mIZ/wDNUNHeqWXHLieZCKbi6TXuDfig7rOkzrgfLGY/YjHa4/FOGLJz9mLuf+5B3nKJOUXDDE053Rey/wDcvbYb9kc4Z8gY52TQEHMWPcNp+4gvL3vRsEbnktDmscWgnznAGg71ntmxpbHtqXRg1I0jFFLje1VcddgXK3aeaev4LS4WKtombRtU5N7RMal1Yxba/SZ7AT48U2o/ab7DVzwU8G/sV7oY/jCr1b+V75TWr02+w35K6wxf8sz3slLTQNLSGhp31GnYuNK9+FpP4h/UPh81DyMOOMczEQkw5LTeImWlcqvBeF4Bg4ucaNaNrjwC8t53i2CF0jtjWk0G00GwKhuG9orV9YHVlI806FjfRaOGmp39yxphorgAk5n6u8G9A+aILUY+aQ4gebRrnCm7YE4J4XgH2p7tGtI+8/mju2+Chs9gaH8q7nyn7ZHmjg0bvevS0JtotEcQrI5rOg+cepo1QehjaqtfaBNMGs1jhJq4bHybyOIA0r0lV097PtRMVnDmRnSSU+cRvaNw6h2ncr657vEbQAKAILSysoF7GqKNimCBwQhCBQlSBKgEIQgahCRAFMc5K4rw261tjaXuNGtFSSgZeV4shYZJDla3vPQBvKze/cTS2klrSY4fQB5zx98jb1bF58QXy61SV1ETT9Wz/celeWwWF0pNKNYyhkkdXIwHZ1k7gNT3oIGhTsYabDTivQ+0xxnJZ43Tyek4Bx66ea3x60v913hPvbEDu2lBE0/1RStkHT3FOGCrU7zpne1RPGBbR613tFArZ28T3H5KyY9uSJgLS50r5coc0uDGsDQSBqNXu28FWeQto9a72le3BhMwHPJI+V1KAGmVvHr2IOYxY/nH8o8VT3ado6virrGLaPd+Ie9UV3nU9S1+BH/E/tR5P3QswpoN6gBU8KvKiQlerCbq2l/5vDIF5CpsGn+Jd08p72qHkfislw/fDrL+ut8zKg1FKZVmdsuqayyZ4swoallS014tO4rboGVC8F6XGyYbKO4rClqQ5HDGKmzARynnjQkjK4Hg9vxCtcUXrNZYGyQNbI50zIyC1rjlLHmor0tC5TEGFXNdmFWPb5sjdCOtWGFbwtc38LaGZ2xEPbOBwq0NJ/MdDwXIbZ7wvOcUaDE07y4M0/KrGxYVc85rQ90h25RzWdu8rrrJZABsXuZCAgrrBdjYwA0AAaAAUAVpHHRPaxSAIABOCQBOQCEIQKgFARVAqEIQNKaU5RuKCKV1FnGNL5MjuRaeY3zqbyuzxDa+TiJG06BZPI8uc5x3ucfEoEjjLiGtFXOIa0DeSaAeKv7TZ8zxY4jSKA/WvH8yXY9/WSKDg0Dt8WHB/FRn0C94/EyNz2+LQr/C9n5uY6l5LievZ4UQWl0XOyNoAAA9/WruKzAbk6Bi9TQgiEAThCFMEqCHkQkdFopwhBmuKbhlmLsrSdajTQrkThi1j+XTqLlur2KF0IU1Mt6xqJcWx1t9WIjDttH2T7T0vk/bfRPe5bXyARyAXfuMnlz0a+GJjDVsP8vxcuwwVhiaF5kmytJFGtaS7hUk9i70QBSsjAXNs+SY1MvYxVjvokMdApcqc0JVAkeaeyNeKOAI6UkFjYwUa0NHACi9SEDAxPASoQCVIhA4ITapaoHITapQUCoQhAtUJEIEUb1Io3oOUxi/mgLNoDp1Fw7nEfBaVjCKrQVm1Msj2dOdvU7b419oIPddNoEU8ch81sjS78FaO8CV2Fxs5OsZ2sJb0GhoCFwtFeXTe2UgP3ANzcQNlekDTsQaLC5ehrlSWO3BwBBBU9pt4Y0uOwBBa8oP6/rpCUSLMrbfkk07ZWks5AFsdDWuY1eHcQQ1unQutum9OUaCdCdoQdECiq88ctUy1WpsbS5xoAEHodIojMFlOMMRyyWgcjJLHG1gGVri0F1TVxA7O5eKyXjM5oJlmJ1/mP8Amr+LhTesW39Va/JiszGmw8uEcsFkotsvrJf1H/NTRWuQjWSX9R/zUn8fPyce7jw1YTBSsesm+kyesl/Vk+at8CXpIZJGve97a80Pc51KHdXYo8vCmlZtt3Tkxa2tNHBS1Xmjl0TjKqCymqjMvOZlBPagATuCD3Z0mdZ9fOKS94s8YoHPbV9SHDK4O0p1LprvtjnDXUga8acelBeF6Y6ReN1pFK10XDYxxaWgRWdzmOLm5pBpzQdQD8V3SnqtEObW9MbaHywScuFiJxBbPXze2VY3ffVpc2rppSQaeeeAV7+Pt5hW91Xw17lwlEwWWC9rR62X2inC9rR62T2in8fbzB7uvhqzZKqQFZbZL+tDHtcZZC1r2l7XGoLKjMKHoqtLhlqq2fj2xa3/AGmxZYyfR6EJtUKulKmFSFNKCnvyy8pGRvCyu/LI5rs7Rz2E06eLT0H5HctmkbVcfiS5a1c0VB2oOBgmD21HUQdrTvBUwUFssTo3lzajjpWvWN/v9yWG0B3Rx3j/AI7aIPfZbW+PzHEdG5eu1XrLIwsJArvA1VcFI1AWePKKbeJ4q0um2cm7nVyE86mpb94D4b1XtXos8TnuDGAuc40a0CpJQd1ZrTTQkHQEEGocDscDvBXlxJL9SVRsvFsL47I08vNnq/Iax2ZhrmZm+1rrwBrSuqsMSO+pXsDMrydWQ939d69FgPN7SvHbD9Y78XwC9V3eaetb+CNY6/plZfvl7gp4di84Xoi2KZGcSp8EO+sPTX3j5ryymjSeAPuU2DP8TrEnhyfzUHJ/FZLh++GjSW1sbcz3BoG8mipbuvmS0F5aWBgkc2MhjiSwbCau20VViwnTqUGA5KsIO6R4WFLTh1dZfTHsf8pstne4ULzQ8GgFeptFO0BcvXLnCUQeJc8xew5hUtyk8CKK9u2PUU28V65QKKW6Id/BAy97vdkLoxXTnMG3raPgsWxI/nV4OIX0Ksa/tfNkE2WD/wAoc+0tZTk2j7JdwkPAbtTtFe6Tq0S5tG405Zx8de9WV1eaev4KqidVrTxaPl8FZ3UdHdYX0UfRkzCyCcmBOXrw6lRTsWk4etOeCNx25AHfiGjvEFZsF2uD56x5fRNQOg//AEHKlzq7xxPhZ406tp1oKVRtKFkNB6EiVC5EZChliBFCvSU0hBzF64dZJUt0K469MKvaagGu5zdCtUc1QviqgxaWzWiLZzhwe3XvC8tntczpmscAxvOqGmoNAdNRVbDeNkbkcaDYdwWXXiBHLnOg51NKkk6AAb9pQe+zwlxpUNG9ztGgcV7Rai8GCw1a082e2EUc/ixnBvQO3gvLdlzy2ihlDo4t0dee/wDGdw6Au3u662saAAABoABQBBWXHcTIRoNTq5x1c48SUYs0jAXUMhouYxkNAF7Ayy0nnu6yvXdx0PYvFOecfxO/9ip7DM1takCtF9Dj1FI/TKv3mVoFPFsXkbO3iO9TstDANoXe4caktrPMd+Er04N88dcvuiVda7WwsIDhUjZQ/JWWCnAyZd4Lz2EM+Sh5H45SYvvh0OI7KXgU1/6XIQC1WYlsbD5xcHZnAGvQAtcggBGoB6wlfYmncO4LClqQyo3reHo/5pFHJel5U4dr1qxsDeA7lBPYGkHQbDuXIxyXENva8B8jg0uDTRzgRU0qttw7NmjY70o2nvAWS4rsWUvIGzUdi6mwXrM6JkENWZWhskm8dDexB0WJ7/cwmz2UjlyPrJdrYAeG4v4DdtPA5Jft08m5+0udUuc4lznONaucTqSeK0677sDR4knUknaSd5XP4vsVDWm0FewM+sfmAcCR8fira6j535fiqqEZcwPEfEfBWd2GhNSNQKahfQ4p3SJZV47ytAnKMOHEJweOIXbhICuiwhPSQt4g+FCB4vXNZxxCsLktYZMw1Gr2Adbjk9zios9fVjmHeKdXiWnNdohRs2BCwWmsEIQuXQSJUIGEJCFIkog8lps+dpbsqqmPDcLdS3O/c52tOobl0FEhCCthsQbsC9bYqKbKlogjyKlvy6nTUy004q+okLUGY23A8hcSDSu4HReXyGl9I961R0aYYVJGW3mXPojwy3yGl9LxR5DS+l4rUeRS8iverfzLz0Qy9mBZT9sjtXU4dwwyza1L3na53DgF1HJBPbGvJyWntuXsUiDI46KTKngJaKN0iLEx0anoiiDl7ZhdkzyZfMP2RtPRVeqy3OyPRooBsV7RJlQeNkFFVX7dJmHNAK6HKgtQZTbMEy5iWc2upGm3uXm8i7RxPh8lrbo0wwBSxlvHbcuJx1n+mTeRlo4nw+SXyMtHE+HyWr8gEcgF71r/ACl506+GUjBlo4+75LpcN4TELhJIeUkGragAMPEdK7IQhSMjXk5b+Zexjr4MazRCnyoUe3ekqROQvA1CUpEAhCEAhCECISoQIiiVCBtEhanoQMoiiehA2iKJyECISoQIhKhAiKJUIG0RROQgbRIQnoQMoiiehAwNS0TkICiRKhA5CEIBCEIGoQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhB/9k=" alt="inLine" /><figcaption aria-hidden="true">inLine</figcaption>
+</figure>
+<table style="width:6%;">
+<colgroup>
+<col style="width: 5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>## K-K principle</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>## Kp -&gt; KKp</td>
+</tr>
+<tr class="even">
+<td>This is impossible</td>
+</tr>
+</tbody>
+</table>
+<h2 id="kp---kkp">Kp -&gt; KKp</h2>
+<p>This is impossible</p>
+<figure>
+<img data-src="data:image/jpeg;base64,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" alt="inLine" /><figcaption aria-hidden="true">inLine</figcaption>
+</figure>
+<table style="width:6%;">
+<colgroup>
+<col style="width: 5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>## Reliabilism vs. scepticism</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>### Method</td>
+</tr>
+<tr class="even">
+<td>Bird (pg. 145)</td>
+</tr>
+<tr class="odd">
+<td>“On the reliabilist account, the method by which I acquire my beliefs must be reliable, in order that they should count as knowledge; but it is not necessary that I should know that it is reliable.”</td>
+</tr>
+</tbody>
+</table>
+<h2 id="method-1">Method</h2>
+<ul>
+<li>Reliabilism requires that an investigator use a reliable method to acquire knowledge.</li>
+<li>She does not need to <em>know</em> that the method is reliable.</li>
+<li>So what does it mean for a method to be “reliable”?</li>
+</ul>
+<table style="width:6%;">
+<colgroup>
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>## Reliabilism 1.0 N knows that p if and only if - N believes that <em>p</em>; - it is true that <em>p</em>; and - N’s belief that <em>p</em> was acquired by a reliable method</td>
+</tr>
+</tbody>
+</table>
+<h2 id="reliabilism-2.0">Reliabilism 2.0</h2>
+<p>N knows that p if and only if - N believes that p; - it is true that p; and - N’s belief that p rests on a reliable method such that the explanation of the general reliability of the method also explains its success on this occasion.</p>
+</section>
+<section class="slide level1">
+
+<h2 id="section"></h2>
+<p>Why does Bird say that beliefs acquired by a reliable method count as knowledge, but only if the method was not chosen at random?</p>
+</section>
+<section class="slide level1">
+
+<h2 id="reliabilism-in-plain-english-sort-of">Reliabilism in plain English (sort of)</h2>
+<p>You know something if the reason that you think something is true is because you used a reliable method to come to that conclusion, and the reason the method worked in this case is the same reason that it usually works.</p>
+</section>
+<section class="slide level1">
+
+<h2 id="what-has-reliabilism-ever-done-for-us">What has reliabilism ever done for us?</h2>
+<ul>
+<li>It allows us to do science without worrying about whether it is possible to ever acquire knowledge</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<h2 id="what-has-reliabilism-ever-done-for-us-1">What has reliabilism ever done for us?</h2>
+<ul>
+<li>It allows us to do science without worrying about whether it is possible to ever acquire knowledge</li>
+<li>It allows us to do science without fully understanding the methods we use</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<h2 id="what-has-reliabilism-ever-done-for-us-2">What has reliabilism ever done for us?</h2>
+<ul>
+<li>It allows us to do science without worrying about whether it is possible to ever acquire knowledge</li>
+<li>It allows us to do science without fully understanding the methods we use</li>
+<li>It allows for the possibility of data-driven science</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<h2 id="conclusion">Conclusion</h2>
+<h2 id="conclusion-deduction"><del>Conclusion</del> Deduction</h2>
+<ol type="1">
+<li>Science is the acquisition of new knowledge</li>
+</ol>
+<table style="width:6%;">
+<colgroup>
+<col style="width: 5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>## <del>Conclusion</del> Deduction</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>## <del>Conclusion</del> Deduction</td>
+</tr>
+<tr class="even">
+<td>1. Science is the acquisition of new knowledge 2. It is possible to acquire new knowledge</td>
+</tr>
+<tr class="odd">
+<td>∴ Science is possible</td>
+</tr>
+</tbody>
+</table>
+<h2 id="for-next-time">For next time</h2>
+<ol type="1">
+<li>Read Thomas Kuhn: “Normal Science as puzzle-solving”</li>
+<li>Answer the questions</li>
+<li>If you have an extra 30 minutes, listen to the podcast on Popper and Kuhn</li>
+</ol>
+<p>Also next time, I will hand out your assignment for pre-test 2 on the box project.</p>
+<p><img data-src="data:image/png;base64,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" /></p>
+</section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js//dist/reveal.js"></script>
+
+  <!-- reveal.js plugins -->
+  <script src="https://unpkg.com/reveal.js//plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js//plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js//plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: false,
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: false,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: false,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'default',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'slide',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>
