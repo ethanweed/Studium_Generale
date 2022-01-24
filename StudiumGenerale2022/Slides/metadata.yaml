@@ -1,5 +1,5 @@
 ---
-progress: "h/v"
+progress: true
 slideNumber: true
 center: true
 previewLinks: false
