@@ -341,7 +341,7 @@ The realization that natural science is not indubitable epistēmē (scientia) 
 :::: {.col}
 
 ```
-Those among us who are unwilling to expose their ideas to the hazards of refutation \_do not take part in the game of science\_
+Those among us who are unwilling to expose their ideas to the hazards of refutation do not take part in the game of science
 -Popper, quoted in Dienes, 2008; pg. 12)
 
 
