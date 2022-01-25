@@ -518,13 +518,10 @@ Piltdown Man
 
 
 
-::: {.container}
-:::: {.col}
 
-<img src="https://jacksadventuresinmuseumland.files.wordpress.com/2014/04/dawson-sketch-of-pitldown-gravel-bed-section_114208_1.jpg" width="500"/>
 
-::::
-:::
+<img src="https://jacksadventuresinmuseumland.files.wordpress.com/2014/04/dawson-sketch-of-pitldown-gravel-bed-section_114208_1.jpg" width="500" class="center"s/>
+
 
 
 
