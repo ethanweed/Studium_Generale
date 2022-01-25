@@ -507,6 +507,10 @@ Dawson and Stapel: Telling us what we want to hear.
 
 <font size = 2>
 
+<style type="text/css">
+p { text-align: left; }
+</style>
+
 [Bhattacharjee, Yudhijit. "The mind of a con man." _The New York Times_ 28 (2013).](https://www.nytimes.com/2013/04/28/magazine/diederik-stapels-audacious-academic-fraud.html)
 
 Comte, A., 1858. _Positive philosophy_. C. Blanchard.
