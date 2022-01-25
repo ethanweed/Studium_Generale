@@ -549,6 +549,8 @@ The harm done by hoaxes and manipulation
 
 <img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg" width="500"/>
 
+From a [creationist pinterest board](https://www.pinterest.com/pin/30962316171839676/)
+
 ::::
 :::: {.col}
 
