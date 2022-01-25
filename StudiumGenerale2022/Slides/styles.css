@@ -8,6 +8,7 @@
 
 .col {
   flex: 1;
+  border: 12px solid #B22222;
 }
 </style>
 
