@@ -1,11 +1,9 @@
 
+
+
 <style type="text/css">
-.reveal .slide h1 { font-size: 200%; text-decoration: underline; }
+p { text-align: left; }
 </style>
-
-
-
-
 
 <style>
 .container{
