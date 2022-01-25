@@ -230,7 +230,7 @@ David Hume (1711-1776)
 ::: {.container}
 :::: {.col}
 
-<img src="https://en.wikipedia.org/wiki/File:Painting_of_David_Hume.jpg" width=""/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg" width="500"/>
 
 ::::
 :::: {.col}
@@ -257,7 +257,7 @@ Bertrand Russell (1872-1970)
 ::: {.container}
 :::: {.col}
 
-CONTENT
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg" width="500"/>
 
 ::::
 :::: {.col}
@@ -283,7 +283,7 @@ Karl Popper (1902-1994)
 ::: {.container}
 :::: {.col}
 
-<img src="https://en.wikipedia.org/wiki/File:Karl_Popper.jpg" width=""/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width="500"/>
 
 ::::
 :::: {.col}
