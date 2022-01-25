@@ -293,6 +293,20 @@ Karl Popper (1902-1994)
 
 We don’t need to work out how induction can be valid. Just because induction can never prove a theory right, doesn't mean that we can't use it to prove a theory *wrong*.
 
+
+
+::: {.container}
+:::: {.col}
+
+CONTENT
+
+::::
+:::: {.col}
+
+CONTENT
+
+::::
+:::
 ::::
 :::
 
@@ -334,7 +348,27 @@ The realization that natural science is not indubitable epistēmē (scientia) 
 ## Karl Popper and Demarcation
 
 
-“Those among us who are unwilling to expose their ideas to the hazards of refutation do not take part in the game of science” (Popper, quoted in Dienes, 2008; pg. 12)
+
+
+::: {.container}
+:::: {.col}
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width="350"/>
+
+::::
+:::: {.col}
+
+```
+Those among us who are unwilling to expose their ideas to the hazards of refutation do not take part in the game of science 
+-Popper, quoted in Dienes, 2008; pg. 12)
+
+
+```
+
+::::
+:::
+
+
 
 
   
