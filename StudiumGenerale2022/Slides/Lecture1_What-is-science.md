@@ -291,10 +291,7 @@ Karl Popper (1902-1994)
 ::::
 :::: {.col}
 
-We don’t need to work out how induction can be valid. 
-
-- Let’s accept that induction can never prove that a theory is right 
-- That doesn’t mean we can’t use evidence to prove that a theory is *wrong*
+We don’t need to work out how induction can be valid. Just because induction can never prove a theory right, doesn't mean that we can't use it to prove a theory *wrong*.
 
 ::::
 :::
