@@ -125,13 +125,31 @@ Introduction to:
 
 ### What is science?
 
+
+
+
+::: {.container}
+:::: {.col}
+
 The attempt to understand, explain, and predict the world.
+
+::::
+:::: {.col}
+
+Compare with: 
 
 - Religion
 - Mythology
 - Astrology
 - Divination
 - History
+
+::::
+:::
+
+
+
+
 
 ---
 
