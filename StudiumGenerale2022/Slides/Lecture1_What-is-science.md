@@ -60,7 +60,7 @@ the term universitas in the medieval context was the term for a guild or a corpo
 
 ::::
 :::: {.col}
-‎
+
 - Theology
 - Law
 - Medicine
@@ -435,6 +435,7 @@ How many of our own opinions are based on untested theories built on shaky backg
 ---
 
 ### Scientific Hoaxes and Data Manipulation
+Piltdown Man
 
 <img src="https://jacksadventuresinmuseumland.files.wordpress.com/2014/04/dawson-sketch-of-pitldown-gravel-bed-section_114208_1.jpg" width="500"/>
 
@@ -442,18 +443,51 @@ How many of our own opinions are based on untested theories built on shaky backg
 ---
 
 ### Scientific Hoaxes and Data Manipulation
+Piltdown Man
 
+<img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pixies/2012/2/2/1328191124911/Piltdown-gang-001.jpg?width=300&quality=85&auto=format&fit=max&s=b73ff650c937be0fa3dfb90596cae7ca" width="500"/>
+
+
+
+---
+
+### Scientific Hoaxes and Data Manipulation
+Piltdown Man
 <img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg" width="500"/>
 
----
 
 
 
 ---
+
+
+### Scientific Hoaxes and Data Manipulation
+
+
+
+
+::: {.container}
+:::: {.col}
+
+<img src="http://graphics8.nytimes.com/images/2013/04/28/magazine/28stapel1/28stapel1-superJumbo-v5.jpg" width=""/>
+
+::::
+:::: {.col}
+
+CONTENT
+
+::::
+:::
+
+
+---
+
 
 ### References
 
 <font size = 2>
+
+[Bhattacharjee, Yudhijit. "The mind of a con man." _The New York Times_ 28 (2013).](https://www.nytimes.com/2013/04/28/magazine/diederik-stapels-audacious-academic-fraud.html)
 
 Comte, A., 1858. _Positive philosophy_. C. Blanchard.
 
@@ -468,6 +502,5 @@ Mirsky, Steve. 2014. ‘Copy that: technology is making it harder for word thiev
 Okasha, Samir. 2002. _Philosophy of science: a very short introduction_. Oxford: Oxford University Press.
 
 Principe, Lawrence M. 2011. _The scientific revolution: a very short introduction_. Oxford: Oxford University Press.
-
 
 
