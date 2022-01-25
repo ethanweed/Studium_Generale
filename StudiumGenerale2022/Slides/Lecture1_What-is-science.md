@@ -469,12 +469,12 @@ Piltdown Man
 ::: {.container}
 :::: {.col}
 
-<img src="http://graphics8.nytimes.com/images/2013/04/28/magazine/28stapel1/28stapel1-superJumbo-v5.jpg" width=""/>
+<img src="http://graphics8.nytimes.com/images/2013/04/28/magazine/28stapel1/28stapel1-superJumbo-v5.jpg" width="500"/>
 
 ::::
 :::: {.col}
 
-CONTENT
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Stapell-article-screenshot.png" width="500"/>
 
 ::::
 :::
