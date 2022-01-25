@@ -453,6 +453,7 @@ Piltdown Man
 
 ### Scientific Hoaxes and Data Manipulation
 Piltdown Man
+
 <img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg" width="500"/>
 
 
@@ -462,7 +463,7 @@ Piltdown Man
 
 
 ### Scientific Hoaxes and Data Manipulation
-
+Diederik Stapel
 
 
 
@@ -478,6 +479,23 @@ Piltdown Man
 
 ::::
 :::
+
+
+---
+
+### Scientific Hoaxes and Data Manipulation
+Dawson and Stapel: Telling us what we want to hear.
+
+```
+
+ 
+
+“I didn’t do strange stuff, I never said let’s do an experiment to show that the earth is flat,” he said. “I always checked — this may be by a cunning manipulative mind — that the experiment was reasonable, that it followed from the research that had come before, that it was just this extra step that everybody was waiting for.” He always read the research literature extensively to generate his hypotheses. “So that it was believable and could be argued that this was the only logical thing you would find,” he said. “Everybody wants you to be novel and creative, but you also need to be truthful and likely. You need to be able to say that this is completely new and exciting, but it’s very likely given what we know so far.”
+
+-Stapel, quoted in Bhattacharjee (2013)
+
+
+```
 
 
 ---
@@ -503,4 +521,5 @@ Okasha, Samir. 2002. _Philosophy of science: a very short introduction_. Oxford:
 
 Principe, Lawrence M. 2011. _The scientific revolution: a very short introduction_. Oxford: Oxford University Press.
 
+Stapel, D.A. and Blanton, H., 2004. From seeing to being: subliminal social comparisons affect implicit and explicit self-evaluations. _Journal of personality and social psychology_, _87_(4), p.468.
 
