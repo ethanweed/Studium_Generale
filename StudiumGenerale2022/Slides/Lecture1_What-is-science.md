@@ -481,6 +481,7 @@ In one sense, Newtonian physics is “wrong”, because it doesn’t explain eve
 
 
 ---
+
 ### Using Popper to critique a paper
 
 #### A test that is severe
