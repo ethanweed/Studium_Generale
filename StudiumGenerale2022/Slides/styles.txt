@@ -1,10 +1,5 @@
 
 
-
-<style type="text/css">
-p { text-align: left; }
-</style>
-
 <style>
 .container{
   display: flex;
