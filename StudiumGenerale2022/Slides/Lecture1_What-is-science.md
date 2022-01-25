@@ -382,6 +382,7 @@ Those among us who are unwilling to expose their ideas to the hazards of refutat
 Accepting any observation statement involves accepting layers of theory supporting the theory being tested
 
 ---
+
 ## Background knowledge
 
 - Popper: at a certain level, we just have to accept some information as “background knowledge”
