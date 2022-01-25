@@ -316,7 +316,7 @@ There is only one way to advance human understanding: _critical discussion_
 
 The realization that natural science is not indubitable epistēmē (scientia) has led to the view that it is technē(technique, art, technology); but the proper view, I believe, is that it consists of doxai (opinions, conjectures),controlled by critical discussion as well as by experimental technē
 
-- Popper () pg. 102
+- Popper (1962) pg. 102
 
 ```
 
