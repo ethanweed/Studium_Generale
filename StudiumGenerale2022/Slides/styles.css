@@ -10,7 +10,8 @@
   flex: 1;
   border: 1px solid #000000;
   border-radius: 10px;
-  padding: 20px 25px; 
+  padding: 20px 25px;
+  margin-left: 5px
 }
 </style>
 
