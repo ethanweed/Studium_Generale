@@ -6,7 +6,7 @@
 
 ---------------------------------------- 
 
-### "Studium Generale"
+**Studium Generale**
 
 
 A place where people can come to study.
