@@ -402,32 +402,44 @@ Lakatos: “In the history of science, all theories have been born falsified” 
 
 ### All theories are falsified anyway
 
+::: incremental
+
 - Many theories that were widely accepted at the time seem ridiculous today
 	- Phrenology
 	- Phlogiston
+
+:::
+
+
 
 ---
 
 ### All theories are falsified anyway
 
+::: incremental
+
 - Many theories that are currently accepted are actually countered by evidence
 	- Newtonian physics could not explain Mercury’s path in the sky
 	- Einstein’s theory of relativity eventually explained Mercury’s behavior, by resorting to explanations outside of Newton’s explanatory framework
 	
+:::
+
+
 
 ---
 
 ### Even theories that are wrong, can still be ~~right~~ useful
 
 #### Newtonian physics
-In one sense, Newtonian physics is “wrong”, because it doesn’t explain everything, but even now we do not reject it entirely. In fact, we
-use it all the time.
+
+In one sense, Newtonian physics is “wrong”, because it doesn’t explain everything, but even now we do not reject it entirely. In fact, we use it all the time.
 
 ---
 
 ### Even theories that are wrong, can still be ~~right~~ useful
 
 #### Linguistic relativity
+
 - In its strong sense has been rejected
 - But in a weaker sense, it is very tenacious
 
@@ -435,9 +447,14 @@ use it all the time.
 
 ### Good science (according to Popper) needs:
 
+::: incremental
+
 1. A substantial theory
 1. Solid background information
 1. A severe test
+
+:::
+
 
 ---
 
@@ -452,10 +469,16 @@ use it all the time.
 ### Using Popper to critique a paper
 
 #### Solid background information
+
+::: incremental
+
 - What are the auxiliary assumptions?
 - How reliable are they?
 - How do we evaluate their reliablity?
 - We cannot exhaustively test all of these every time, but we should do as much as possible to identify the auxiliaries decide whether they are safe
+
+:::
+
 
 ---
 ### Using Popper to critique a paper
