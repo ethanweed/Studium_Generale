@@ -1,6 +1,5 @@
 
 
-<style>
 .container{
   display: flex;
       align-items: flex-start;
@@ -9,5 +8,5 @@
 .col {
   flex: 1;
 }
-</style>
+
 
