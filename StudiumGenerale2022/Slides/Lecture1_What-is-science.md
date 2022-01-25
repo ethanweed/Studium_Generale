@@ -313,7 +313,7 @@ There is only one way to advance human understanding: _critical discussion_
 ::: {.container}
 :::: {.col}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width="400"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width="350"/>
 
 ::::
 :::: {.col}
