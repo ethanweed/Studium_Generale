@@ -389,6 +389,7 @@ Accepting any observation statement involves accepting layers of theory supporti
 - That doesn’t mean that these theories couldn’t also be tested and falsified
 - But it shouldn’t stop us from trying to falsify “our” theories
 
+
 ---
 
 ### All theories are falsified anyway
@@ -410,6 +411,7 @@ Lakatos: “In the history of science, all theories have been born falsified” 
 - Many theories that are currently accepted are actually countered by evidence
 	- Newtonian physics could not explain Mercury’s path in the sky
 	- Einstein’s theory of relativity eventually explained Mercury’s behavior, by resorting to explanations outside of Newton’s explanatory framework
+	
 
 ---
 
