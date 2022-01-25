@@ -218,8 +218,9 @@ Peer-reviewed publications
 
 ### Science as induction
 
-Deduction: If the premises are correct, the conclusion is _certain_
-Induction: If the premises are correct, the conclusion in _probable_
+**Deduction**: If the premises are correct, the conclusion is _certain_  
+
+**Induction**: If the premises are correct, the conclusion in _probable_
 
 ---
 
