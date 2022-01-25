@@ -212,13 +212,11 @@ Peer-reviewed publications
 
 ---
 
-## Karl Popper and Demarcation
+### Science as induction
 
+Deduction: If the premises are correct, the conclusion is _certain_
+Induction: If the premises are correct, the conclusion in _probable_
 
-“Those among us who are unwilling to expose their ideas to the hazards of refutation do not take part in the game of science” (Popper, quoted in Dienes, 2008; pg. 12)
-
-
-  
 ---
 
 ### Induction: Hume’s problem
@@ -230,7 +228,7 @@ David Hume (1711-1776)
 ::: {.container}
 :::: {.col}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg" width="400"/>
 
 ::::
 :::: {.col}
@@ -257,7 +255,7 @@ Bertrand Russell (1872-1970)
 ::: {.container}
 :::: {.col}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg" width="400"/>
 
 ::::
 :::: {.col}
@@ -283,7 +281,7 @@ Karl Popper (1902-1994)
 ::: {.container}
 :::: {.col}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width="400"/>
 
 ::::
 :::: {.col}
@@ -305,6 +303,16 @@ We don’t need to work out how induction can be valid.
 There is only one way to advance human understanding: _critical discussion_
 
 ---
+
+## Karl Popper and Demarcation
+
+
+“Those among us who are unwilling to expose their ideas to the hazards of refutation do not take part in the game of science” (Popper, quoted in Dienes, 2008; pg. 12)
+
+
+  
+---
+
 
 ### Demarcation
 - Science vs pseudoscience
