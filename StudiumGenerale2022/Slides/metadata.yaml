@@ -5,5 +5,4 @@ center: true
 previewLinks: false
 transition: 'none'
 hash: true
-incremental: true
 ---
