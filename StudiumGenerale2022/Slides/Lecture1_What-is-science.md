@@ -279,10 +279,6 @@ If we don’t figure out how induction could be valid there is no way to decide 
 Karl Popper (1902-1994)
 
 
-
-
-
-
 ::: {.container}
 :::: {.col}
 
@@ -293,7 +289,8 @@ Karl Popper (1902-1994)
 
 We don’t need to work out how induction can be valid. Just because induction can never prove a theory right, doesn't mean that we can't use it to prove a theory *wrong*.
 
-
+::::
+:::
 
 
 
