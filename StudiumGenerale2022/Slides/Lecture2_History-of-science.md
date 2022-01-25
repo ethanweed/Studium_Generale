@@ -4,7 +4,7 @@
 
 ## Review from last time: 
 
-### What is science?
+What is science?
 
 ---
 
