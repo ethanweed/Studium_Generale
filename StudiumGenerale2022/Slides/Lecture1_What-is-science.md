@@ -6,13 +6,7 @@
 
 ---------------------------------------- 
 
-**Studium Generale**
-
-
-A place where people can come to study.
-
----
-
+### Studium Generale
 
 ```
  
@@ -24,7 +18,7 @@ The term studium generale, or studium was used to designate universities early o
 ```
 ---
 
-### "Universitas" -> "University"
+### "Universitas"
 
 - Whole
 - Community
@@ -114,29 +108,13 @@ Designed to give an introduction to scientific and humanistic reasoning, praxis,
 
 ### Goals
 
-   
+Introduction to:
 
-- Provide an introduction to scientific reasoning, praxis, and culture
-- Discuss the relationship of humanities and science
-- Outline some of the major ideas in the philosophy of science
-- Position linguistics within the architecture of scientific thought and culture, including nearby disciplines such as anthropology, archaeology, psychology, sociology, and cognitive science
-- Give you a basis in significant writings by linguists of the twentieth century (mainly)
-
-
----
-
-### Organization of course
-
-
----
-
-
-
----
-
-### What is science?
-
-Talk amongst yourselves
+- Scientific reasoning, praxis, and culture
+- The relationship of humanities and science
+- Major ideas in the philosophy of science
+- Linguistics in relation to other subjects
+- Classic texts in linguistics
 
 
 ---
@@ -164,6 +142,9 @@ The attempt to understand, explain, and predict the world.
 
 ### Experimentation & data collection
 
+- Historians collect data
+- Historians develop theories
+- They can't really do experiments
 
 
 ---
@@ -242,57 +223,80 @@ Peer-reviewed publications
 
 ### Induction: Hume’s problem
 
+David Hume (1711-1776)
 
 
----
 
-### Induction: Hume’s problem
+::: {.container}
+:::: {.col}
 
+<img src="https://en.wikipedia.org/wiki/File:Painting_of_David_Hume.jpg" width=""/>
 
-There is *no* amount of evidence that will ever be enough for us to justify believing a theory without a shadow of a doubt.
-
-- The sun will come up tomorrow
-
-
----
-
-### Induction: Hume’s problem
-
-Hume’s problem
+::::
+:::: {.col}
 
 There is *no* amount of evidence that will ever be enough for us to justify believing a theory without a shadow of a doubt.
 
-- The sun will come up tomorrow
-- I will get up tomorrow
 
----
 
-### Induction: Hume’s problem
+::::
+:::
 
-Hume’s problem
 
-There is *no* amount of evidence that will ever be enough for us to justify believing a theory without a shadow of a doubt.
 
-- The sun will come up tomorrow
-- I will get up tomorrow
-- My kids will always fight with each other
 
 ---
 
 ### Induction
 
-Bertrand Russel father of logical positivism:
+Bertrand Russell (1872-1970)
+
+
+
+
+::: {.container}
+:::: {.col}
+
+CONTENT
+
+::::
+:::: {.col}
 
 If we don’t figure out how induction could be valid there is no way to decide between good scientific theory and “the mere obsession of a madman”
 
+::::
+:::
+
+
+
 ---
 
 ### Induction
 
-Popper: we don’t need to work out how induction can be valid. 
+Karl Popper (1902-1994)
+
+
+
+
+
+
+::: {.container}
+:::: {.col}
+
+<img src="https://en.wikipedia.org/wiki/File:Karl_Popper.jpg" width=""/>
+
+::::
+:::: {.col}
+
+We don’t need to work out how induction can be valid. 
 
 - Let’s accept that induction can never prove that a theory is right 
 - That doesn’t mean we can’t use evidence to prove that a theory is *wrong*
+
+::::
+:::
+
+
 
 ---
 
