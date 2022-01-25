@@ -121,6 +121,10 @@ Introduction to:
 
 ### What is science?
 
+---
+
+### What is science?
+
 The attempt to understand, explain, and predict the world.
 
 - Religion
@@ -302,6 +306,31 @@ We don’t need to work out how induction can be valid.
 
 There is only one way to advance human understanding: _critical discussion_
 
+
+
+
+::: {.container}
+:::: {.col}
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width="400"/>
+
+::::
+:::: {.col}
+
+
+```
+
+The realization that natural science is not indubitable epistēmē (scientia) has led to the view that it is technē(technique, art, technology); but the proper view, I believe, is that it consists of doxai (opinions, conjectures),controlled by critical discussion as well as by experimental technē
+
+- Popper () pg. 102
+
+```
+
+
+::::
+:::
+
+
 ---
 
 ## Karl Popper and Demarcation
@@ -329,15 +358,6 @@ There is only one way to advance human understanding: _critical discussion_
 
 ## Criticisms of Popper
 
----
-## Criticisms of Popper
-
-- No theory is falsifiable
-
----
-
-## Criticisms of Popper
-
 - No theory is falsifiable
 - All theories are already falsified anyway
 
@@ -345,7 +365,7 @@ There is only one way to advance human understanding: _critical discussion_
 
 ## No theory is falsifiable
 
-Accepting an observation statement involves accepting layers of theory supporting the theory being tested
+Accepting any observation statement involves accepting layers of theory supporting the theory being tested
 
 ---
 ## Background knowledge
@@ -404,7 +424,7 @@ use it all the time.
 
 ### Using Popper to critique a paper
 
-### Is there a substantial theory?
+#### Is there a substantial theory?
 - A theory from which several predictions follow
 - A theory that says both what should happen and what should *not* happen
 
@@ -412,7 +432,7 @@ use it all the time.
 
 ### Using Popper to critique a paper
 
-### Solid background information
+#### Solid background information
 - What are the auxiliary assumptions?
 - How reliable are they?
 - How do we evaluate their reliablity?
@@ -421,7 +441,7 @@ use it all the time.
 ---
 ### Using Popper to critique a paper
 
-### A test that is severe
+#### A test that is severe
 
 - A test should make a theory stick its neck out
 - A severe test is one in which the predicted outcome is likely given the theory and unlikely given the rest of the background knowledge
@@ -444,7 +464,7 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ---
 
-
+### Scientific Hoaxes and Data Manipulation
 
 ---
 
@@ -536,6 +556,8 @@ Dienes, Z., 2008. _Understanding psychology as a science: An introduction to sci
 Mirsky, Steve. 2014. ‘Copy that: technology is making it harder for word thieves to earn outrageous fortunes.’ Scientific American 310 (2): 64
 
 Okasha, Samir. 2002. _Philosophy of science: a very short introduction_. Oxford: Oxford University Press.
+
+Popper, K.R., 1962. Conjectures and Refutations: Falsifiability, Testability, Operationalism. _Conjectures and Refutations: The Growth of Scientific Knowledge. New York: Basic Books_.
 
 Principe, Lawrence M. 2011. _The scientific revolution: a very short introduction_. Oxford: Oxford University Press.
 
