@@ -517,25 +517,34 @@ Piltdown Man
 
 
 
+::: {.container}
+:::: {.col}
+
 <img src="https://jacksadventuresinmuseumland.files.wordpress.com/2014/04/dawson-sketch-of-pitldown-gravel-bed-section_114208_1.jpg" width="500" />
 
-
-
-
-
----
-
-### Scientific Hoaxes and Data Manipulation
-Piltdown Man
+::::
+:::: {.col}
 
 <img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pixies/2012/2/2/1328191124911/Piltdown-gang-001.jpg?width=300&quality=85&auto=format&fit=max&s=b73ff650c937be0fa3dfb90596cae7ca" width="500"/>
 
+::::
+:::
+
+
+
+
+
+
+
+
+---
+
 
 
 ---
 
 ### Scientific Hoaxes and Data Manipulation
-Piltdown Man
+The harm done by hoaxes and manipulation
 
 <img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg" width="500"/>
 
@@ -583,6 +592,26 @@ Dawson and Stapel: Telling us what we want to hear.
 
 ---
 
+### Data manipulation: a silver lining?
+
+
+
+
+::: {.container}
+:::: {.col}
+
+<img src="https://mfr.osf.io/export?url=https://osf.io/4sxkd/?direct%26mode=render%26action=download%26public_file=True&initialWidth=768&childId=mfrIframe&parentTitle=OSF+%7C+osf_dark.png&parentUrl=https://osf.io/4sxkd/&format=2400x2400.jpeg" width="350"/>
+
+::::
+:::: {.col}
+
+- Open Science
+- Data sharing
+
+::::
+:::
+
+---
 
 ### References
 
