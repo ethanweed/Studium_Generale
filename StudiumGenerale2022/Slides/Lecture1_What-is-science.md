@@ -615,7 +615,7 @@ Dawson and Stapel: Telling us what we want to hear.
 ::: {.container}
 :::: {.col}
 
-<img src="https://mfr.osf.io/export?url=https://osf.io/4sxkd/?direct%26mode=render%26action=download%26public_file=True&initialWidth=768&childId=mfrIframe&parentTitle=OSF+%7C+osf_dark.png&parentUrl=https://osf.io/4sxkd/&format=2400x2400.jpeg" width="350"/>
+<img src="https://mfr.osf.io/export?url=https://osf.io/4sxkd/?direct%26mode=render%26action=download%26public_file=True&initialWidth=768&childId=mfrIframe&parentTitle=OSF+%7C+osf_dark.png&parentUrl=https://osf.io/4sxkd/&format=2400x2400.jpeg" width="500"/>
 
 ::::
 :::: {.col}
