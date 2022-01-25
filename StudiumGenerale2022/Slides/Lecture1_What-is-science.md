@@ -295,21 +295,6 @@ We don’t need to work out how induction can be valid. Just because induction c
 
 
 
-::: {.container}
-:::: {.col}
-
-CONTENT
-
-::::
-:::: {.col}
-
-CONTENT
-
-::::
-:::
-::::
-:::
-
 
 
 ---
