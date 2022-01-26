@@ -577,7 +577,7 @@ The harm done by hoaxes and manipulation
 ::::: {.img}
 
 
-<img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg" width = "400"/>
+<img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg">
 
 :::::
 ::::
@@ -600,7 +600,7 @@ Diederik Stapel
 ::: {.container}
 :::: {.col}
 
-<img src="http://graphics8.nytimes.com/images/2013/04/28/magazine/28stapel1/28stapel1-superJumbo-v5.jpg" width="500/>
+<img src="http://graphics8.nytimes.com/images/2013/04/28/magazine/28stapel1/28stapel1-superJumbo-v5.jpg" width="500"/>
 
 ::::
 :::: {.col}
