@@ -17,9 +17,13 @@
   max-height: calc(100vh - 150px);
 }
 
-img{
-  flex: 1 1 calc(25% 10px);
-  margin: 5px;
+
+img {
+  /* this will make the image stretch and no overflow*/
+  height:0;
+  min-height:100%;
+  /**/
 }
+
 </style>
 
