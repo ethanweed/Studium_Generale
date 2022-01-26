@@ -433,8 +433,8 @@ Phlogiston
 ### Even things we do "believe" are "wrong"
 
 <div id = "left_border">
-- Newtonian physics can't explain Mercury’s path in the sky
-- Einstein’s theory of relativity eventually explained Mercury’s behavior, by resorting to explanations outside of Newton’s explanatory framework
+- Newtonian physics cannot entirely explain Mercury's orbit
+- The orbit can be better explained by taking into account the _curvature_ of space and time
 </div>	
 
 <div id = "right_border">
