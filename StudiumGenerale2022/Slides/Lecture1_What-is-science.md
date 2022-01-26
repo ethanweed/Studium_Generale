@@ -355,7 +355,9 @@ The realization that natural science is not indubitable epistēmē (scientia) 
 
 
 ::: {.container}
-:::: {.col<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" height = "400"/>
+:::: {.col
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" height = "400"/>
 
 ::::
 :::: {.col}
