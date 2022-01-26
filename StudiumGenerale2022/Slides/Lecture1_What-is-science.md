@@ -474,9 +474,10 @@ Chien-shiung Wu
 ---
 
 <div id = "left">
+:::incremental
 
 *Linguistic relativity*
-:::incremental
+
 - In its strong sense has been rejected
 - But in a weaker sense, it is very tenacious
 :::
