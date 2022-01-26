@@ -1,4 +1,4 @@
-
+ 
 
 
 ## Studium General
@@ -21,7 +21,7 @@ The term studium generale, or studium was used to designate universities early o
 
 - Whole
 - Community
-- Sum
+- Sum   
 - Collective
 
 ---

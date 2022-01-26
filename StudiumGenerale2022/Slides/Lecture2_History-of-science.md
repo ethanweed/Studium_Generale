@@ -4,18 +4,12 @@
 
 ## Review from last time: 
 
-What is science?
+<div id = "left">
 
----
+- What is science?
+- What was Popper's major contribution to the Philosophy of Science?
+- Why are scientific hoaxs, fraud, and plagiarism harmful?
 
-
-<div id="left">
-
-## Left column
-- Bullet 1
-- Bullet 2
-- Bullet 3 
-- Even [links](https://www.google.com)
 
 </div>
 
@@ -25,3 +19,5 @@ What is science?
 
 
 </div>
+---
+
