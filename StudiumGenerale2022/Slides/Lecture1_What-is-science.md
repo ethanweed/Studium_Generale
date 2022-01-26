@@ -514,8 +514,7 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ---
 
-### Scientific Hoaxes and Data Manipulation
-Piltdown Man
+### Piltdown Man
 
 
 
@@ -535,8 +534,7 @@ Piltdown Man
 
 ---
 
-### Scientific Hoaxes and Data Manipulation
-The harm done by hoaxes and manipulation
+### Harm done by hoaxes and manipulation
 
 
 
@@ -551,15 +549,18 @@ The harm done by hoaxes and manipulation
 </div>
 
 
+<div id="right">
 
+<img src="https://i2.wp.com/www.christiansagainstdinosaurs.com/wp-content/uploads/2016/10/Piltdown-Man-Article.jpg?fit=1920%2C1152&ssl=1" width = "400"/>
+
+</div>
 
 
 
 ---
 
 
-### Scientific Hoaxes and Data Manipulation
-Diederik Stapel
+### Diederik Stapel
 
 
 
@@ -577,8 +578,7 @@ Diederik Stapel
 
 ---
 
-### Scientific Hoaxes and Data Manipulation
-Dawson and Stapel: Telling us what we want to hear.
+### Dawson and Stapel: Telling us what we want to hear.
 
 ```
 
@@ -594,7 +594,7 @@ Dawson and Stapel: Telling us what we want to hear.
 
 ---
 
-### Data manipulation: a silver lining?
+### A silver lining?
 
 
 
