@@ -437,7 +437,7 @@ Newtonian physics cannot entirely explain Mercury's orbit
 </div>	
 
 <div id="right">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg" width="250"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg" width="300"/>
 </div>
 
 
