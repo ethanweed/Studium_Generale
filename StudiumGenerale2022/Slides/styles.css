@@ -5,7 +5,7 @@
 .container{
   display: flex;
   align-items: flex-start;
-  max-height: 80px;
+  max-height: 50px;
   
 
 }
