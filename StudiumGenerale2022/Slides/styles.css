@@ -7,7 +7,7 @@
 }
 
 .col {
-  flex: 1;
+  flex: 1 0 4em;
   border: 1px solid #000000;
   border-radius: 10px;
   padding: 20px 25px;
