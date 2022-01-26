@@ -21,7 +21,7 @@
 </div>
 ---
 
-<div id = "right">
+<div id = "left">
 
 ```
 
@@ -31,8 +31,17 @@ Henry (2008)
 
 ```
 
+</div>
+
+<div id = "right">
+
+- What does "whiggish" mean?
+- What is the etymology of _science_ and _scientist_?
+-  How do you understand the link between the word science and the concept of science in the first sentence of the quote – i.e. what do you think Henry means?
+
 
 </div>
+
 ---
 
 ### science (n.)
