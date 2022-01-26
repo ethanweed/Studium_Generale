@@ -6,4 +6,5 @@ previewLinks: false
 transition: 'none'
 hash: true
 theme: serif
+margin: 0.04
 ---
