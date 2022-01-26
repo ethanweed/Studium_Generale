@@ -328,7 +328,7 @@ There is only one way to advance human understanding: _critical discussion_
 ::: {.container}
 :::: {.col}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width="350"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" height = "400"/>
 
 ::::
 :::: {.col}
@@ -355,9 +355,7 @@ The realization that natural science is not indubitable epistēmē (scientia) 
 
 
 ::: {.container}
-:::: {.col}
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width="350"/>
+:::: {.col<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" height = "400"/>
 
 ::::
 :::: {.col}
