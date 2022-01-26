@@ -119,12 +119,12 @@ Introduction to:
 
 
 
-<div id="left">
+<div id="left_border">
 
 The attempt to understand, explain, and predict the world.
 
 </div>
-<div id="right">
+<div id="right_border">
 
 Compare with: 
 
@@ -263,7 +263,7 @@ Bertrand Russell (1872-1970)
 
 <div id="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg" width = "400"/>
 
 </div>
 <div id="right">
