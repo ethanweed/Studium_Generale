@@ -713,6 +713,8 @@ Popper, K.R., 1962. Conjectures and Refutations: Falsifiability, Testability, Op
 
 Principe, Lawrence M. 2011. _The scientific revolution: a very short introduction_. Oxford: Oxford University Press.
 
+Roig, M., 2006. Avoiding plagiarism, self-plagiarism, and other questionable writing practices: A guide to ethical writing. https://ori.hhs.gov/avoiding-plagiarism-self-plagiarism-and-other-questionable-writing-practices-guide-ethical-writing.
+
 Stapel, D.A. and Blanton, H., 2004. From seeing to being: subliminal social comparisons affect implicit and explicit self-evaluations. _Journal of personality and social psychology_, _87_(4), p.468.
 
 Winawer, J., Witthoft, N., Frank, M.C., Wu, L., Wade, A.R. and Boroditsky, L., 2007. Russian blues reveal effects of language on color discrimination. _Proceedings of the national academy of sciences_, _104_(19), pp.7780-7785.
