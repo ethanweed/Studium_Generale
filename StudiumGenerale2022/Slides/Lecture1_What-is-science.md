@@ -351,9 +351,6 @@ The realization that natural science is not indubitable epistēmē (scientia) 
 
 ## Karl Popper and Demarcation
 
-
-
-
 ::: {.container}
 :::: {.col
 
