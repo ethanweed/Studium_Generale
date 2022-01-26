@@ -578,7 +578,8 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ---
 
-### Dawson and Stapel: Telling us what we want to hear.
+### Dawson and Stapel: 
+#### Telling us what we want to hear.
 
 ```
 
