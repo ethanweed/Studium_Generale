@@ -278,7 +278,7 @@ Bertrand Russell (1872-1970)
 ::: {.container}
 :::: {.col}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg" width="400"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg" <img/>
 
 ::::
 :::: {.col}
