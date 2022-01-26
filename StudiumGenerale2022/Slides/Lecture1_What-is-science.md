@@ -401,7 +401,7 @@ Accepting any observation statement involves accepting layers of theory supporti
 
 <div id="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Professor_Imre_Lakatos%2C_c1960s.jpg" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Professor_Imre_Lakatos%2C_c1960s.jpg" width="350"/>
 
 </div>
 
@@ -413,15 +413,18 @@ Accepting any observation statement involves accepting layers of theory supporti
 </div>
 ---
 
-### All theories are falsified anyway
+### Who believes in..
 
-::: incremental
 
-- Many theories that were widely accepted at the time seem ridiculous today
-	- Phrenology
-	- Phlogiston
+<div id="left">
+Phrenology
+<img src="https://i.pinimg.com/736x/8d/d6/77/8dd67795b4e88157da193590cc557841.jpg" width="400"/>
+</div>
 
-:::
+<div id = "right">
+Phlogiston
+<img src="http://1.bp.blogspot.com/_IoU3bEFUwWc/SHba7hQyDyI/AAAAAAAACZM/Be0IP0bKs8s/s1600/Sceptical+Chymist.jpg" width="400"/>
+</div>
 
 
 
