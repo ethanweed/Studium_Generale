@@ -23,19 +23,32 @@
 
   <style>
 
-  .two-floating-elements {
-    > ul ~ p,
-    > p ~ ul {
-      max-width: 50%;
-      float:left;
-      font-size: 0.7em;
-      -webkit-box-sizing: border-box;
-      -moz-box-sizing: border-box;
-      box-sizing: border-box;
-    }
-    > p ~ ul {
-      margin-left: 0;
-    }
+  .container{
+    display: flex;
+    align-items: flex-start;
+    height: 90vh
+    
+
+  }
+
+  .col {
+    flex: 1 1 auto;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding: 1em;
+    margin-left: 10px;
+    margin-right: 10px;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+
+    
+
+  }
+
+  .col img {
+      flex: 1 1;
+
   }
 
   </style>
@@ -49,18 +62,8 @@
   <h1 class="title"> </h1>
 </section>
 
-<section id="title" class="slide level2">
-<h2>Title</h2>
-<div class="two-floating-elements">
-<ul>
-<li>List item 1</li>
-<li>List item 2</li>
-<li>List item 3</li>
-</ul>
-<figure>
-<img data-src="https://maps.lib.utexas.edu/maps/historical/shepherd/mediaeval_universities.jpg" alt="Alternage text" /><figcaption aria-hidden="true">Alternage text</figcaption>
-</figure>
-</div>
+<section class="slide level6">
+
 </section>
     </div>
   </div>
