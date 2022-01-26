@@ -251,7 +251,7 @@ David Hume (1711-1776)
 ::: {.container}
 :::: {.col}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg" width="400"/>
 
 ::::
 :::: {.col}
@@ -278,7 +278,7 @@ Bertrand Russell (1872-1970)
 ::: {.container}
 :::: {.col}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg" <img/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg" width="400"/>
 
 ::::
 :::: {.col}
