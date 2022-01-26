@@ -3,7 +3,7 @@
 <style>
 .container{
   display: flex;
-      flex-shrink: 1;
+      flex-direction: column;
 }
 
 .col {
