@@ -23,32 +23,19 @@
 
   <style>
 
-  .container{
-    display: flex;
-    align-items: flex-start;
-    height: 90vh
-    
-
-  }
-
-  .col {
-    flex: 1 1 auto;
-    border: 1px solid #000000;
-    border-radius: 10px;
-    padding: 1em;
-    margin-left: 10px;
-    margin-right: 10px;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-
-    
-
-  }
-
-  .col img {
-      flex: 1 1;
-
+  .two-floating-elements {
+    > ul ~ p,
+    > p ~ ul {
+      max-width: 50%;
+      float:left;
+      font-size: 0.7em;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+    > p ~ ul {
+      margin-left: 0;
+    }
   }
 
   </style>
