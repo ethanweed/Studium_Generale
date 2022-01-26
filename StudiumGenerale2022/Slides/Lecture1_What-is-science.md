@@ -430,17 +430,16 @@ Phlogiston
 
 ---
 
-### All theories are falsified anyway
+### Even things we do "believe" are "wrong"
 
-::: incremental
+<div id = "left_border">
+- Newtonian physics can't explain Mercury’s path in the sky
+- Einstein’s theory of relativity eventually explained Mercury’s behavior, by resorting to explanations outside of Newton’s explanatory framework
+</div>	
 
-- Many theories that are currently accepted are actually countered by evidence
-	- Newtonian physics could not explain Mercury’s path in the sky
-	- Einstein’s theory of relativity eventually explained Mercury’s behavior, by resorting to explanations outside of Newton’s explanatory framework
-	
-:::
-
-
+<div id = "right">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg" width="350"/>
+</div>
 
 ---
 
