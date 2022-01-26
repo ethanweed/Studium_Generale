@@ -23,33 +23,25 @@
 
   <style>
 
-  .container{
-    display: flex;
-    align-items: flex-start;
-
-    
-
+  #left {
+  	margin: 10px 0 15px 20px;
+  	text-align: left;
+  	float: left;
+  	z-index:-10;
+  	width:48%;
+  	font-size: 0.85em;
+  	line-height: 1.5; 
   }
 
-  .col {
-    flex: 1;
-    border: 1px solid #000000;
-    border-radius: 10px;
-    padding: 1.5em;
-    margin-left: 10px;
-    margin-right: 10px;
-    align-content: center;
-    justify-content: center;
-
-    
-
+  #right {
+  	margin: 10px 0 15px 0;
+  	float: right;
+  	text-align: left;
+  	z-index:-10;
+  	width:48%;
+  	font-size: 0.85em;
+  	line-height: 1.5; 
   }
-
-
-
-  }
-
-
 
   </style>
 
@@ -72,6 +64,27 @@
 <section class="slide level2">
 
 </section>
+<div id="left">
+<section id="left-column" class="slide level2">
+<h2>Left column</h2>
+<ul>
+<li>Bullet 1</li>
+<li>Bullet 2</li>
+<li>Bullet 3</li>
+<li>Even <a href="https://www.google.com">links</a></li>
+</ul>
+</section>
+</div>
+<div id="right">
+<section id="right-colum" class="slide level2">
+<h2>Right colum</h2>
+<ol type="1">
+<li>List</li>
+<li>List</li>
+<li><img data-src="https://cdn3.iconfinder.com/data/icons/ballicons-free/128/graph.png" title="fig:" alt="Icon" /></li>
+</ol>
+</section>
+</div>
     </div>
   </div>
 
