@@ -364,8 +364,10 @@ Science vs pseudoscience
 
 ## Criticisms of Popper
 
+<div id="right">
 - No theory is falsifiable
 - All theories are already falsified anyway
+</div>
 
 ---
 
