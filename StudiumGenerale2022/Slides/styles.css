@@ -6,6 +6,7 @@
   display: flex;
   align-items: flex-start;
   height: 50vh
+  flex-shrink: 1;
   
 
 }
