@@ -433,12 +433,12 @@ Phlogiston
 ### Even things we do "believe" are "wrong"
 
 <div id = "left_border">
-- Newtonian physics cannot entirely explain Mercury's orbit
-- The orbit can be better explained by taking into account the _curvature_ of space and time
+Newtonian physics cannot entirely explain Mercury's orbit
 </div>	
 
 <div id = "right">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg" width="400"/>
+The orbit can be better explained by taking into account the _curvature_ of space and time
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg" width="200"/>
 </div>
 
 ---
