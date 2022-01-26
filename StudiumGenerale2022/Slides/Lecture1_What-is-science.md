@@ -399,8 +399,18 @@ Accepting any observation statement involves accepting layers of theory supporti
 
 ### All theories are falsified anyway
 
-Lakatos: “In the history of science, all theories have been born falsified” (in Dienes, 2008; pg. 22)
+<div id="left">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Professor_Imre_Lakatos%2C_c1960s.jpg" width="400"/>
+
+</div>
+
+<div id="right">
+```
+“In the history of science, all theories have been born falsified” 
+- Imre Lakatos (quoted in Dienes, 2008; pg. 22)
+```
+</div>
 ---
 
 ### All theories are falsified anyway
