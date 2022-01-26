@@ -441,7 +441,7 @@ Newtonian physics cannot entirely explain Mercury's orbit
 </div>
 
 
-<div id = "right_border">
+<div id = "left_border">
 The orbit can be better explained by taking into account the _curvature_ of space and time
 </div>
 
