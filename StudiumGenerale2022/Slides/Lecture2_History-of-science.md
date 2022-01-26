@@ -33,7 +33,7 @@ Henry (2008)
 
 </div>
 
-<div id = "right">
+<div id = "right_border">
 
 - What does "whiggish" mean?
 - What is the etymology of _science_ and _scientist_?
