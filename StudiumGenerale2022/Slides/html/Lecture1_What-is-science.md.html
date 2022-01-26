@@ -23,19 +23,47 @@
 
   <style>
 
-  .two-floating-elements {
-    > ul ~ p,
-    > p ~ ul {
-      max-width: 50%;
-      float:left;
-      font-size: 0.7em;
-      -webkit-box-sizing: border-box;
-      -moz-box-sizing: border-box;
-      box-sizing: border-box;
-    }
-    > p ~ ul {
-      margin-left: 0;
-    }
+  .container{
+    display: flex;
+    align-items: flex-start;
+    height: 90vh
+    
+
+  }
+
+  .col {
+    flex: 1;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding: 1em;
+    margin-left: 10px;
+    margin-right: 10px;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    height: 90vh
+
+    
+
+  }
+
+  .col img {
+      flex: 1 1;
+
+  }
+
+  .multiCol {
+      display: table;
+      table-layout: fixed; // don't fudge depending on content
+      width: 100%;
+      text-align: left; // matter of taste, makes imho sense
+      .c {
+          display: table-cell;
+          vertical-align: top;
+          width: 50%;
+          padding: 2% 0 2% 3%; // some vertical, and between columns
+          &:first-of-type { padding-left: 0; } // there's nothing before col1
+      }
   }
 
   </style>
@@ -51,17 +79,6 @@
 
 <section id="studium-general" class="slide level2">
 <h2>Studium General</h2>
-<div class="multiCol">
-<div class="c">
-<p>test1</p>
-</div>
-<div class="c">
-<p>test2</p>
-</div>
-<div class="c">
-<p>test3</p>
-</div>
-</div>
 </section>
 <section class="slide level2">
 

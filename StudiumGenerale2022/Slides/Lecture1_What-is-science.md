@@ -3,22 +3,6 @@
 
 ## Studium General
 
-:::{.multiCol}
-
-::::{.c}
-test1
-::::
-
-::::{.c}
-test2
-::::
-
-::::{.c}
-
-test3
-::::
-:::
-
 ---------------------------------------- 
 
 ### Studium Generale
