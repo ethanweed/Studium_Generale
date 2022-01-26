@@ -263,7 +263,7 @@ Bertrand Russell (1872-1970)
 
 <div id="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg" width = "400"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg" width = "350"/>
 
 </div>
 <div id="right">
@@ -280,7 +280,7 @@ Karl Popper (1902-1994)
 
 <div id="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width = "350"/>
 
 </div>
 
