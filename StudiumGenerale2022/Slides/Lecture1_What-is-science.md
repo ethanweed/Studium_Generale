@@ -567,21 +567,11 @@ Piltdown Man
 ### Scientific Hoaxes and Data Manipulation
 The harm done by hoaxes and manipulation
 
-::: {.container}
-:::: {.col}
-::::: {.img}
+
+::: {.img}
 
 <img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg"/>
-::::: 
-
-::::
-:::: {.col}
-::::: {.img}
-
-<img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pixies/2012/2/2/1328191124911/Piltdown-gang-001.jpg?width=300&quality=85&auto=format&fit=max&s=b73ff650c937be0fa3dfb90596cae7ca" />
-::::: 
-::::
-:::
+::: 
 
 
 
