@@ -679,7 +679,7 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 - Lecture slides vs. published articles
 - 1st-year BA essay vs. MA thesis
-- What about self-plagiarism?
+- What about [self-plagiarism](https://ori.hhs.gov/self-plagiarism)?
 
 </div>
 
