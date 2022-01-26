@@ -5,6 +5,7 @@
 #left {
 	margin: 10px 0 15px 20px;
 	text-align: left;
+	justify-content: top;
 	float: left;
 	z-index:-10;
 	width:48%;
