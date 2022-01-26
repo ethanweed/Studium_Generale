@@ -329,9 +329,11 @@ There is only one way to advance human understanding: _critical discussion_
 
 ::: {.container}
 :::: {.col}
+::::: {.img}
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" height = "400"/>
 
+:::::
 ::::
 :::: {.col}
 
@@ -355,9 +357,11 @@ The realization that natural science is not indubitable epistēmē (scientia) 
 
 ::: {.container}
 :::: {.col
+::::: {.img}
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" height = "400"/>
 
+:::::
 ::::
 :::: {.col}
 
@@ -540,14 +544,18 @@ Piltdown Man
 
 ::: {.container}
 :::: {.col}
+::::: {.img}
 
 <img src="https://jacksadventuresinmuseumland.files.wordpress.com/2014/04/dawson-sketch-of-pitldown-gravel-bed-section_114208_1.jpg" width="500" />
 
+:::::
 ::::
 :::: {.col}
+::::: {.img}
 
 <img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pixies/2012/2/2/1328191124911/Piltdown-gang-001.jpg?width=300&quality=85&auto=format&fit=max&s=b73ff650c937be0fa3dfb90596cae7ca" width="500"/>
 
+:::::
 ::::
 :::
 
