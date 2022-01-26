@@ -303,7 +303,7 @@ There is only one way to advance human understanding: _critical discussion_
 
 <div id="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width = "350"/>
 
 </div>
 
@@ -326,7 +326,7 @@ The realization that natural science is not indubitable epistēmē (scientia) 
 
 <div id="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width = "350"/>
 
 </div>
 
@@ -509,12 +509,12 @@ Piltdown Man
 
 <div id="left">
 
-<img src="https://jacksadventuresinmuseumland.files.wordpress.com/2014/04/dawson-sketch-of-pitldown-gravel-bed-section_114208_1.jpg"/>
+<img src="https://jacksadventuresinmuseumland.files.wordpress.com/2014/04/dawson-sketch-of-pitldown-gravel-bed-section_114208_1.jpg" width = 400/>
 
 </div>
 <div id="right">
 
-<img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pixies/2012/2/2/1328191124911/Piltdown-gang-001.jpg?width=300&quality=85&auto=format&fit=max&s=b73ff650c937be0fa3dfb90596cae7ca"/>
+<img src="https://i2.wp.com/www.christiansagainstdinosaurs.com/wp-content/uploads/2016/10/Piltdown-Man-Article.jpg?fit=1920%2C1152&ssl=1" width = "400"/>
 
 </div>
 
@@ -533,7 +533,7 @@ The harm done by hoaxes and manipulation
 <div id="left">
 
 
-<img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg">
+<img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg" width = "400">
 
 </div>
 
