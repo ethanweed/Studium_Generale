@@ -451,12 +451,14 @@ The orbit can be better explained by taking into account the _curvature_ of spac
 ### Not right, but also... not wrong
 
 <div id = "left">
+:::incremental
 *Newtonian physics*
 
 - Cannot fully explain physical phenomena
 - But is good enough most of the time
 - Relativity helps fill in the details
 - And quantum physics fills in even more
+:::
 </div>
 
 <div id = "right">
@@ -464,6 +466,7 @@ The orbit can be better explained by taking into account the _curvature_ of spac
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Chien-shiung_Wu_%281912-1997%29_C.jpg" width="300"/>
+
 Chien-shiung Wu
 
 </div>
