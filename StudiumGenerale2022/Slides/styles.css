@@ -49,8 +49,9 @@
           border-radius: 10px;	
 }
 
+/* mouse over link */
 a:hover {
-  background-color: yellow;
+  color: red;
 }
 
 </style>
