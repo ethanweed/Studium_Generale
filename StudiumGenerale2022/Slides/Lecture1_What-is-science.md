@@ -437,7 +437,7 @@ Phlogiston
 - Einstein’s theory of relativity eventually explained Mercury’s behavior, by resorting to explanations outside of Newton’s explanatory framework
 </div>	
 
-<div id = "right">
+<div id = "right_border">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg" width="350"/>
 </div>
 
