@@ -473,20 +473,22 @@ Chien-shiung Wu
 
 ---
 
-<div id = "right">
+<div id = "left">
 
 *Linguistic relativity*
-
+:::incremental
 - In its strong sense has been rejected
 - But in a weaker sense, it is very tenacious
-
+:::
 </div>
 
----
+<div id = "right">
 
-### Even theories that are wrong, can still be ~~right~~ useful
+<img src="https://www.pnas.org/content/pnas/104/19/7780/F1.medium.gif" width=""/>
 
+- Winawer et al (2007)
 
+</div>
 
 ---
 
@@ -688,3 +690,5 @@ Popper, K.R., 1962. Conjectures and Refutations: Falsifiability, Testability, Op
 Principe, Lawrence M. 2011. _The scientific revolution: a very short introduction_. Oxford: Oxford University Press.
 
 Stapel, D.A. and Blanton, H., 2004. From seeing to being: subliminal social comparisons affect implicit and explicit self-evaluations. _Journal of personality and social psychology_, _87_(4), p.468.
+
+Winawer, J., Witthoft, N., Frank, M.C., Wu, L., Wade, A.R. and Boroditsky, L., 2007. Russian blues reveal effects of language on color discrimination. _Proceedings of the national academy of sciences_, _104_(19), pp.7780-7785.
