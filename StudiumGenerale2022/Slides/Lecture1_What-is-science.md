@@ -423,7 +423,7 @@ Phrenology
 
 <div id = "right">
 Phlogiston
-<img src="http://1.bp.blogspot.com/_IoU3bEFUwWc/SHba7hQyDyI/AAAAAAAACZM/Be0IP0bKs8s/s1600/Sceptical+Chymist.jpg" width="200"/>
+<img src="http://1.bp.blogspot.com/_IoU3bEFUwWc/SHba7hQyDyI/AAAAAAAACZM/Be0IP0bKs8s/s1600/Sceptical+Chymist.jpg" width="250"/>
 </div>
 
 
