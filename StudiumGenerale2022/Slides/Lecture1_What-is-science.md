@@ -300,7 +300,7 @@ Karl Popper (1902-1994)
 ::: {.container}
 :::: {.col}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" height = 100/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" height = 400/>
 
 ::::
 :::: {.col}
