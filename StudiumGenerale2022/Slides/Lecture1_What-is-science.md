@@ -441,7 +441,7 @@ The orbit can be better explained by taking into account the _curvature_ of spac
 </div>
 
 <div id="right">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg" width="350"/>
 </div>
 
 ---
