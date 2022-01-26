@@ -67,22 +67,19 @@ the term universitas in the medieval context was the term for a guild or a corpo
 
 
 
-::: {.container}
-:::: {.col}
+<div id="left">
 
 <img src="https://omnibus.au.dk/uploads/pics/csm_DSC_0711_c0ef4124d2.jpg" width=""/>
 
-::::
-:::: {.col}
+</div>
 
+<div id="right">
 - Founded in 1928
 - _Universitetsundervisningen i Jylland_
 - 64 students
 - First teachers: Philosophy, French, English, German & Danish
 - Next added: Medicine (1933)
-
-::::
-:::
+</div>
 
 
 
@@ -122,13 +119,12 @@ Introduction to:
 
 
 
-::: {.container}
-:::: {.col}
+<div id="left">
 
 The attempt to understand, explain, and predict the world.
 
-::::
-:::: {.col}
+</div>
+<div id="right">
 
 Compare with: 
 
@@ -138,8 +134,7 @@ Compare with:
 - Divination
 - History
 
-::::
-:::
+</div>
 
 
 
@@ -242,23 +237,18 @@ David Hume (1711-1776)
 
 
 
-::: {.container}
-:::: {.col}
+<div id="left">
 
 
 <img class="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg" width = "300"/>
 
+</div>
 
-::::
-:::: {.col}
+<div id="right">
 
 There is *no* amount of evidence that will ever be enough for us to justify believing a theory without a shadow of a doubt.
 
-
-
-::::
-:::
-
+</div>
 
 
 
@@ -271,21 +261,15 @@ Bertrand Russell (1872-1970)
 
 
 
-::: {.container}
-:::: {.col}
-::::: {.img}
+<div id="left">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg"/>
 
-:::::
-::::
-:::: {.col}
-
+</div>
+<div id="right">
 If we don’t figure out how induction could be valid there is no way to decide between good scientific theory and “the mere obsession of a madman”
 
-::::
-:::
-
+</div>
 
 
 ---
@@ -294,21 +278,17 @@ If we don’t figure out how induction could be valid there is no way to decide 
 
 Karl Popper (1902-1994)
 
-
-::: {.container}
-:::: {.col}
-::::: {.img}
+<div id="left">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg"/>
 
-:::::
-::::
-:::: {.col}
+</div>
+
+<div id="left">
 
 We don’t need to work out how induction can be valid. Just because induction can never prove a theory right, doesn't mean that we can't use it to prove a theory *wrong*.
 
-::::
-:::
+</div>
 
 
 
@@ -321,17 +301,13 @@ There is only one way to advance human understanding: _critical discussion_
 
 
 
-::: {.container}
-:::: {.col}
-::::: {.img}
+<div id="left">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg"/>
 
-:::::
-::::
-:::: {.col}
+</div>
 
-
+<div id="right">
 ```
 
 The realization that natural science is not indubitable epistēmē (scientia) has led to the view that it is technē(technique, art, technology); but the proper view, I believe, is that it consists of doxai (opinions, conjectures),controlled by critical discussion as well as by experimental technē
@@ -339,25 +315,22 @@ The realization that natural science is not indubitable epistēmē (scientia) 
 - Popper (1962) pg. 102
 
 ```
+</div>
 
 
-::::
-:::
 
 
 ---
 
 ## Karl Popper and Demarcation
 
-::: {.container}
-:::: {.col
-::::: {.img}
+<div id="left">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg"/>
 
-:::::
-::::
-:::: {.col}
+</div>
+
+<div id="right">
 
 ```
 Those among us who are unwilling to expose their ideas to the hazards of refutation do not take part in the game of science
@@ -366,9 +339,7 @@ Those among us who are unwilling to expose their ideas to the hazards of refutat
 
 ```
 
-::::
-:::
-
+</div>
 
 
 
@@ -536,23 +507,16 @@ Piltdown Man
 
 
 
-::: {.container}
-:::: {.col}
-::::: {.img}
+<div id="left">
 
 <img src="https://jacksadventuresinmuseumland.files.wordpress.com/2014/04/dawson-sketch-of-pitldown-gravel-bed-section_114208_1.jpg"/>
 
-:::::
-::::
-:::: {.col}
-::::: {.img}
+</div>
+<div id="right">
 
 <img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pixies/2012/2/2/1328191124911/Piltdown-gang-001.jpg?width=300&quality=85&auto=format&fit=max&s=b73ff650c937be0fa3dfb90596cae7ca"/>
 
-:::::
-::::
-:::
-
+</div>
 
 
 
@@ -566,17 +530,12 @@ The harm done by hoaxes and manipulation
 
 
 
-::: {.container}
-:::: {.col}
-::::: {.img}
+<div id="left">
 
 
 <img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg">
 
-:::::
-::::
-:::
-
+</div>
 
 
 
@@ -591,19 +550,17 @@ Diederik Stapel
 
 
 
-::: {.container}
-:::: {.col}
+<div id="left">
 
 <img src="http://graphics8.nytimes.com/images/2013/04/28/magazine/28stapel1/28stapel1-superJumbo-v5.jpg" width="500"/>
 
-::::
-:::: {.col}
+</div>
+
+<div id="right">
 
 <img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Stapell-article-screenshot.png" width="500"/>
 
-::::
-:::
-
+</div>
 
 ---
 
@@ -629,19 +586,17 @@ Dawson and Stapel: Telling us what we want to hear.
 
 
 
-::: {.container}
-:::: {.col}
+<div id="left">
 
 <img src="https://mfr.osf.io/export?url=https://osf.io/4sxkd/?direct%26mode=render%26action=download%26public_file=True&initialWidth=768&childId=mfrIframe&parentTitle=OSF+%7C+osf_dark.png&parentUrl=https://osf.io/4sxkd/&format=2400x2400.jpeg" width="500"/>
 
-::::
-:::: {.col}
+</div>
 
+<div id="right">
 - Open Science
 - Data sharing
 
-::::
-:::
+</div>
 
 ---
 
