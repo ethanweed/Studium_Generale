@@ -438,7 +438,7 @@ Phlogiston
 </div>	
 
 <div id = "right">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg" width="350"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg" width="400"/>
 </div>
 
 ---
