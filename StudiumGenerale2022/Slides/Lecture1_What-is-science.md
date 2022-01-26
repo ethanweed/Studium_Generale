@@ -664,6 +664,29 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ---
 
+### Plagiarism
+
+<div id = "left">
+
+- What is plagiarism?
+- What counts as plagiarism?
+- What does not?
+
+</div>
+
+
+<div id = "right">
+
+- Lecture slides vs. published articles
+- 1st-year BA essay vs. MA thesis
+- What about self-plagiarism?
+
+</div>
+
+
+
+---
+
 ### References
 
 <font size = 2>
