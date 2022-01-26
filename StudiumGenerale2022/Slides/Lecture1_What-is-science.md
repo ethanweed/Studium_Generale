@@ -448,20 +448,38 @@ The orbit can be better explained by taking into account the _curvature_ of spac
 
 ---
 
-### Even theories that are wrong, can still be ~~right~~ useful
+### Not right, but also... not wrong
 
-#### Newtonian physics
+<div id = "left">
+*Newtonian physics*
 
-In one sense, Newtonian physics is “wrong”, because it doesn’t explain everything, but even now we do not reject it entirely. In fact, we use it all the time.
+- Cannot fully explain physical phenomena
+- But is good enough most of the time
+</div>
+
+<div id = "right">
+
+Some things require quantom explanations
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Chien-shiung_Wu_%281912-1997%29_C.jpg" width="300"/>
+Chien-shiung_Wu
+
+</div>
+
+<div id = "right">
+
+*Linguistic relativity*
+
+- In its strong sense has been rejected
+- But in a weaker sense, it is very tenacious
+
+</div>
 
 ---
 
 ### Even theories that are wrong, can still be ~~right~~ useful
 
-#### Linguistic relativity
 
-- In its strong sense has been rejected
-- But in a weaker sense, it is very tenacious
 
 ---
 
