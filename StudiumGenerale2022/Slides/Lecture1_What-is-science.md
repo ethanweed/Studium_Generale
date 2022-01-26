@@ -346,21 +346,16 @@ Those among us who are unwilling to expose their ideas to the hazards of refutat
 
 
 
-  
----
-
-
-### Demarcation
-Science vs pseudoscience
 
 ---
 
 ### Demarcation
-<div id="left">
+
+<div id="left_border">
 Science vs pseudoscience
 </div>
 
-<div id="right">
+<div id="right_border">
 - Marxism?
 - Freudian psychology?
 - Linguistic relativity?
