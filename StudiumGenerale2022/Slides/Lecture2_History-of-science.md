@@ -21,6 +21,20 @@
 </div>
 ---
 
+<div id = "right">
+
+```
+
+Our present use of the word ‘science’ was first coined in the nineteenth century and, strictly speaking, there was no such thing as ‘science’ in our sense in the early modern period. To talk as though there was, as I have been doing, is an obviously whiggish distortion. Part of our aim, in looking at the historical development of what we think of as science, should be to understand how the very concept ‘science’ arose; we simply beg the question if we talk about ‘science’ as though it always existed.
+
+Henry (2008)
+
+```
+
+
+</div>
+---
+
 ### science (n.)
 
 ```
@@ -37,5 +51,36 @@ Online Etymology Dictionary (https://www.etymonline.com/word/science)
 
 ```
 1834, a hybrid coined from Latin scientia by the Rev. William Whewell, English polymath, by analogy with *artist*, in the same paragraph in which he coined physicist (q.v.).
+
+Online Etymology Dictionary (https://www.etymonline.com/word/scientist)
+
 ```
 
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+### References
+
+Henry, J., 2008. _The scientific revolution and the origins of modern science_. Macmillan International Higher Education.
