@@ -294,9 +294,9 @@ We don’t need to work out how induction can be valid. Just because induction c
 
 ---
 
-### Popper:
+### Popper
 
-There is only one way to advance human understanding: _critical discussion_
+
 
 
 
@@ -308,6 +308,9 @@ There is only one way to advance human understanding: _critical discussion_
 </div>
 
 <div id="right">
+
+There is only one way to advance human understanding: _critical discussion_
+
 ```
 
 The realization that natural science is not indubitable epistēmē (scientia) has led to the view that it is technē(technique, art, technology); but the proper view, I believe, is that it consists of doxai (opinions, conjectures),controlled by critical discussion as well as by experimental technē
@@ -322,7 +325,7 @@ The realization that natural science is not indubitable epistēmē (scientia) 
 
 ---
 
-## Karl Popper and Demarcation
+## Demarcation
 
 <div id="left">
 
