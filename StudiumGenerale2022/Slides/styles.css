@@ -4,7 +4,7 @@
 .container{
   display: flex;
       flex-direction: row;
-      width: 20rem;
+      height: 20rem;
 }
 
 .col {
