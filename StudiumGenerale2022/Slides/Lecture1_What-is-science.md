@@ -250,11 +250,11 @@ David Hume (1711-1776)
 
 ::: {.container}
 :::: {.col}
-::::: {.img}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg" height=400/>
 
-:::::
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg"/>
+
+
 ::::
 :::: {.col}
 

@@ -38,13 +38,15 @@
     margin-right: 10px;
     align-items: center;
     justify-content: center;
+    overflow: hidden
 
 
   }
 
-  .img {
-    width: 100%;
-    height: 100%;
+  .col img {
+      flex-shrink: 0;
+      min-width: 100%;
+      min-height: 100%
   }
 
   </style>
@@ -249,9 +251,7 @@ If we consider the origin of our knowledge, it is no less certain that … [as] 
 <p>David Hume (1711-1776)</p>
 <div class="container">
 <div class="col">
-<div class="img">
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg" height=400/></p>
-</div>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg"/></p>
 </div>
 <div class="col">
 <p>There is <em>no</em> amount of evidence that will ever be enough for us to justify believing a theory without a shadow of a doubt.</p>

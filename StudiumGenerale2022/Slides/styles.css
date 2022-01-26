@@ -17,13 +17,15 @@
   margin-right: 10px;
   align-items: center;
   justify-content: center;
+  overflow: hidden
 
 
 }
 
-.img {
-  width: 100%;
-  height: 100%;
+.col img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
 }
 
 </style>
