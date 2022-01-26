@@ -437,7 +437,7 @@ Phlogiston
 - The orbit can be better explained by taking into account the _curvature_ of space and time
 </div>	
 
-<div id = "right_border">
+<div id = "right">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg" width="350"/>
 </div>
 
