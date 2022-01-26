@@ -383,6 +383,11 @@ Accepting any observation statement involves accepting layers of theory supporti
 <div id="left">
 ::: incremental
 - Popper: at a certain level, we just have to accept some information as “background knowledge”
+:::
+</div>
+
+<div id="lright">
+::: incremental
 - That doesn’t mean that these theories couldn’t also be tested and falsified
 - But it shouldn’t stop us from trying to falsify “our” theories
 :::
