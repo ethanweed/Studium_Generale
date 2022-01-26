@@ -49,7 +49,7 @@ the term universitas in the medieval context was the term for a guild or a corpo
 
 </div>
 
-<div id="right">
+<div id="right_border">
 - Theology
 - Law
 - Medicine
