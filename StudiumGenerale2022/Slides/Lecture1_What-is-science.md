@@ -466,6 +466,8 @@ Chien-shiung_Wu
 
 </div>
 
+---
+
 <div id = "right">
 
 *Linguistic relativity*
