@@ -69,12 +69,20 @@ Online Etymology Dictionary (https://www.etymonline.com/word/scientist)
 ---
 
 
+<div id = "left">
 
 
+```
+1834   W. Whewell in _Q. Rev._ **51** 59   Science..loses all traces of unity. A curious illustration of this result may be observed in the want of any name by which we can designate the students of the knowledge of the material world collectively. We are informed that this difficulty was felt very oppressively by the members of the British Association for the Advancement of Science, at their meetings..in the last three summers... _Philosophers_ was felt to be too wide and too lofty a term,..; "savans" was rather assuming,..; some ingenious gentleman proposed that, by analogy with "artist", they might form "scientist" [...]
 
+```
+</div>
 
+<div id = "right">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/William_Whewell._Stipple_engraving._Wellcome_V0006267.jpg/600px-William_Whewell._Stipple_engraving._Wellcome_V0006267.jpg" width="400"/>
 
+</div>
 
 
 
