@@ -36,7 +36,7 @@
     table-layout: fixed; // don't fudge depending on content
     width: 100%;
     text-align: left; // matter of taste, makes imho sense
-    .col {
+    .c {
         display: table-cell;
         vertical-align: top;
         width: 50%;
