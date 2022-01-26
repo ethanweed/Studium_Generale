@@ -5,7 +5,7 @@
 .container{
   display: flex;
   align-items: flex-start;
-  height: 90vh
+
   
 
 }
@@ -17,17 +17,12 @@
   padding: 1em;
   margin-left: 10px;
   margin-right: 10px;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-  height: 90vh
 
   
 
 }
 
-.col img {
-    flex: 1 1;
+
 
 }
 
