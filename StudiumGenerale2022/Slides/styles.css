@@ -24,7 +24,7 @@
 }
 
 #left_border {
-	padding: 1em;
+	padding: 10px;
 	margin: 10px 0 15px 0;
 	text-align: left;
 	float: left;
@@ -37,7 +37,7 @@
 }
 
 #right_border {
-	padding: 1em;
+	padding: 10px;
 	margin: 10px 0 15px 0;
 	float: right;
 	text-align: left;
