@@ -497,10 +497,18 @@ In one sense, Newtonian physics is “wrong”, because it doesn’t explain eve
 
 ### Popper and politics
 
-- What goes for science also goes for politics
-- Political ideas should be criticized and discussed just as
-  scientific ideas should be criticized and discussed
+<div id="left">
+
+- Popper: at a certain level, we just have to accept some information as “background knowledge”
+- That doesn’t mean that these theories couldn’t also be tested and falsified
+- But it shouldn’t stop us from trying to falsify “our” theories
+
+</div>
+
+
+<div id="right_border">
 - The duty of a scientist is to criticize theories and the duty of a citizen to is criticize leaders
+- </div>
 
 ---
 
