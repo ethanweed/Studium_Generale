@@ -3,7 +3,7 @@ progress: true
 slideNumber: true
 center: true
 previewLinks: false
-transition: 'none'
+transition: 'slide'
 hash: true
 theme: serif
 ---
