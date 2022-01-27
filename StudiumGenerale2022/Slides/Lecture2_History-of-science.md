@@ -94,7 +94,7 @@ Oldest known usage of "scientist"
 
 <div id = "right">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/William_Whewell._Stipple_engraving._Wellcome_V0006267.jpg/600px-William_Whewell._Stipple_engraving._Wellcome_V0006267.jpg" width="400"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/William_Whewell._Stipple_engraving._Wellcome_V0006267.jpg/600px-William_Whewell._Stipple_engraving._Wellcome_V0006267.jpg" width="300"/>
 
 </div>
 
