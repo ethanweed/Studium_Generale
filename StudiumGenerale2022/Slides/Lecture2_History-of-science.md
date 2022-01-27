@@ -110,6 +110,7 @@ Oldest known usage of "scientist"
 ----
 
 <section>
+	Antiquity
     <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/1280px-Aristotle_Altemps_Inv8575.jpg">
     <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BL_Royal_Vincent_of_Beauvais.jpg/1280px-BL_Royal_Vincent_of_Beauvais.jpg">
 	<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/1280px-Da_Vinci_Vitruve_Luc_Viatour.jpg">
