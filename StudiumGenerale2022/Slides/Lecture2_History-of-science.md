@@ -194,7 +194,7 @@ Aristotle as the source of all knowledge
 
 ---
 
-## "Rediscovery" of other antique thinkers
+## Rediscovery
 
 
 <div id = "left">
@@ -220,25 +220,77 @@ Other perspectives than Aristotle
 
 ---
 
+## Causes
 
+<div id = "left">
 
+- warmer climate (?)
+- improved agriculture
+- larger towns and cities
+- stable social systems
+- univerisities
 
-This second ‘rebirth’ was the ‘Renaissance of the Twelfth Century’, a great explosion of creativity in the sciences, technology, theology, music, art, education, architecture, law, and literature. The triggers for this efflorescence remain open to debate. Some scholars point to a warmer, more favourable climate for Europe beginning in the 11th century (called the ‘Medieval Warm Period’) coupled with improvements in agriculture that brought enough food and prosperity for Europe’s population to double and perhaps triple within a relatively short time. The rise of urban centres, more stable social and political systems, more abundant food, and thus more time for thought and scholarship, all contributed to initiating this Renaissance.
+</div>
 
- 
-## The University 
-The importance of the university as an institutional home for scholarship cannot be overemphasized. As the prominent scholar Edward Grant writes, the medieval university ‘shaped the intellectual life of Western Europe’. While the highest degree in the university was in theology, one could not become a theologian without first mastering the logic, mathematics, and natural philosophy of the day, since those topics were employed routinely in the advanced Christian theology of the Middle Ages. Indeed, most great natural philosophers of the period were doctors of theology: St Albert the Great (now patron saint of natural scientists), Theodoric of Freiburg, Nicole Oresme, Henry of Langenstein. All these figures were educated in, taught in, and found a home in a university.
+<div id = "right_border">
+
+Food, shelter, and security give space for thought.
+
+</div>
+
+---
+
 
  
 ## The concept of the Middle Ages
-it was humanist historians of the Italian Renaissance – such as the Florentines Leonardo Bruni (1369–1444) and Flavio Biondo (1392–1463) – who devised the three-fold periodization of history with which we are all familiar (and from whose implications we still must struggle to free ourselves). According to this periodization, the antiquity of Greece and Rome constitutes the first era, while the third era is that of modernity, beginning of course with the Renaissance authors themselves. Falling between these two high points, according to the humanists, lies a ‘middle’ period of dullness and stagnation, which is thus called the ‘Middle’ Ages. Indeed, perhaps the most enduring invention of the Renaissance has been the concept of the Middle Ages, to the extent that we have no name for the period 500 to 1300 that is not suffused with the disdain Italian humanists felt towards it. Given the recent memory of famine and plague years as their immediate background, the restoration of prosperity in Italy around 1400 must surely have seemed the dawn of a ‘new age’.
+
+
+```
+the most enduring invention of the Renaissance has been the concept of the Middle Ages, to the extent that we have no name for the period 500 to 1300 that is not suffused with the disdain Italian humanists felt towards it.
+
+- Principe (2011)
+```
+
+---
 
  
 ## Movable Type
-Johannes Gutenberg (c. 1398–1468), originally a goldsmith in Mainz. The key to movable-type printing was the creation of cast metal type, each bearing a single raised letter. These type could be assembled into full pages of text, their surfaces smeared with an oil-based ink and pressed against paper, thus printing an entire page (or set of pages) at once. After printing numerous copies, the page of type could be taken apart and the letters readily rearranged into the next set of pages. Previously, books had to be copied by hand, resulting in slow production and high price.
 
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Chodowiecki_Basedow_Tafel_21_c_Z.jpg" width="300"/>
+
+</div>
+
+
+<div id = "right">
+
+-Johannes Gutenberg (c. 1398–1468)
+- Easier access to books
+- Exact duplications
+- Nearly 10 million books by 1500
+
+</div>
+---
 
 ## Literacy
+
+
+<div id = "left">
+
+- New media types
+- New media branch: the "press"
+
+</div>
+
+
+<div id = "right">
+"Relation aller Fürnemmen und gedenckwürdigen Historien"
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Relation_Aller_Fuernemmen_und_gedenckwuerdigen_Historien_%281609%29.jpg" width="300"/>
+
+</div>
+
+
 Printing presses sprang up rapidly across Europe. By 1500, there were about a thousand in operation, and between thirty and forty thousand titles had been printed, representing roughly ten million books. This flood of printed material only increased throughout the 16th and 17th centuries. Books became steadily less expensive (often with a loss of quality) and easier for less wealthy buyers to obtain. Printing allowed for faster communication through broadsides, newsletters, pamphlets, periodicals, and a slew of other paper ephemera. Although most of these ephemera perished soon after their production (like last week’s newspaper), such items were very common in the early modern period. The press thus created a new world of the printed word – and of literacy – like never before known.
 
 ## Printed diagrams
