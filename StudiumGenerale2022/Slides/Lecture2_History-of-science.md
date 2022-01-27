@@ -125,13 +125,11 @@ Oldest known usage of "scientist"
 ## Antiquity
 
 <div id = "left">
-*Aristotle*
+*Aristotle*: our ["intellectual lexicon"](https://en.wikipedia.org/wiki/Aristotle)
 
 - wrote about everything
-	- philosophy
 	- biology
 	- art
-	- music
 	- language
 	- physics
 	- government
@@ -147,12 +145,6 @@ Oldest known usage of "scientist"
 
 </div>
 
-
-<div id = "right">
-
-Provided our ["intellectual lexicon"](https://en.wikipedia.org/wiki/Aristotle)
-
-</div>
 
 ---
 
