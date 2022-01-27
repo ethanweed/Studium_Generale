@@ -127,15 +127,14 @@ Oldest known usage of "scientist"
 <div id = "left">
 *Aristotle*: our ["intellectual lexicon"](https://en.wikipedia.org/wiki/Aristotle)
 
-- wrote about everything
-	- biology
-	- art
-	- language
-	- physics
-	- government
-	- economics
-	- logic
-	- ...
+- biology
+- art
+- language
+- physics
+- government
+- economics
+- logic
+- ...
 
 </div>
 
@@ -144,6 +143,28 @@ Oldest known usage of "scientist"
 <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/1280px-Aristotle_Altemps_Inv8575.jpg">
 
 </div>
+
+---
+
+## Middle Ages
+
+<div id = "left">
+
+Aristotle as the source of all knowledge
+
+- Translations of Aristotle
+- _Meteorologica_: common source of all metals
+- Alchemy
+
+</div>
+
+<div id = "right">
+
+<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BL_Royal_Vincent_of_Beauvais.jpg/1280px-BL_Royal_Vincent_of_Beauvais.jpg">
+
+</div>
+
+
 
 
 ---
@@ -167,10 +188,36 @@ Oldest known usage of "scientist"
 
 <div id = "right">
 
+<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/1280px-Da_Vinci_Vitruve_Luc_Viatour.jpg">
 
 </div>
 
 ---
+
+## "Rediscovery" of other antique thinkers
+
+
+<div id = "left">
+
+- Plato
+- Socrates
+- Protagoras
+
+</div>
+
+<div id = "right">
+
+<section>
+    <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg/440px-Plato_Silanion_Musei_Capitolini_MC1377.jpg">
+    <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/440px-Socrate_du_Louvre.jpg">
+</section>
+
+</div>
+
+
+
+---
+
 
 
 
