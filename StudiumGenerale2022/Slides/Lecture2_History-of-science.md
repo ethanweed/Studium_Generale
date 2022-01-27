@@ -1,4 +1,4 @@
-## History of Science
+# History of Science
 
 ---
 
