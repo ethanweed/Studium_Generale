@@ -3,7 +3,7 @@
 
 ---
 
-# Review: What is Science?
+# Review
 
 ---
 
