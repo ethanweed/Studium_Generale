@@ -286,19 +286,22 @@ the most enduring invention of the Renaissance has been the concept of the Middl
 
 
 <div id = "right">
-_Relation aller Fürnemmen und gedenckwürdigen Historien_
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Relation_Aller_Fuernemmen_und_gedenckwuerdigen_Historien_%281609%29.jpg" width="300"/>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Relation_Aller_Fuernemmen_und_gedenckwuerdigen_Historien_%281609%29.jpg" width="300"/>
+_Relation aller Fürnemmen und gedenckwürdigen Historien_
 </div>
 
 
 ---
 
-
-
-
-
 ## Printed diagrams
+
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Vesalius_Fabrica_p163.jpg/340px-Vesalius_Fabrica_p163.jpg" width="300"/>
+
+</div>
+
 One easily overlooked feature of printing was its ability to reproduce images and diagrams. Illustrations posed a problem for the manuscript tradition since the ability to render drawings accurately depended upon the copyist’s draftsmanship, and often upon his understanding of the text. Consequently, every copy meant degradation for anatomical renderings, botanical and zoological illustrations, maps, charts, and mathematical or technological diagrams. Some copyists simply omitted difficult graphics. Printing meant that an author could oversee the production of a master woodcut or engraving, which could then produce identical copies easily and reliably. Under such conditions, authors were more willing and able to include images in their texts, enabling the growth of scientific illustration for the first time.
 
  
