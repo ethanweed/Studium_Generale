@@ -265,10 +265,10 @@ the most enduring invention of the Renaissance has been the concept of the Middl
 
 <div id = "right">
 
--Johannes Gutenberg (c. 1398–1468)
-- Easier access to books
-- Exact duplications
-- Nearly 10 million books by 1500
+- Johannes Gutenberg (c. 1398–1468)
+-  Easier access to books
+-  Exact duplications
+-  Nearly 10 million books by 1500
 
 </div>
 ---
