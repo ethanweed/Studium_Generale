@@ -286,9 +286,9 @@ the most enduring invention of the Renaissance has been the concept of the Middl
 
 
 <div id = "right">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Relation_Aller_Fuernemmen_und_gedenckwuerdigen_Historien_%281609%29.jpg" width="300"/>
 _Relation aller Fürnemmen und gedenckwürdigen Historien_
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Relation_Aller_Fuernemmen_und_gedenckwuerdigen_Historien_%281609%29.jpg" width="300"/>
+
 </div>
 
 
