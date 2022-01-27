@@ -109,8 +109,9 @@ Oldest known usage of "scientist"
 
 ----
 
+## Birth, death, and rebirth
+
 <section>
-	Antiquity
     <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/1280px-Aristotle_Altemps_Inv8575.jpg">
     <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BL_Royal_Vincent_of_Beauvais.jpg/1280px-BL_Royal_Vincent_of_Beauvais.jpg">
 	<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/1280px-Da_Vinci_Vitruve_Luc_Viatour.jpg">
@@ -123,8 +124,35 @@ Oldest known usage of "scientist"
 
 ## Antiquity
 
+<div id = "left">
+*Aristotle*
+
+- wrote about everything
+	- philosophy
+	- biology
+	- art
+	- music
+	- language
+	- physics
+	- government
+	- economics
+	- logic
+	- ...
+
+</div>
+
+<div id = "right">
+
+<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/1280px-Aristotle_Altemps_Inv8575.jpg">
+
+</div>
 
 
+<div id = "right">
+
+Provided our ["intellectual lexicon"](https://en.wikipedia.org/wiki/Aristotle)
+
+</div>
 
 ---
 
