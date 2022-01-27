@@ -273,13 +273,14 @@ the most enduring invention of the Renaissance has been the concept of the Middl
 </div>
 ---
 
-## Literacy
+## Paper Ephemera
 
 
 <div id = "left">
 
 - New media types
 - New media branch: the "press"
+- Higher literacy rates
 
 </div>
 
@@ -291,7 +292,11 @@ the most enduring invention of the Renaissance has been the concept of the Middl
 </div>
 
 
-Printing presses sprang up rapidly across Europe. By 1500, there were about a thousand in operation, and between thirty and forty thousand titles had been printed, representing roughly ten million books. This flood of printed material only increased throughout the 16th and 17th centuries. Books became steadily less expensive (often with a loss of quality) and easier for less wealthy buyers to obtain. Printing allowed for faster communication through broadsides, newsletters, pamphlets, periodicals, and a slew of other paper ephemera. Although most of these ephemera perished soon after their production (like last week’s newspaper), such items were very common in the early modern period. The press thus created a new world of the printed word – and of literacy – like never before known.
+---
+
+
+
+
 
 ## Printed diagrams
 One easily overlooked feature of printing was its ability to reproduce images and diagrams. Illustrations posed a problem for the manuscript tradition since the ability to render drawings accurately depended upon the copyist’s draftsmanship, and often upon his understanding of the text. Consequently, every copy meant degradation for anatomical renderings, botanical and zoological illustrations, maps, charts, and mathematical or technological diagrams. Some copyists simply omitted difficult graphics. Printing meant that an author could oversee the production of a master woodcut or engraving, which could then produce identical copies easily and reliably. Under such conditions, authors were more willing and able to include images in their texts, enabling the growth of scientific illustration for the first time.
