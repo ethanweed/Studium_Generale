@@ -258,7 +258,7 @@ the most enduring invention of the Renaissance has been the concept of the Middl
 
 <div id = "left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Chodowiecki_Basedow_Tafel_21_c_Z.jpg" width="300"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Chodowiecki_Basedow_Tafel_21_c_Z.jpg" width="400"/>
 
 </div>
 
