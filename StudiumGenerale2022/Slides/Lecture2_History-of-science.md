@@ -203,6 +203,8 @@ Aristotle as the source of all knowledge
 - Socrates
 - Protagoras
 
+Other perspectives than Aristotle
+
 </div>
 
 <div id = "right">
