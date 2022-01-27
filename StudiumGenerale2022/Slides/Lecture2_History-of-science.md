@@ -110,7 +110,7 @@ Oldest known usage of "scientist"
 ----
 
 
-
+<html>
 <style>
 * {
   box-sizing: border-box;
@@ -142,7 +142,7 @@ Oldest known usage of "scientist"
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/1280px-Da_Vinci_Vitruve_Luc_Viatour.jpg" style="width:100%">
   </div>
 </div>
-
+</html>
 
 ---
 
