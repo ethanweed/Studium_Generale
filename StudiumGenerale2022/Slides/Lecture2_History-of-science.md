@@ -110,15 +110,23 @@ Oldest known usage of "scientist"
 ----
 
 
-      ┌───────────────┐          ┌───────────────┐          ┌───────────────┐
-      │               │          │               │          │               │
-      │               │          │               │          │               │
-      │               │          │               │          │               │
-      │  Antiquity    ├─────────>│ Middle Ages   ├─────────>│  Renaissance  |
-      │               │          │               │          │               │
-      │800 BC-1400 AD │          │ 500 AD -1400  │          │  1400-1500    │
-      │               │          │               │          │               │
-      └───────────────┘          └───────────────┘          └───────────────┘
+<div id = "left_border">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/1280px-Aristotle_Altemps_Inv8575.jpg" width="300"/>
+
+</div>
+
+<div id = "left_border">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BL_Royal_Vincent_of_Beauvais.jpg/1280px-BL_Royal_Vincent_of_Beauvais.jpg" width="400"/>
+
+</div>
+
+<div id = "right_border">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/1280px-Da_Vinci_Vitruve_Luc_Viatour.jpg" width="400"/>
+
+</div>
 
 ---
 
