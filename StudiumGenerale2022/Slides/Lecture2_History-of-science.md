@@ -106,8 +106,56 @@ Oldest known usage of "scientist"
 
 
 # The "rebirth"
+
+----
+
+
+      ┌───────────────┐          ┌───────────────┐          ┌───────────────┐
+      │               │          │               │          │               │
+      │               │          │               │          │               │
+      │               │          │               │          │               │
+      │  Antiquity    ├─────────>│ Middle Ages   ├─────────>│  Renaissance  |
+      │               │          │               │          │               │
+      │800 BC-1400 AD │          │ 500 AD -1400  │          │  1400-1500    │
+      │               │          │               │          │               │
+      └───────────────┘          └───────────────┘          └───────────────┘
+
+---
+
+
+## Antiquity
+
+
+
+
+---
+
  
-## The "rebirth"
+## Renaissance
+
+<div id = "left">
+
+- sciences
+- technology
+- theology
+- music
+- art
+- education
+- architecture
+- law
+- literature
+
+</div>
+
+<div id = "right">
+
+
+</div>
+
+---
+
+
+
 This second ‘rebirth’ was the ‘Renaissance of the Twelfth Century’, a great explosion of creativity in the sciences, technology, theology, music, art, education, architecture, law, and literature. The triggers for this efflorescence remain open to debate. Some scholars point to a warmer, more favourable climate for Europe beginning in the 11th century (called the ‘Medieval Warm Period’) coupled with improvements in agriculture that brought enough food and prosperity for Europe’s population to double and perhaps triple within a relatively short time. The rise of urban centres, more stable social and political systems, more abundant food, and thus more time for thought and scholarship, all contributed to initiating this Renaissance.
 
  
