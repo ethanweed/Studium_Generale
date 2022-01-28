@@ -1,0 +1,11 @@
+- [ ] Welcome!
+- [ ] Introductions
+- [ ] Study groups
+	- [ ] How many are there?
+	- [ ] Is there one that Verena Anzenberger could join?
+- [ ] Course goals
+- [ ] Course structure
+	- [ ] Lecture/discussions
+	- [ ] Classic texts in linguistics
+- [ ] Exam
+- [ ] Today's topic: What is science?
