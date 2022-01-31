@@ -560,7 +560,7 @@ Chien-shiung Wu (1912-1997)
 
 ---
 
-## Good science (according to Popper) needs:
+## Good science needs:
 
 ::: incremental
 
