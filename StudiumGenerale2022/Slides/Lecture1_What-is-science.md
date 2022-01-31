@@ -5,8 +5,6 @@
 
 ## Studium Generale
 
-adfwdf
-
 
 ```
  
@@ -16,6 +14,7 @@ The term studium generale, or studium was used to designate universities early o
 - Georgedes (2006)
 
 ```
+
 ---
 
 ## "Universitas"
