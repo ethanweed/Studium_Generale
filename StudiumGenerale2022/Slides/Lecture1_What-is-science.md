@@ -532,7 +532,7 @@ The orbit can be better explained by taking into account the _curvature_ of spac
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Chien-shiung_Wu_%281912-1997%29_C.jpg" width="300"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Chien-shiung_Wu_%281912-1997%29_C.jpg" width="250"/>
 
 Chien-shiung Wu
 
