@@ -633,7 +633,7 @@ A test that is severe
 
 What goes for science also goes for politics
 
-<div id="center_border">
+<div id="left_border">
 
 - Political ideas should be criticized and discussed just as
   scientific ideas should be criticized and discussed
@@ -647,7 +647,13 @@ What goes for science also goes for politics
 
 ## Popper and our own psychology
 
+<div id = "center_border">
+
 How many of our own opinions are based on untested theories built on shaky background information?
+
+
+</div>
+
 
 ---
 
