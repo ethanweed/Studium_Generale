@@ -1,6 +1,3 @@
- 
-
-
 # Studium General
 
 ---
