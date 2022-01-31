@@ -76,7 +76,6 @@
 #center_border {
 	display: inline-block;
 	padding: 10px;
-	margin: 10px 0 10px 0;
 	text-align: center;
 	z-index:-10;
 	width:48%;
