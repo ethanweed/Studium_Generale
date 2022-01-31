@@ -862,11 +862,7 @@ On alternating sounds. The American Anthropologist 2, 47-53.
 
 ## References
 
-<style type="text/css">
-p { 
-	text-align: left; 
-}
-</style>
+<font size="1"> 
 
 Andrade, C., 2021. HARKing, Cherry-Picking, P-Hacking, Fishing Expeditions, and Data Dredging and Mining as Questionable Research Practices. _The Journal of Clinical Psychiatry_, _82_(1), pp.0-0.
 
