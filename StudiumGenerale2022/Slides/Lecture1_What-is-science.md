@@ -586,14 +586,24 @@ Is there a substantial theory?
 
 Solid background information
 
-::: incremental
+<div id = "left_border">
 
 - What are the auxiliary assumptions?
 - How reliable are they?
 - How do we evaluate their reliablity?
+
+</div>
+
+<div id = "right_border">
+
 - We cannot exhaustively test all of these every time, but we should do as much as possible to identify the auxiliaries to decide whether they are safe
 
-:::
+
+</div>
+
+
+
+
 
 
 ---
