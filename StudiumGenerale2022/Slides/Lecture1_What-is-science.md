@@ -391,7 +391,7 @@ the scientific status of a theory is its falsifiability, or refutability, or tes
 
 
 
-## Demarcation
+## Falsification
 
 <div id="left">
 
@@ -403,7 +403,8 @@ the scientific status of a theory is its falsifiability, or refutability, or tes
 
 ```
 Those among us who are unwilling to expose their ideas to the hazards of refutation do not take part in the game of science
--Popper, quoted in Dienes (2008) pg. 12
+
+- Popper, quoted in Dienes (2008) pg. 12
 
 
 ```
