@@ -591,7 +591,7 @@ Solid background information
 - What are the auxiliary assumptions?
 - How reliable are they?
 - How do we evaluate their reliablity?
-- We cannot exhaustively test all of these every time, but we should do as much as possible to identify the auxiliaries decide whether they are safe
+- We cannot exhaustively test all of these every time, but we should do as much as possible to identify the auxiliaries to decide whether they are safe
 
 :::
 
