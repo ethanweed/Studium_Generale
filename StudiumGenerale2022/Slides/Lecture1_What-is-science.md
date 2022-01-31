@@ -96,24 +96,3 @@ Designed to give an introduction to scientific and humanistic reasoning, praxis,
 
 
 ---
-
-## Goals
-
-Introduction to:
-
-- Scientific reasoning, praxis, and culture
-- The relationship of humanities and science
-- Major ideas in the philosophy of science
-- Linguistics in relation to other subjects
-- Classic texts in linguistics
-
-
----
-
-# What is science?
-
----
-
-## What is science?
-
-
