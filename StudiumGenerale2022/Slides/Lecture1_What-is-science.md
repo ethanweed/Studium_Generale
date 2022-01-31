@@ -817,8 +817,7 @@ It was the best of times, it was the worst of times, it was the New York Times. 
 document that is identical to a passage in a previously published work. In another method, every fifth word from sample passages is removed, and the author has to fill in the blanks to reveal his or her familiarity with the work. These high-tech ways  
 to spot literary theft will surely rob copycats of the sleep that knits up the raveled sleave of care.
 
-When I first read the Times article, I remember thinking, it’s a good thing and attention must be paid. After all, as a writer, I find plagiarism to be a constant concern. (Although from time to time, I have to admit, I shall consider it.) Of course, it can be hard to define. When you steal from one author, it’s plagiarism;  
-if you steal from many, it’s research. One might say that a writer should neither a borrower nor a lender be. On the other hand, imitation is the sincerest form of flattery. I shall never believe that God plays dice with the world. Therefore, the plagiarized passages that programs pinpoint are probably purposeful and potentially punishable. There is grandeur in this view of life. I think.
+When I first read the Times article, I remember thinking, it’s a good thing and attention must be paid. After all, as a writer, I find plagiarism to be a constant concern. (Although from time to time, I have to admit, I shall consider it.) Of course, it can be hard to define. When you steal from one author, it’s plagiarism;  if you steal from many, it’s research. One might say that a writer should neither a borrower nor a lender be. On the other hand, imitation is the sincerest form of flattery. I shall never believe that God plays dice with the world. Therefore, the plagiarized passages that programs pinpoint are probably purposeful and potentially punishable. There is grandeur in this view of life. I think.
 
 Plagiarism is a central issue of science as well. Relying on the work of others is the lifeblood of scientific research. Indeed, if I (who had the chance to learn physics that Newton never dreamed of ) have seen further, it is by standing on the shoulders of giants. One might even say that I have always depended on the kindness of strangers in this regard.  
 
@@ -831,12 +830,14 @@ of liberty. It is thus incumbent on all researchers to say, “Let me make this 
 
 ---
 
-## For Thursday:
+# For Thursday:
 
 <div id = "left">
 
 Group 1:
-Boas, Frans. 1889. On alternating sounds. The American Anthropologist 2, 47-53.
+
+Boas, Frans. 1889. 
+On alternating sounds. The American Anthropologist 2, 47-53.
 
 
 </div>
