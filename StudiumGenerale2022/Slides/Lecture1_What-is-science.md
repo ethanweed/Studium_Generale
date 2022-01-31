@@ -337,9 +337,46 @@ The realization that natural science is not indubitable epistēmē (scientia) 
 </div>
 
 
+---
 
+## Falsification
+
+```
+
+ 
+
+The most characteristic element in this situation seemed to me the incessant stream of confirmations, of observations which "verified" the theories in question; and this point was constantly emphasize by their adherents. A Marxist could not open a newspaper without finding on every page confirming evidence for his interpretation of history; not only in the news, but also in its presentation — which revealed the class bias of the paper — and especially of course what the paper did not say. The Freudian analysts emphasized that their theories were constantly verified by their "clinical observations." As for Adler, I was much impressed by a personal experience. Once, in 1919, I reported to him a case which to me did not seem particularly Adlerian, but which he found no difficulty in analyzing in terms of his theory of inferiority feelings, Although he had not even seen the child. Slightly shocked, I asked him how he could be so sure. "Because of my thousandfold experience," he replied; whereupon I could not help saying: "And with this new case, I suppose, your experience has become thousand-and-one-fold." 
+
+ 
+
+What I had in mind was that his previous observations may not have been much  sounder than this new one; that each in its turn had been interpreted in the light of "previous experience," and at the same time counted as additional confirmation. What, I asked myself, did it confirm? No more than that a case could be interpreted in the light of a theory. But this meant very little, I reflected, since every conceivable case could be interpreted in the light Adler's theory, or equally of Freud's.
+
+- Popper (1963)
+
+```
 
 ---
+
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width = "350"/>
+
+</div>
+
+<div id = "right_border">
+
+```
+
+the scientific status of a theory is its falsifiability, or refutability, or testability.
+- Popper (1963)
+
+```
+
+</div>
+
+---
+
+
 
 ## Demarcation
 
