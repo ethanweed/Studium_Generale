@@ -468,7 +468,7 @@ Accepting any observation statement involves accepting layers of theory supporti
 
 <div id="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Professor_Imre_Lakatos%2C_c1960s.jpg" width="350"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Professor_Imre_Lakatos%2C_c1960s.jpg" width="300"/>
 
 </div>
 
