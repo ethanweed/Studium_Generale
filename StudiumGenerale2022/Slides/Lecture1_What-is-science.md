@@ -633,7 +633,7 @@ A test that is severe
 
 What goes for science also goes for politics
 
-<div id="left_border">
+<div id="center_border">
 
 - Political ideas should be criticized and discussed just as
   scientific ideas should be criticized and discussed
