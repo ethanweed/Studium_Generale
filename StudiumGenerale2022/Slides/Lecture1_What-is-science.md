@@ -577,8 +577,14 @@ Chien-shiung Wu (1912-1997)
 
 Is there a substantial theory?
 
+<div id = "left_border">
+
 - A theory from which several predictions follow
 - A theory that says both what should happen and what should *not* happen
+
+</div>
+
+
 
 ---
 
@@ -612,9 +618,15 @@ Solid background information
 
 A test that is severe
 
+<div id = "right_border">
+
 - A test should make a theory stick its neck out
 - A severe test is one in which the predicted outcome is likely given the theory and unlikely given the rest of the background knowledge
 - Confounding factors
+
+</div>
+
+
 
 ---
 
