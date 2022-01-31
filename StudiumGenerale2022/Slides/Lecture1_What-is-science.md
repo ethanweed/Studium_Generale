@@ -341,6 +341,15 @@ The realization that natural science is not indubitable epistēmē (scientia) 
 
 ## Falsification
 
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width = "350"/>
+
+</div>
+
+
+<div id = "right">
+
 ```
 
  
@@ -354,6 +363,10 @@ What I had in mind was that his previous observations may not have been much  so
 - Popper (1963)
 
 ```
+
+
+</div>
+
 
 ---
 
