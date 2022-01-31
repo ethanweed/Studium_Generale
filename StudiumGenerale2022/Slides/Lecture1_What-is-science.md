@@ -620,7 +620,6 @@ A test that is severe
 
 <div id = "right_border">
 
-- A test should make a theory stick its neck out
 - A severe test is one in which the predicted outcome is likely given the theory and unlikely given the rest of the background knowledge
 - Confounding factors
 
