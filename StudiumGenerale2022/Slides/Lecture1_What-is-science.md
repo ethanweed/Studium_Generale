@@ -862,14 +862,7 @@ On alternating sounds. The American Anthropologist 2, 47-53.
 
 ## References
 
-
-
-<style type="text/css">
-p { 
-	text-align: left; 
-	font-size: x-small;
-}
-</style>
+```
 
 Andrade, C., 2021. HARKing, Cherry-Picking, P-Hacking, Fishing Expeditions, and Data Dredging and Mining as Questionable Research Practices. _The Journal of Clinical Psychiatry_, _82_(1), pp.0-0.
 
@@ -896,6 +889,10 @@ Roig, M., 2006. Avoiding plagiarism, self-plagiarism, and other questionable wri
 Stapel, D.A. and Blanton, H., 2004. From seeing to being: subliminal social comparisons affect implicit and explicit self-evaluations. _Journal of personality and social psychology_, _87_(4), p.468.
 
 Winawer, J., Witthoft, N., Frank, M.C., Wu, L., Wade, A.R. and Boroditsky, L., 2007. Russian blues reveal effects of language on color discrimination. _Proceedings of the national academy of sciences_, _104_(19), pp.7780-7785.
+
+
+
+```
 
 
 
