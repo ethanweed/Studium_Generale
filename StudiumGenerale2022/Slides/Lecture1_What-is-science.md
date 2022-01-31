@@ -3,7 +3,7 @@
 
 ---
 
-## Studium Generale
+## "Studium Generale"
 
 
 ```
