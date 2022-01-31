@@ -1,11 +1,11 @@
  
 
 
-## Studium General
+# Studium General
 
 ---------------------------------------- 
 
-### Studium Generale
+## Studium Generale
 
 ```
  
@@ -17,7 +17,7 @@ The term studium generale, or studium was used to designate universities early o
 ```
 ---
 
-### "Universitas"
+## "Universitas"
 
 - Whole
 - Community
@@ -26,7 +26,7 @@ The term studium generale, or studium was used to designate universities early o
 
 ---
 
-### "University"
+## "University"
 
 ```
  
@@ -39,7 +39,7 @@ the term universitas in the medieval context was the term for a guild or a corpo
 
 ---
 
-### Medieval Universities
+## Medieval Universities
 
 
 
@@ -62,7 +62,7 @@ the term universitas in the medieval context was the term for a guild or a corpo
  
 ---------------------------------------- 
 
-### Aarhus University
+## Aarhus University
 
 
 
@@ -85,7 +85,7 @@ the term universitas in the medieval context was the term for a guild or a corpo
 
 ---
 
-### This course
+## This course
 
 
 ```   
@@ -97,7 +97,7 @@ Designed to give an introduction to scientific and humanistic reasoning, praxis,
 
 ---
 
-### Goals
+## Goals
 
 Introduction to:
 
@@ -110,11 +110,11 @@ Introduction to:
 
 ---
 
-### What is science?
+## What is science?
 
 ---
 
-### What is science?
+## What is science?
 
 
 
@@ -142,7 +142,7 @@ Compare with:
 
 ---
 
-### Is science defined by its methods?
+## Is science defined by its methods?
 
 - Experimentation
 - Hypothesis-testing
@@ -151,7 +151,7 @@ Compare with:
 
 ---
 
-### Experimentation & data collection
+## Experimentation & data collection
 
 - Historians collect data
 - Historians develop theories
@@ -160,7 +160,7 @@ Compare with:
 
 ---
 
-### Theory-construction & data collection
+## Theory-construction & data collection
 
 
 ```
@@ -173,7 +173,7 @@ About 30 years ago there was much talk that Geologists ought only to observe & n
 
 ---
 
-### Theory-construction & data collection
+## Theory-construction & data collection
 
 ```
 
@@ -187,7 +187,7 @@ If we consider the origin of our knowledge, it is no less certain that … [as] 
 
 ---
 
-### Scientific authority
+## Scientific authority
 
 
 Scienctific authority comes from the confrontation of ideas with empirical data.
@@ -198,7 +198,7 @@ Other systems of authority come from texts (e.g. religion, political ideology)
 
 ---
 
-### Scientific texts
+## Scientific texts
 
 Peer-reviewed publications
 
@@ -206,7 +206,7 @@ Peer-reviewed publications
 
 ---
 
-### Other characteristics of science
+## Other characteristics of science
 
 - Science is descriptive not prescriptive
 - Science is useful
@@ -214,7 +214,7 @@ Peer-reviewed publications
 
 ---
 
-### Which fields count as science?
+## Which fields count as science?
 
 - Mathematics?
  - Archaelogy?
@@ -223,7 +223,7 @@ Peer-reviewed publications
 
 ---
 
-### Science as induction
+## Science as induction
 
 **Deduction**: If the premises are correct, the conclusion is _certain_  
 
@@ -231,7 +231,7 @@ Peer-reviewed publications
 
 ---
 
-### Induction: Hume’s problem
+## Induction: Hume’s problem
 
 David Hume (1711-1776)
 
@@ -254,7 +254,7 @@ There is *no* amount of evidence that will ever be enough for us to justify beli
 
 ---
 
-### Induction
+## Induction
 
 Bertrand Russell (1872-1970)
 
@@ -274,7 +274,7 @@ If we don’t figure out how induction could be valid there is no way to decide 
 
 ---
 
-### Induction
+## Induction
 
 Karl Popper (1902-1994)
 
@@ -294,7 +294,7 @@ We don’t need to work out how induction can be valid. Just because induction c
 
 ---
 
-### Popper
+## Popper
 
 
 
@@ -349,7 +349,7 @@ Those among us who are unwilling to expose their ideas to the hazards of refutat
 
 ---
 
-### Demarcation
+## Demarcation
 
 <div id="left_border">
 Science vs pseudoscience
@@ -397,7 +397,7 @@ Accepting any observation statement involves accepting layers of theory supporti
 
 ---
 
-### All theories are falsified anyway
+## All theories are falsified anyway
 
 <div id="left">
 
@@ -413,7 +413,7 @@ Accepting any observation statement involves accepting layers of theory supporti
 </div>
 ---
 
-### Who believes in..
+## Who believes in..
 
 
 <div id="left">
@@ -430,7 +430,7 @@ Phlogiston
 
 ---
 
-### Even things we do "believe" are "wrong"
+## Even things we do "believe" are "wrong"
 
 <div id = "left_border">
 Newtonian physics cannot entirely explain Mercury's orbit
@@ -448,7 +448,7 @@ The orbit can be better explained by taking into account the _curvature_ of spac
 
 ---
 
-### Not right, but also... not wrong
+## Not right, but also... not wrong
 
 <div id = "left">
 :::incremental
@@ -493,7 +493,7 @@ Chien-shiung Wu
 
 ---
 
-### Good science (according to Popper) needs:
+## Good science (according to Popper) needs:
 
 ::: incremental
 
@@ -506,17 +506,17 @@ Chien-shiung Wu
 
 ---
 
-### Using Popper to critique a paper
+## Using Popper to critique a paper
 
-#### Is there a substantial theory?
+### Is there a substantial theory?
 - A theory from which several predictions follow
 - A theory that says both what should happen and what should *not* happen
 
 ---
 
-### Using Popper to critique a paper
+## Using Popper to critique a paper
 
-#### Solid background information
+### Solid background information
 
 ::: incremental
 
@@ -530,9 +530,9 @@ Chien-shiung Wu
 
 ---
 
-### Using Popper to critique a paper
+## Using Popper to critique a paper
 
-#### A test that is severe
+### A test that is severe
 
 - A test should make a theory stick its neck out
 - A severe test is one in which the predicted outcome is likely given the theory and unlikely given the rest of the background knowledge
@@ -540,7 +540,7 @@ Chien-shiung Wu
 
 ---
 
-### Popper and politics
+## Popper and politics
 
 <div id="left_border">
 - What goes for science also goes for politics
@@ -554,17 +554,17 @@ Chien-shiung Wu
 
 ---
 
-### Popper and our own psychology
+## Popper and our own psychology
 
 How many of our own opinions are based on untested theories built on shaky background information?
 
 ---
 
-### Scientific Hoaxes and Data Manipulation
+## Scientific Hoaxes and Data Manipulation
 
 ---
 
-### Piltdown Man
+## Piltdown Man
 
 
 
@@ -584,7 +584,7 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ---
 
-### Harm done by hoaxes and manipulation
+## Harm done by hoaxes and manipulation
 
 
 
@@ -610,7 +610,7 @@ How many of our own opinions are based on untested theories built on shaky backg
 ---
 
 
-### Diederik Stapel
+## Diederik Stapel
 
 
 
@@ -628,8 +628,8 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ---
 
-### Dawson and Stapel: 
-#### Telling us what we want to hear.
+## Dawson and Stapel: 
+### Telling us what we want to hear.
 
 ```
 
@@ -645,7 +645,7 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ---
 
-### A silver lining?
+## A silver lining?
 
 
 
@@ -664,7 +664,7 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ---
 
-### Plagiarism
+## Plagiarism
 
 <div id = "left">
 
@@ -685,7 +685,7 @@ How many of our own opinions are based on untested theories built on shaky backg
 </div>
 ---
 
-### For Thursday:
+## For Thursday:
 
 <div id = "left">
 
@@ -706,7 +706,7 @@ Boas, Frans. 1889. On alternating sounds. The American Anthropologist 2, 47-53.
 
 ---
 
-### References
+## References
 
 <font size = 2>
 

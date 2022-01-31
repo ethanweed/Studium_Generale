@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drejebog Class 1.md",
+            "file": "Slides/Lecture1_What-is-science.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drejebog Class 1.md",
+                "file": "Slides/Lecture1_What-is-science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5c3f5698b1fc6686",
   "lastOpenFiles": [
-    "Drejebog Class 1.md",
+    "Slides/Lecture1_What-is-science.md",
     "CourseInfo/Students_schedule - spring_semester.md",
+    "Drejebog Class 1.md",
     "Classic Texts/01_Boas_questions.md",
     "Classic Texts/01_Boas_1889.pdf",
     "Classic Texts/01_Boas_1889.md",
     "Slides/Lecture2_History-of-science.md",
     "Templates/3 images horizontal.md",
     "Literature/01_Principe Ch 1 & 2.md",
-    "Slides/Lecture1_What-is-science.md",
     "Slides/Lecture3_Philosophy-of-science1.md"
   ]
 }
