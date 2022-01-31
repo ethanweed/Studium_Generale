@@ -830,7 +830,11 @@ of liberty. It is thus incumbent on all researchers to say, “Let me make this 
 
 ---
 
-# For Thursday:
+# For Thursday
+
+---
+
+## For Thursday
 
 <div id = "left">
 
