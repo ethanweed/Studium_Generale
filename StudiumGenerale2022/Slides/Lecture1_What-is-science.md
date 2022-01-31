@@ -211,10 +211,26 @@ If we consider the origin of our knowledge, it is no less certain that … [as] 
 
 ## Which fields count as science?
 
+<div id = "left">
+
+- Physics
+- Chemistry
+- Biology
+
+</div>
+
+<div id = "right">
+
 - Mathematics?
- - Archaelogy?
+- Archaelogy?
 - Psychology?
 - Linguistics?
+- Computer science?
+- Data science?
+
+</div>
+
+
 
 ---
 
