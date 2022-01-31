@@ -620,7 +620,7 @@ A test that is severe
 
 <div id = "right_border">
 
-- A severe test is one in which the predicted outcome is likely given the theory and unlikely given the rest of the background knowledge
+- A severe test is one in which the predicted outcome is _likely_ given the theory and _unlikely_ given the rest of the background knowledge
 - Confounding factors
 
 </div>
