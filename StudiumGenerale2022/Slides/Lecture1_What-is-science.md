@@ -1,5 +1,6 @@
 # Studium General
 
+
 ---
 
 ## "Studium Generale"
@@ -84,9 +85,7 @@ the term universitas in the medieval context was the term for a guild or a corpo
 
 ---
 
-# This Course
-
----
+# This course
 
 
 ```   
@@ -225,30 +224,4 @@ Peer-reviewed publications
 ---
 
 # Science as induction
-
-**Deduction**: If the premises are correct, the conclusion is _certain_  
-
-**Induction**: If the premises are correct, the conclusion in _probable_
-
----
-
-## Induction: Hume’s problem
-
-David Hume (1711-1776)
-
-
-
-<div id="left">
-
-
-<img class="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg" width = "300"/>
-
-</div>
-
-<div id="right">
-
-There is *no* amount of evidence that will ever be enough for us to justify believing a theory without a shadow of a doubt.
-
-</div>
-
 
