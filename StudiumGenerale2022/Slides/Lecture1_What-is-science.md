@@ -185,9 +185,9 @@ If we consider the origin of our knowledge, it is no less certain that … [as] 
 ## Scientific authority
 
 
-Scienctific authority comes from the confrontation of ideas with empirical data.
+- Scienctific authority comes from the confrontation of ideas with empirical data.
 
-Other systems of authority come from texts (e.g. religion, political ideology)
+- Other systems of authority come from texts (e.g. religion, political ideology)
 
 
 
