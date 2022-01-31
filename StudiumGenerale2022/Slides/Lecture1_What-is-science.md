@@ -711,6 +711,25 @@ Questionable research practices (QRPs) in the statistical analysis of data and i
 
 ---
 
+## For Thursday:
+
+<div id = "left">
+
+Group 1:
+Boas, Frans. 1889. On alternating sounds. The American Anthropologist 2, 47-53.
+
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/FranzBoas.jpg" width="400"/>
+
+</div>
+
+---
+
+
 
 # References
 
