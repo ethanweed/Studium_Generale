@@ -860,7 +860,7 @@ On alternating sounds. The American Anthropologist 2, 47-53.
 
 ---
 
-## adfadf
+## References
 
 <style type="text/css">
 p { 
