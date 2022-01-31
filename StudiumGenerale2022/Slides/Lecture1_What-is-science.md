@@ -586,14 +586,14 @@ Is there a substantial theory?
 
 Solid background information
 
-<div id = "left_border">
+<div id = "left_border_small">
 
 - What are the auxiliary assumptions?
 - How do we evaluate their reliablity?
 
 </div>
 
-<div id = "right_border">
+<div id = "right_border_small">
 
 - We cannot exhaustively test all of these every time, but we should do as much as possible to identify the auxiliaries to decide whether they are safe
 
