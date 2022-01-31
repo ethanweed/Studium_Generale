@@ -85,7 +85,7 @@ the term universitas in the medieval context was the term for a guild or a corpo
 
 ---
 
-## This course
+# This course
 
 
 ```   
@@ -110,7 +110,7 @@ Introduction to:
 
 ---
 
-## What is science?
+# What is science?
 
 ---
 
@@ -223,7 +223,7 @@ Peer-reviewed publications
 
 ---
 
-## Science as induction
+# Science as induction
 
 **Deduction**: If the premises are correct, the conclusion is _certain_  
 
@@ -560,7 +560,7 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ---
 
-## Scientific Hoaxes and Data Manipulation
+# Hoaxes and Data Manipulation
 
 ---
 
@@ -641,6 +641,28 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 
 ```
+
+
+---
+
+## Questionable Research Practices
+
+<div id = "left">
+
+- p-hacking
+- HARKing
+- Cherry-picking
+- Fishing Expeditions
+
+</div>
+
+<div id = "right">
+
+```
+Questionable research practices (QRPs) in the statistical analysis of data and in the presentation of the results in research papers include HARKing, cherry-picking, P-hacking, fishing, and data dredging or mining. HARKing (Hypothesizing After the Results are Known) is the presentation of a post hoc hypothesis as an a priori hypothesis. Cherry-picking is the presentation of favorable evidence with the concealment of unfavorable evidence. P-hacking is the relentless analysis of data with an intent to obtain a statistically significant result, usually to support the researcher's hypothesis. A fishing expedition is the indiscriminate testing of associations between different combinations of variables not with specific hypotheses in mind but with the hope of finding something that is statistically significant in the data. Data dredging and data mining describe the extensive testing of relationships between a large number of variables for which data are available, usually in a database.
+```
+
+</div>
 
 
 ---
