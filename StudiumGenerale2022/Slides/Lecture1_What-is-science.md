@@ -589,6 +589,7 @@ Solid background information
 <div id = "left_border_small">
 
 - What are the auxiliary assumptions?
+- How reliable are they?
 - How do we evaluate their reliablity?
 
 </div>
