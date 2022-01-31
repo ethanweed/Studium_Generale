@@ -195,9 +195,9 @@ If we consider the origin of our knowledge, it is no less certain that … [as] 
 
 ## Scientific texts
 
-Peer-reviewed publications
+- Peer-reviewed publications
 
-(p-hacking, journal impact factor, reputation, etc.)
+- (p-hacking, journal impact factor, reputation, etc.)
 
 ---
 
