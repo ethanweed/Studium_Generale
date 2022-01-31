@@ -3,6 +3,10 @@
 
 ---
 
+# Studium General
+
+---
+
 ## Studium Generale
 
 ```
