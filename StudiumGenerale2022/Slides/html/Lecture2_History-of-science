@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>metadata</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js//dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js//dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js//dist/theme/serif.css" id="theme">
+  
+
+  <style>
+
+  #left {
+  	margin: 10px 0 15px 0;
+  	text-align: left;
+  	float: left;
+  	z-index:-10;
+  	width:48%;
+  	font-size: 0.85em;
+  	line-height: 1.5; 
+
+  }
+
+  #right {
+  	margin: 10px 0 15px 0;
+  	float: right;
+  	text-align: left;
+  	z-index:-10;
+  	width:48%;
+  	font-size: 0.85em;
+  	line-height: 1.5;	
+  }
+
+  #left_border {
+  	padding: 10px;
+  	margin: 10px 0 15px 0;
+  	text-align: left;
+  	float: left;
+  	z-index:-10;
+  	width:48%;
+  	font-size: 0.85em;
+  	line-height: 1.5; 
+  	border: 1px solid #000000;
+            border-radius: 10px;
+  }
+
+  #right_border {
+  	padding: 10px;
+  	margin: 10px 0 15px 0;
+  	float: right;
+  	text-align: left;
+  	z-index:-10;
+  	width:48%;
+  	font-size: 0.85em;
+  	line-height: 1.5;
+  	border: 1px solid #000000;
+            border-radius: 10px;	
+  }
+
+  #left_border_small {
+  	margin: 10px 0 15px 0;
+  	text-align: left;
+  	float: left;
+  	z-index:-10;
+  	width:48%;
+  	font-size: 0.85em;
+  	line-height: 1.5; 
+  	border: 1px solid #000000;
+            border-radius: 10px;
+  }
+
+  #right_border_small {
+  	margin: 10px 0 15px 0;
+  	float: right;
+  	text-align: left;
+  	z-index:-10;
+  	width:48%;
+  	font-size: 0.85em;
+  	line-height: 1.5;
+  	border: 1px solid #000000;
+            border-radius: 10px;	
+  }
+
+  #center_border {
+  	display: inline-block;
+  	padding: 1em;
+  	justify-content: center;
+  	z-index:-10;
+  	width:48%;
+  	font-size: 0.85em;
+  	line-height: 1.5;
+  	border: 1px solid #000000;
+            border-radius: 10px;	
+  }
+
+  /* mouse over link */
+  a:hover {
+    color: red;
+  }
+
+  </style>
+
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+
+<section>
+<section id="history-of-science" class="title-slide slide level1">
+<h1>History of Science</h1>
+
+</section>
+<section class="slide level2">
+
+</section></section>
+<section>
+<section id="review" class="title-slide slide level1">
+<h1>Review</h1>
+
+</section>
+<section id="quiz" class="slide level2">
+<h2>Quiz</h2>
+<div id="left">
+<ul>
+<li>What is science?</li>
+<li>What was Popper’s major contribution to the Philosophy of Science?</li>
+<li>Why are scientific hoaxs, fraud, and plagiarism harmful?</li>
+</ul>
+</div>
+<div id="right">
+<p><img src="https://maps.lib.utexas.edu/maps/historical/shepherd/mediaeval_universities.jpg"/></p>
+</div>
+</section>
+<section id="science" class="slide level2">
+<h2>“Science”</h2>
+<div id="left">
+<pre><code>
+Our present use of the word ‘science’ was first coined in the nineteenth century and, strictly speaking, there was no such thing as ‘science’ in our sense in the early modern period. To talk as though there was, as I have been doing, is an obviously whiggish distortion. Part of our aim, in looking at the historical development of what we think of as science, should be to understand how the very concept ‘science’ arose; we simply beg the question if we talk about ‘science’ as though it always existed.
+
+Henry (2008)
+</code></pre>
+</div>
+<div id="right_border">
+<ul>
+<li>What does “whiggish” mean?</li>
+<li>What is the etymology of <em>science</em> and <em>scientist</em>?</li>
+<li>How do you understand the link between the word science and the concept of science in the first sentence of the quote – i.e. what do you think Henry means?</li>
+</ul>
+</div>
+</section>
+<section id="science-1" class="slide level2">
+<h2>“Science”</h2>
+<h3 id="science-n.">science (n.)</h3>
+<pre><code>mid-14c., &quot;what is known, knowledge (of something) acquired by study; information;&quot; also &quot;assurance of knowledge, certitude, certainty,&quot; from Old French science &quot;knowledge, learning, application; corpus of human knowledge&quot; (12c.), from Latin scientia &quot;knowledge, a knowing; expertness,&quot; from sciens(genitive scientis) &quot;intelligent, skilled,&quot; present participle of scire &quot;to know,&quot; probably originally &quot;to separate one thing from another, to distinguish,&quot; related to scindere &quot;to cut, divide&quot; (from PIE root [*skei-](https://www.etymonline.com/word/*skei-?ref=etymonline_crossreference &quot;Etymology, meaning and definition of *skei- &quot;) &quot;to cut, split;&quot; source also of Greek skhizein &quot;to split, rend, cleave,&quot; Gothic skaidan, Old English sceadan &quot;to divide, separate&quot;).
+
+Online Etymology Dictionary (https://www.etymonline.com/word/science)
+</code></pre>
+</section>
+<section id="science-2" class="slide level2">
+<h2>“Science”</h2>
+<h3 id="scientist-n.">scientist (n.)</h3>
+<pre><code>1834, a hybrid coined from Latin scientia by the Rev. William Whewell, English polymath, by analogy with *artist*, in the same paragraph in which he coined physicist (q.v.).
+
+Online Etymology Dictionary (https://www.etymonline.com/word/scientist)
+</code></pre>
+</section>
+<section id="science-3" class="slide level2">
+<h2>“Science”</h2>
+<div id="left">
+<p>Oldest known usage of “scientist”</p>
+<pre><code>1834   W. Whewell in _Q. Rev._ **51** 59   Science..loses all traces of unity. A curious illustration of this result may be observed in the want of any name by which we can designate the students of the knowledge of the material world collectively. We are informed that this difficulty was felt very oppressively by the members of the British Association for the Advancement of Science, at their meetings..in the last three summers... &quot;Philosophers&quot; was felt to be too wide and too lofty a term,..; &quot;savans&quot; was rather assuming,..; some ingenious gentleman proposed that, by analogy with &quot;artist&quot;, they might form &quot;scientist&quot; [...]
+
+- Oxford English Dictionary
+</code></pre>
+</div>
+<div id="right">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/William_Whewell._Stipple_engraving._Wellcome_V0006267.jpg/600px-William_Whewell._Stipple_engraving._Wellcome_V0006267.jpg" width="300"/></p>
+</div>
+</section>
+<section class="slide level2">
+
+</section></section>
+<section>
+<section id="the-rebirth" class="title-slide slide level1">
+<h1>The “rebirth”</h1>
+
+</section>
+<section id="birth-death-and-rebirth" class="slide level2">
+<h2>Birth, death, and rebirth</h2>
+<section>
+<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/1280px-Aristotle_Altemps_Inv8575.jpg"> <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BL_Royal_Vincent_of_Beauvais.jpg/1280px-BL_Royal_Vincent_of_Beauvais.jpg"> <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/1280px-Da_Vinci_Vitruve_Luc_Viatour.jpg">
+</section>
+</section>
+<section id="antiquity" class="slide level2">
+<h2>Antiquity</h2>
+<div id="left">
+<p><em>Aristotle</em>: our <a href="https://en.wikipedia.org/wiki/Aristotle">“intellectual lexicon”</a></p>
+<ul>
+<li>biology</li>
+<li>art</li>
+<li>language</li>
+<li>physics</li>
+<li>government</li>
+<li>economics</li>
+<li>logic</li>
+<li>…</li>
+</ul>
+</div>
+<div id="right">
+<p><img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/1280px-Aristotle_Altemps_Inv8575.jpg"></p>
+</div>
+</section>
+<section id="middle-ages" class="slide level2">
+<h2>Middle Ages</h2>
+<div id="left">
+<p>Aristotle as the source of all knowledge</p>
+<ul>
+<li>Translations of Aristotle</li>
+<li><em>Meteorologica</em>: common source of all metals</li>
+<li>Alchemy</li>
+</ul>
+</div>
+<div id="right">
+<p><img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BL_Royal_Vincent_of_Beauvais.jpg/1280px-BL_Royal_Vincent_of_Beauvais.jpg"></p>
+</div>
+</section>
+<section id="renaissance" class="slide level2">
+<h2>Renaissance</h2>
+<div id="left">
+<ul>
+<li>sciences</li>
+<li>technology</li>
+<li>theology</li>
+<li>music</li>
+<li>art</li>
+<li>education</li>
+<li>architecture</li>
+<li>law</li>
+<li>literature</li>
+</ul>
+</div>
+<div id="right">
+<p><img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/1280px-Da_Vinci_Vitruve_Luc_Viatour.jpg"></p>
+</div>
+</section>
+<section id="rediscovery" class="slide level2">
+<h2>Rediscovery</h2>
+<div id="left">
+<ul>
+<li>Plato</li>
+<li>Socrates</li>
+<li>Protagoras</li>
+</ul>
+<p>Other perspectives than Aristotle</p>
+</div>
+<div id="right">
+<section>
+<img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg/440px-Plato_Silanion_Musei_Capitolini_MC1377.jpg"> <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/440px-Socrate_du_Louvre.jpg">
+</section>
+</div>
+</section>
+<section id="causes" class="slide level2">
+<h2>Causes</h2>
+<div id="left">
+<ul>
+<li>warmer climate (?)</li>
+<li>improved agriculture</li>
+<li>larger towns and cities</li>
+<li>stable social systems</li>
+<li>univerisities</li>
+</ul>
+</div>
+<div id="right_border">
+<p>Food, shelter, and security give space for thought.</p>
+</div>
+</section>
+<section id="the-concept-of-the-middle-ages" class="slide level2">
+<h2>The concept of the Middle Ages</h2>
+<pre><code>the most enduring invention of the Renaissance has been the concept of the Middle Ages, to the extent that we have no name for the period 500 to 1300 that is not suffused with the disdain Italian humanists felt towards it.
+
+- Principe (2011)</code></pre>
+</section>
+<section id="movable-type" class="slide level2">
+<h2>Movable Type</h2>
+<div id="left">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Chodowiecki_Basedow_Tafel_21_c_Z.jpg" width="400"/></p>
+</div>
+<div id="right">
+<ul>
+<li>Johannes Gutenberg (c. 1398–1468)</li>
+<li>Easier access to books</li>
+<li>Exact duplications</li>
+<li>Nearly 10 million books by 1500</li>
+</ul>
+</div>
+</section>
+<section id="paper-ephemera" class="slide level2">
+<h2>Paper Ephemera</h2>
+<div id="left">
+<ul>
+<li>New media types</li>
+<li>New media branch: the “press”</li>
+<li>Higher literacy rates</li>
+</ul>
+</div>
+<div id="right">
+<p><em>Relation aller Fürnemmen und gedenckwürdigen Historien</em> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Relation_Aller_Fuernemmen_und_gedenckwuerdigen_Historien_%281609%29.jpg" width="300"/></p>
+</div>
+</section>
+<section id="printed-diagrams" class="slide level2">
+<h2>Printed diagrams</h2>
+<div id="left">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Vesalius_Fabrica_p163.jpg/340px-Vesalius_Fabrica_p163.jpg" width="300"/></p>
+</div>
+<p>One easily overlooked feature of printing was its ability to reproduce images and diagrams. Illustrations posed a problem for the manuscript tradition since the ability to render drawings accurately depended upon the copyist’s draftsmanship, and often upon his understanding of the text. Consequently, every copy meant degradation for anatomical renderings, botanical and zoological illustrations, maps, charts, and mathematical or technological diagrams. Some copyists simply omitted difficult graphics. Printing meant that an author could oversee the production of a master woodcut or engraving, which could then produce identical copies easily and reliably. Under such conditions, authors were more willing and able to include images in their texts, enabling the growth of scientific illustration for the first time.</p>
+</section>
+<section id="new-information-from-the-new-world" class="slide level2">
+<h2>New information from the New World</h2>
+<p>It is hard to imagine the flood of data that poured into Europe from the New World. New plants, new animals, new minerals, new medicines, and reports of new peoples, languages, ideas, observations, and phenomena overwhelmed the Old World’s ability to digest them. This was true ‘information overload’, and it demanded revisions to ideas about the natural world and new methods for organizing knowledge. Traditional systems of classifying plants and animals were exploded by the discovery of new and bizarre creatures. Observations of human habitation virtually everywhere explorers could reach refuted the ancient notion that the world was divided into five climatic regions – two temperate ones and three rendered uninhabitable due to excessive heat or cold.</p>
+</section></section>
+<section>
+<section id="patterns-in-nature" class="title-slide slide level1">
+<h1>Patterns in Nature</h1>
+
+</section>
+<section id="the-context-of-science" class="slide level2">
+<h2>The context of science</h2>
+<p>The natural philosopher of the Middle Ages or of the Scientific Revolution studied the natural world – as modern scientists do – but did so within a wider vision that included theology and metaphysics. The three components of God, man, and nature were never insulated from one another. Natural philosophical outlooks gradually gave way to more specialized and narrow ‘scientific’ ones only during the 19th century (the age in which the word ‘scientist’ was first coined). The work and motivations of early modern natural philosophers cannot be properly understood or appreciated without keeping the distinct character of natural philosophy in mind. Their questions and goals were not necessarily our questions and goals, even when the very same natural objects were being studied. Hence, the history of science cannot be written by pulling scientific ‘firsts’ out of their historical context, but only by seeing with eyes and minds of our historical characters.</p>
+</section>
+<section id="the-sunflower-and-the-sun" class="slide level2">
+<h2>The sunflower and the sun</h2>
+<p>Magia is perhaps best translated for moderns as ‘mastery’. The goal of the practitioner of magia, called a magus, is to learn and to control the connections embedded in the world in order to manipulate them for practical ends. Look again at Kircher’s frontispiece. In the upper left-hand corner, magia naturalis is listed among the branches of knowledge, between arithmetic and medicine. Kircher symbolizes it with the turning of a sunflower to follow the Sun across the sky throughout the day. (Several plants display this behaviour, known as heliotropism.) Why does the sunflower always turn towards the Sun while most plants do not? Clearly, there must be some special link between Sun and sunflower. The ability of the sunflower to follow the Sun provided a prime example of the hidden connections and forces in the world that the magus endeavoured to identify and control.</p>
+<p>## Hidden knots in nature (<em>magia naturalis</em>) Given the immense variety of nature, the task of the aspiring magus is mind- bogglingly immense – no less than cataloguing the properties of everything. Could there be a shortcut? Some natural philosophers believed that nature contained clues to guide the magus, perhaps as hints implanted there by a merciful God who wants us to understand His creation and benefit from it. The doctrine of signatures claims that some natural objects are ‘signed’ with indications of their hidden qualities. Often, this means that two connected objects look somehow similar, or have some analogous characteristics; for example, the sunflower not only follows the Sun, its blossom actually resembles the Sun in colour and shape. Various parts of plants resemble various parts of the human body; a walnut nestled in its shell looks remarkably like a brain inside the skull. Is this a sign that walnuts would provide good medicines for the brain? The practitioner of magia would have to try these things out to be sure, but observation coupled with the idea of signatures provided a useful point of departure for investigating, explaining, and using the natural world.</p>
+<h3 id="god-as-a-romance-author">God as a Romance author</h3>
+<p>The English natural philosopher Robert Boyle (1627–91), renowned for his work in chemistry (chemistry students still have to learn Boyle’s Law that the volume of a gas is inversely proportional to the pressure exerted upon it), wrote that the world is like ‘a well contriv’d Romance’. Here, Boyle alludes to the massive French novels of his day (of which he was very fond). These romances often run to more than two thousand pages in length, and feature a memory-taxing myriad of characters whose complex storylines constantly converge and diverge in surprising ways, full of revelations about who is secretly in love with whom and who is really whose long-lost brother, child, or what-not. For Boyle, the Creator is the ultimate romance writer, and scientific investigators are the readers trying to figure out all the relationships and crisscrossing storylines in the world He wrote.</p>
+</section>
+<section id="good-induction-wrong-conclusions" class="slide level2">
+<h2>Good induction, wrong conclusions</h2>
+<p>At the present time, applications of magia naturalis and the whole idea of an interconnected world of sympathies and analogies are sometimes dismissed as irrational or superstitious. But this harsh judgement is faulty. It results from a certain smug arrogance and a failure to exercise historical understanding. What our predecessors did was to observe various mysterious and apparently similar phenomena in nature and to extrapolate thence into a more universal statement – a law of nature – about connections and the transmission of influences in the world. This extrapolation led to one tenet that they held that we do not; namely, that similar or analogous objects silently exert influence upon one another. Once that assumption is made, then the rest of the system builds upon it rationally. They were trying to understand the world; they were trying to make sense of things and to make use of the powers of nature. They moved inductively from observed or reported instances to a general principle and then deductively to its consequences and applications. We might choose to say, informed as we are by more recent studies, that the action between Sun and sunflower, or Moon and sea, or magnet and iron, can be better explained by something other than hidden knots of sympathy. But that does not permit us to say that their methods or conclusions were irrational, or that the beliefs and practices that came from them were ‘superstitious’. If that leap were allowed, then every scientific theory that comes ultimately to be rejected in the course of the development of our understanding of the world – no doubt including some things that we today believe to be true explanations of phenomena – would have to be judged irrational and superstitious as well, rather than simply mistaken notions that were arrived at rationally given the ideas, perspectives, and information available at the time.</p>
+</section>
+<section id="the-scientist-priest" class="slide level2">
+<h2>The scientist-priest</h2>
+<p>Robert Boyle, for example, considered his scientific inquiries to be a type of religious devotion (and thus particularly appropriate to do on Sundays) that heightens the natural philosopher’s knowledge and awareness of God through the contemplation of His creation. He described the natural philosopher as a ‘priest of nature’ whose duty it was to expound and interpret the messages written in the Book of Nature, and to gather together and give voice to all creation’s silent praise of its Creator.</p>
+</section>
+<section class="slide level2">
+
+<h3 id="references">References</h3>
+<p>Henry, J., 2008. <em>The scientific revolution and the origins of modern science</em>. Macmillan International Higher Education.</p>
+</section></section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js//dist/reveal.js"></script>
+
+  <!-- reveal.js plugins -->
+  <script src="https://unpkg.com/reveal.js//plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js//plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js//plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: true,
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: false,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'default',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'slide',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>
