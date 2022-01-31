@@ -880,7 +880,7 @@ Mirsky, Steve. 2014. ‘Copy that: technology is making it harder for word thiev
 
 Okasha, Samir. 2002. _Philosophy of science: a very short introduction_. Oxford: Oxford University Press.
 
-Popper, K.R., 1963. Science as falsification. _Conjectures and refutations_, _1_(1963), pp.33-39.
+Popper, Karl R. 1963. _Conjectures and Refutations_. London: Routledge.
 
 Principe, Lawrence M. 2011. _The scientific revolution: a very short introduction_. Oxford: Oxford University Press.
 
