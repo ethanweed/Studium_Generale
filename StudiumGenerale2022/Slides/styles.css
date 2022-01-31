@@ -75,7 +75,7 @@
 
 #center_border {
 	display: inline-block;
-	padding: 10px;
+	padding: 1em;
 	justify-content: center;
 	z-index:-10;
 	width:48%;
