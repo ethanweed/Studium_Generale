@@ -865,7 +865,6 @@ On alternating sounds. The American Anthropologist 2, 47-53.
 <style type="text/css">
 p { 
 	text-align: left; 
-	font-size: x-small;
 }
 </style>
 

@@ -1,5 +1,8 @@
 - [ ] Welcome!
 - [ ] Introductions
+	- [ ] Me
+	- [ ] Them
+	- [ ] Put your pictures on Brightspace?
 - [ ] Study groups
 	- [ ] How many are there?
 	- [ ] Is there one that Verena Anzenberger could join?
