@@ -631,8 +631,10 @@ A test that is severe
 
 ## Popper and politics
 
+What goes for science also goes for politics
+
 <div id="left_border">
-- What goes for science also goes for politics
+
 - Political ideas should be criticized and discussed just as
   scientific ideas should be criticized and discussed
 </div>
