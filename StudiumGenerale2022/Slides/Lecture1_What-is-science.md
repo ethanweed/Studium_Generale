@@ -660,6 +660,9 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ```
 Questionable research practices (QRPs) in the statistical analysis of data and in the presentation of the results in research papers include HARKing, cherry-picking, P-hacking, fishing, and data dredging or mining. HARKing (Hypothesizing After the Results are Known) is the presentation of a post hoc hypothesis as an a priori hypothesis. Cherry-picking is the presentation of favorable evidence with the concealment of unfavorable evidence. P-hacking is the relentless analysis of data with an intent to obtain a statistically significant result, usually to support the researcher's hypothesis. A fishing expedition is the indiscriminate testing of associations between different combinations of variables not with specific hypotheses in mind but with the hope of finding something that is statistically significant in the data. Data dredging and data mining describe the extensive testing of relationships between a large number of variables for which data are available, usually in a database.
+
+- Andrade (2021)
+
 ```
 
 </div>
@@ -735,6 +738,8 @@ Boas, Frans. 1889. On alternating sounds. The American Anthropologist 2, 47-53.
 <style type="text/css">
 p { text-align: left; }
 </style>
+
+Andrade, C., 2021. HARKing, Cherry-Picking, P-Hacking, Fishing Expeditions, and Data Dredging and Mining as Questionable Research Practices. _The Journal of Clinical Psychiatry_, _82_(1), pp.0-0.
 
 [Bhattacharjee, Yudhijit. "The mind of a con man." _The New York Times_ 28 (2013).](https://www.nytimes.com/2013/04/28/magazine/diederik-stapels-audacious-academic-fraud.html)
 
