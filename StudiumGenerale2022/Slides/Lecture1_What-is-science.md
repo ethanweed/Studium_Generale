@@ -3,7 +3,7 @@
 
 # Studium General
 
----------------------------------------- 
+---
 
 ## Studium Generale
 
