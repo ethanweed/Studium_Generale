@@ -3,11 +3,8 @@
 
 ---
 
-# Studium General
-
----
-
 ## Studium Generale
+ 
 
 ```
  
