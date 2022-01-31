@@ -247,7 +247,7 @@ If we consider the origin of our knowledge, it is no less certain that … [as] 
 
 ---
 
-## Induction: Hume’s problem
+## Hume’s problem
 
 David Hume (1711-1776)
 
@@ -270,7 +270,7 @@ There is *no* amount of evidence that will ever be enough for us to justify beli
 
 ---
 
-## Induction
+## Hume’s problem
 
 Bertrand Russell (1872-1970)
 
@@ -290,7 +290,7 @@ If we don’t figure out how induction could be valid there is no way to decide 
 
 ---
 
-## Induction
+## Hume’s problem
 
 Karl Popper (1902-1994)
 
