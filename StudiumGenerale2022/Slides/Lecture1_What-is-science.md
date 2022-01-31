@@ -566,13 +566,214 @@ How many of our own opinions are based on untested theories built on shaky backg
 
 ---
 
+## Piltdown Man
+
+
+
+
+<div id="left">
+
+<img src="https://jacksadventuresinmuseumland.files.wordpress.com/2014/04/dawson-sketch-of-pitldown-gravel-bed-section_114208_1.jpg" width = 400/>
+
+</div>
+<div id="right">
+
+<img src="https://i2.wp.com/www.christiansagainstdinosaurs.com/wp-content/uploads/2016/10/Piltdown-Man-Article.jpg?fit=1920%2C1152&ssl=1" width = "400"/>
+
+</div>
+
+
 
 ---
 
+## Harm done by hoaxes and manipulation
+
+
+
+<div id="left">
+
+
+<img src="https://i.pinimg.com/originals/19/bb/23/19bb23869a630ee4a6f96243dc59dcbb.jpg" width = "400">
+
+</div>
+
+
+<div id="right">
+
+<img src="https://i2.wp.com/www.christiansagainstdinosaurs.com/wp-content/uploads/2016/10/Piltdown-Man-Article.jpg?fit=1920%2C1152&ssl=1" width = "400"/>
+
+</div>
+
+
+
+---
+
+
+## Diederik Stapel
+
+
+
+<div id="left">
+
+<img src="http://graphics8.nytimes.com/images/2013/04/28/magazine/28stapel1/28stapel1-superJumbo-v5.jpg" width="500"/>
+
+</div>
+
+<div id="right">
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Stapell-article-screenshot.png" width="500"/>
+
+</div>
+
+---
+
+## Dawson and Stapel: 
+
+Telling us what we want to hear.
+
+```
+
+ 
+
+“I didn’t do strange stuff, I never said let’s do an experiment to show that the earth is flat,” he said. “I always checked — this may be by a cunning manipulative mind — that the experiment was reasonable, that it followed from the research that had come before, that it was just this extra step that everybody was waiting for.” He always read the research literature extensively to generate his hypotheses. “So that it was believable and could be argued that this was the only logical thing you would find,” he said. “Everybody wants you to be novel and creative, but you also need to be truthful and likely. You need to be able to say that this is completely new and exciting, but it’s very likely given what we know so far.”
+
+-Stapel, quoted in Bhattacharjee (2013)
+
+
+```
+
+
+---
+
+## Questionable Research Practices
+
+<div id = "left">
+
+- p-hacking
+- HARKing
+- Cherry-picking
+- Fishing Expeditions
+
+</div>
+
+<div id = "right">
+
+```
+Questionable research practices (QRPs) in the statistical analysis of data and in the presentation of the results in research papers include HARKing, cherry-picking, P-hacking, fishing, and data dredging or mining. HARKing (Hypothesizing After the Results are Known) is the presentation of a post hoc hypothesis as an a priori hypothesis. Cherry-picking is the presentation of favorable evidence with the concealment of unfavorable evidence. P-hacking is the relentless analysis of data with an intent to obtain a statistically significant result, usually to support the researcher's hypothesis. A fishing expedition is the indiscriminate testing of associations between different combinations of variables not with specific hypotheses in mind but with the hope of finding something that is statistically significant in the data. Data dredging and data mining describe the extensive testing of relationships between a large number of variables for which data are available, usually in a database.
+
+- Andrade (2021)
+
+```
+
+</div>
+
+
+---
+
+## A silver lining?
+
+
+
+
+<div id="left">
+
+<img src="https://mfr.osf.io/export?url=https://osf.io/4sxkd/?direct%26mode=render%26action=download%26public_file=True&initialWidth=768&childId=mfrIframe&parentTitle=OSF+%7C+osf_dark.png&parentUrl=https://osf.io/4sxkd/&format=2400x2400.jpeg" width="500"/>
+
+</div>
+
+<div id="right">
+- Open Science
+- Data sharing
+
+</div>
+
+---
+
+## Plagiarism
+
+<div id = "left">
+
+- What is plagiarism?
+- What counts as plagiarism?
+- What does not?
+- Is everything a remix?
+
+</div>
+
+
+<div id = "right">
+
+- Lecture slides vs. published articles
+- 1st-year BA essay vs. MA thesis
+- What about [self-plagiarism](https://ori.hhs.gov/self-plagiarism)?
+
+</div>
+
+---
 
 # References
 
 ---
 
+## References
+
+<font size = 2>
+
+<style type="text/css">
+p { text-align: left; }
+</style>
+
+Andrade, C., 2021. HARKing, Cherry-Picking, P-Hacking, Fishing Expeditions, and Data Dredging and Mining as Questionable Research Practices. _The Journal of Clinical Psychiatry_, _82_(1), pp.0-0.
+
+[Bhattacharjee, Yudhijit. "The mind of a con man." _The New York Times_ 28 (2013).](https://www.nytimes.com/2013/04/28/magazine/diederik-stapels-audacious-academic-fraud.html)
+
+Comte, A., 1858. _Positive philosophy_. C. Blanchard.
+
+[Darwin, C., 1861. Letter to Henry Fawcett. _Darwin correspondence project_.](https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3257.xml)
+
+Dienes, Z., 2008. _Understanding psychology as a science: An introduction to scientific and statistical inference_. Macmillan International Higher Education.
+
+[Georgedes, K. 2006. Religion, Education and the Role of Government in Medieval Universities: Lessons Learned or Lost?. In _Forum on Public Policy: A Journal of the Oxford Round Table_ (Vol. 2, No. 1, pp. 73-96).](https://web.archive.org/web/20110711021202/http://www.forumonpublicpolicy.com/vol2.no1.rel.2006/georgedes.pdf)
+
+Mirsky, Steve. 2014. ‘Copy that: technology is making it harder for word thieves to earn outrageous fortunes.’ Scientific American 310 (2): 64
+
+Okasha, Samir. 2002. _Philosophy of science: a very short introduction_. Oxford: Oxford University Press.
+
+Popper, K.R., 1962. Conjectures and Refutations: Falsifiability, Testability, Operationalism. _Conjectures and Refutations: The Growth of Scientific Knowledge. New York: Basic Books_.
+
+Principe, Lawrence M. 2011. _The scientific revolution: a very short introduction_. Oxford: Oxford University Press.
+
+Roig, M., 2006. Avoiding plagiarism, self-plagiarism, and other questionable writing practices: A guide to ethical writing. https://ori.hhs.gov/avoiding-plagiarism-self-plagiarism-and-other-questionable-writing-practices-guide-ethical-writing.
+
+Stapel, D.A. and Blanton, H., 2004. From seeing to being: subliminal social comparisons affect implicit and explicit self-evaluations. _Journal of personality and social psychology_, _87_(4), p.468.
+
+Winawer, J., Witthoft, N., Frank, M.C., Wu, L., Wade, A.R. and Boroditsky, L., 2007. Russian blues reveal effects of language on color discrimination. _Proceedings of the national academy of sciences_, _104_(19), pp.7780-7785.
 
 ---
+
+# For Thursday:
+
+<div id = "left">
+
+Group 1:
+Boas, Frans. 1889. On alternating sounds. The American Anthropologist 2, 47-53.
+
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/FranzBoas.jpg" width="400"/>
+
+</div>
+
+
+
+
+---
+
+
+
+
+
+
