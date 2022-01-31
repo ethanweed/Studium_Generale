@@ -74,6 +74,7 @@
 }
 
 #center_border {
+	padding: 10px;
 	margin: 10px 0 15px 0;
 	float: center;
 	text-align: left;
