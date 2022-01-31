@@ -894,7 +894,7 @@ Stapel, D.A. and Blanton, H., 2004. From seeing to being: subliminal social comp
 
 Winawer, J., Witthoft, N., Frank, M.C., Wu, L., Wade, A.R. and Boroditsky, L., 2007. Russian blues reveal effects of language on color discrimination. _Proceedings of the national academy of sciences_, _104_(19), pp.7780-7785.
 
-<\font>
+
 
 ---
 
