@@ -10,5 +10,6 @@
 - [ ] Course structure
 	- [ ] Lecture/discussions
 	- [ ] Classic texts in linguistics
+- [ ] Breaks
 - [ ] Exam
 - [ ] Today's topic: What is science?
