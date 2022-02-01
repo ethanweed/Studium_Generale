@@ -1,4 +1,4 @@
-# Studium General
+# Studium Generale
 
 
 ---
@@ -302,7 +302,7 @@ Karl Popper (1902-1994)
 
 <div id="left">
 
-We don’t need to work out how induction can be valid. Just because induction can never prove a theory right, doesn't mean that we can't use it to prove a theory *wrong*.
+We don’t need to work out how induction can be valid. Just because induction can never prove a theory right, that doesn't mean that we can't use it to prove a theory *wrong*.
 
 </div>
 

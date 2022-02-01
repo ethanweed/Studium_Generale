@@ -9,6 +9,8 @@
 - [ ] Course goals
 - [ ] Course structure
 	- [ ] Lecture/discussions
+		- [ ] Discussions are important!
+		- [ ] Questions from e.g. SKS (sprog, kultur og samfund)
 	- [ ] Classic texts in linguistics
 - [ ] Breaks
 - [ ] Exam
