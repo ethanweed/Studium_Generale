@@ -39,7 +39,6 @@ In the evaluation of the written examination, emphasis is placed on the extent t
 
 ### Date of exam: 
 Given: May 30th  
-
 Due: June 3
 
 
