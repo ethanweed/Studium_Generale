@@ -38,7 +38,8 @@ In the evaluation of the written examination, emphasis is placed on the extent t
 3. Size of take-home test: max. 13-15 pages, including tables, diagrams, pictures, figures.
 
 ### Date of exam: 
-Given: May 30th
+Given: May 30th  
+
 Due: June 3
 
 
