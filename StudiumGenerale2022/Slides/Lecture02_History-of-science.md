@@ -279,6 +279,38 @@ the most enduring invention of the Renaissance has been the concept of the Middl
 
 ---
 
+## Changing intellectual landscape
+
+- rise of humanism
+- invention of movable type
+- "discovery" of the New World
+- Reformation of the Church
+
+---
+
+## Humanism
+
+<div id = "left">
+
+- _studia humanitatis_
+- creation of a "citizenry"
+- societal improvement
+- inspired by antiquity
+- still tied to religion
+
+</div>
+
+<div id = "right_border">
+
+- grammar
+- rhetoric
+- history
+- poetry
+- moral philosophy
+
+</div>
+
+---
  
 ## Movable Type
 
@@ -291,6 +323,7 @@ the most enduring invention of the Renaissance has been the concept of the Middl
 
 <div id = "right">
 
+-  Bi Sheng (972–1051 AD)
 - Johannes Gutenberg (c. 1398–1468)
 -  Easier access to books
 -  Exact duplications
@@ -365,7 +398,67 @@ Lister. _Historiae Conchyliorum_ (1685) Credit: National Museum Wales
 
 </div>
 
+---
 
+## Reformation & Counter-Reformation
+
+---
+
+## Reformation
+
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/95Thesen_facsimile_colour.png/500px-95Thesen_facsimile_colour.png" width=""/>
+
+</div>
+
+<div id = "right">
+
+- Martin Luther (1483 - 1546)
+- Against corruption in Catholic church
+- Textualist (like the humanists)
+
+</div>
+
+---
+
+## Counter-Reformation
+
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Titelkupfer_Index_librorum_prohibitorum.jpg/1024px-Titelkupfer_Index_librorum_prohibitorum.jpg" width="300"/>
+
+</div>
+
+<div id = "right">
+
+- Education of priests
+- Also anti-corruption
+- Formation of Jesuit order (Society of Jesus)
+
+</div>
+
+___
+
+## Jesuits
+
+<div id = "left">
+
+- Focus on education
+- Mathematics and sciences
+- Establishment of schools across the world
+- Collection of specimens and observations
+- Motto: "to find God in all things"
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Paradigma_XV_Provinciarum_et_CLV_Urbium_Capitalium_Sinensis_Imperij.jpg/1280px-Paradigma_XV_Provinciarum_et_CLV_Urbium_Capitalium_Sinensis_Imperij.jpg" width="300"/>
+
+</div>
+
+---
 
 # Patterns in Nature
 
