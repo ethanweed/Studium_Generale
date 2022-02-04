@@ -348,12 +348,12 @@ Lister. _Historiae Conchyliorum_ (1685) Credit: National Museum Wales
 
 <div id = "left">
 
-<img src="https://en.wikipedia.org/wiki/File:Map_of_America_by_Sebastian_Munster.JPG" width=""/>
+<img src="https://en.wikipedia.org/wiki/File:Map_of_America_by_Sebastian_Munster.JPG" width="300"/>
 
 </div>
 
 <div id = "right">
-*Information overload*
+**Information overload**  
 - new plants
 - new animals
 - new minerals
