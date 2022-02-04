@@ -324,7 +324,7 @@ _Relation aller Fürnemmen und gedenckwürdigen Historien_
 
 <div id = "left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Vesalius_Fabrica_p163.jpg/340px-Vesalius_Fabrica_p163.jpg" width="250"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Vesalius_Fabrica_p163.jpg/340px-Vesalius_Fabrica_p163.jpg" width="300"/>
   
 </div>
 
