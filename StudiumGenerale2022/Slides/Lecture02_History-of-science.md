@@ -324,22 +324,16 @@ _Relation aller Fürnemmen und gedenckwürdigen Historien_
 
 <div id = "left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Vesalius_Fabrica_p163.jpg/340px-Vesalius_Fabrica_p163.jpg" width="300"/>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Vesalius_Fabrica_p163.jpg/340px-Vesalius_Fabrica_p163.jpg" width="250"/>
+Vesalius. _De Humani Corporis Fabrica Libri Septem_ (1543)  
 </div>
 
 <div id = "right">
 
 <img src="https://museum.wales/media/44320/Lister-shell.jpg" width="300"/>
-
-</div>
-
-<div id = "right">
-
-Left: Vesalius. _De Humani Corporis Fabrica Libri Septem_ (1543)  
 Right: Lister. _Historiae Conchyliorum_ (1685) Credit: National Museum Wales
-
 </div>
+
 
  
 ##  New information from the New World
