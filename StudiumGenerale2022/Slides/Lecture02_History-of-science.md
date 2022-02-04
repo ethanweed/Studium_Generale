@@ -112,6 +112,7 @@ Oldest known usage of "scientist"
 
 <div id = "left">
 
+<img src="https://upload.wikimedia.org/wikipedia/en/2/21/Stephen_Jay_Gould_2015%2C_portrait_%28unknown_date%29.jpg" width="400"/>
 
 </div>
 
