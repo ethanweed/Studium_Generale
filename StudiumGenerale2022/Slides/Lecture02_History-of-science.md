@@ -467,7 +467,7 @@ ___
 
 <div id = "left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/A._Kircher%2C_Magnes_sive_de_arte_magnetica_op_Wellcome_L0031533.jpg/440px-A._Kircher%2C_Magnes_sive_de_arte_magnetica_op_Wellcome_L0031533.jpg" width="400"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/A._Kircher%2C_Magnes_sive_de_arte_magnetica_op_Wellcome_L0031533.jpg/440px-A._Kircher%2C_Magnes_sive_de_arte_magnetica_op_Wellcome_L0031533.jpg" width="300"/>
 
 </div>
 Illustration by Jesuit Athanasius Kircher (Geology, Medicine, Theology)
@@ -485,7 +485,7 @@ Illustration by Jesuit Athanasius Kircher (Geology, Medicine, Theology)
 
 <div id = "left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/A._Kircher%2C_Magnes_sive_de_arte_magnetica_op_Wellcome_L0031533.jpg/440px-A._Kircher%2C_Magnes_sive_de_arte_magnetica_op_Wellcome_L0031533.jpg" width="400"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/A._Kircher%2C_Magnes_sive_de_arte_magnetica_op_Wellcome_L0031533.jpg/440px-A._Kircher%2C_Magnes_sive_de_arte_magnetica_op_Wellcome_L0031533.jpg" width="300"/>
 
 </div>
 
