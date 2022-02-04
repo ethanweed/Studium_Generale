@@ -345,7 +345,25 @@ Lister. _Historiae Conchyliorum_ (1685) Credit: National Museum Wales
 
  
 ##  New information from the New World
-It is hard to imagine the flood of data that poured into Europe from the New World. New plants, new animals, new minerals, new medicines, and reports of new peoples, languages, ideas, observations, and phenomena overwhelmed the Old World’s ability to digest them. This was true ‘information overload’, and it demanded revisions to ideas about the natural world and new methods for organizing knowledge. Traditional systems of classifying plants and animals were exploded by the discovery of new and bizarre creatures. Observations of human habitation virtually everywhere explorers could reach refuted the ancient notion that the world was divided into five climatic regions – two temperate ones and three rendered uninhabitable due to excessive heat or cold.
+
+<div id = "left">
+
+<img src="https://en.wikipedia.org/wiki/File:Map_of_America_by_Sebastian_Munster.JPG" width=""/>
+
+</div>
+
+<div id = "right">
+*Information overload*
+- new plants
+- new animals
+- new minerals
+- new medicines
+- new peoples
+- new languages
+- new civilizations
+
+</div>
+
 
 
 # Patterns in Nature
