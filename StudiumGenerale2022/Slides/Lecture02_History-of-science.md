@@ -463,19 +463,57 @@ ___
 # Patterns in Nature
 
  
-## The context of science
-The natural philosopher of the Middle Ages or of the Scientific Revolution studied the natural world – as modern scientists do – but did so within a wider vision that included theology and metaphysics. The three components of God, man, and nature were never insulated from one another. Natural philosophical outlooks gradually gave way to more specialized and narrow ‘scientific’ ones only during the 19th century (the age in which the word ‘scientist’ was first coined). The work and motivations of early modern natural philosophers cannot be properly understood or appreciated without keeping the distinct character of natural philosophy in mind. Their questions and goals were not necessarily our questions and goals, even when the very same natural objects were being studied. Hence, the history of science cannot be written by pulling scientific ‘firsts’ out of their historical context, but only by seeing with eyes and minds of our historical characters.
+## Natural philosophy
+
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/A._Kircher%2C_Magnes_sive_de_arte_magnetica_op_Wellcome_L0031533.jpg/440px-A._Kircher%2C_Magnes_sive_de_arte_magnetica_op_Wellcome_L0031533.jpg" width=""/>
+
+</div>
+Illustration by Jesuit Athanasius Kircher (Geology, Medicine, Theology)
+
+<div id = "right">
+
+- to find God in all things
+- the three components of God, man, and nature
+- the "Great Chain of Being"
+
+</div> 
+
 
 ## The sunflower and the sun
- 
-Magia is perhaps best translated for moderns as ‘mastery’. The goal of the practitioner of magia, called a magus, is to learn and to control the connections embedded in the world in order to manipulate them for practical ends. Look again at Kircher’s frontispiece. In the upper left-hand corner, magia naturalis is listed among the branches of knowledge, between arithmetic and medicine. Kircher symbolizes it with the turning of a sunflower to follow the Sun across the sky throughout the day. (Several plants display this behaviour, known as heliotropism.) Why does the sunflower always turn towards the Sun while most plants do not? Clearly, there must be some special link between Sun and sunflower. The ability of the sunflower to follow the Sun provided a prime example of the hidden connections and forces in the world that the magus endeavoured to identify and control.
 
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/A._Kircher%2C_Magnes_sive_de_arte_magnetica_op_Wellcome_L0031533.jpg/440px-A._Kircher%2C_Magnes_sive_de_arte_magnetica_op_Wellcome_L0031533.jpg" width=""/>
+
+</div>
+
+<div id = "right">
+
+- _Magia naturalis_
+- Connection between the sunflower and the sun
+- Hidden, divine connections in the natural world
+
+</div>
+ 
 
  ## Hidden knots in nature (_magia naturalis_)
+
+
+
+
 Given the immense variety of nature, the task of the aspiring magus is mind- bogglingly immense – no less than cataloguing the properties of everything. Could there be a shortcut? Some natural philosophers believed that nature contained clues to guide the magus, perhaps as hints implanted there by a merciful God who wants us to understand His creation and benefit from it. The doctrine of signatures claims that some natural objects are ‘signed’ with indications of their hidden qualities. Often, this means that two connected objects look somehow similar, or have some analogous characteristics; for example, the sunflower not only follows the Sun, its blossom actually resembles the Sun in colour and shape. Various parts of plants resemble various parts of the human body; a walnut nestled in its shell looks remarkably like a brain inside the skull. Is this a sign that walnuts would provide good medicines for the brain? The practitioner of magia would have to try these things out to be sure, but observation coupled with the idea of signatures provided a useful point of departure for investigating, explaining, and using the natural world.
 
 
 ### God as a Romance author
+
+<div id = "left">
+
+<img src="https://journals.physiology.org/cms/10.1152/jappl.1999.87.4.1543/asset/images/medium/japp06023001x.jpeg" width=""/>
+
+</div>
+
 The English natural philosopher Robert Boyle (1627–91), renowned for his work in chemistry (chemistry students still have to learn Boyle’s Law that the volume of a gas is inversely proportional to the pressure exerted upon it), wrote that the world is like ‘a well contriv’d Romance’. Here, Boyle alludes to the massive French novels of his day (of which he was very fond). These romances often run to more than two thousand pages in length, and feature a memory-taxing myriad of characters whose complex storylines constantly converge and diverge in surprising ways, full of revelations about who is secretly in love with whom and who is really whose long-lost brother, child, or what-not. For Boyle, the Creator is the ultimate romance writer, and scientific investigators are the readers trying to figure out all the relationships and crisscrossing storylines in the world He wrote.
 
 ## Good induction, wrong conclusions
