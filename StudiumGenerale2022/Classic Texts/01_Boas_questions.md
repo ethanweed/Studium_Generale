@@ -13,7 +13,7 @@ For each presentation, please remember:
 Possible issues to consider – use this as a guide: it is best if you think about the article for yourself, and what it tells you (not me!). Remember that you should read everything critically and with an eye to evaluation, including commenting on how sound and convincing you find the argument. (On the other hand, the difficulty or otherwise of the paper is of no concern here.)
 
 1.   What is Boas’ main point in this article? What is his major conclusion?
-2.   How does Boas’ point relate to modern phonology as you know it from the UL course. Do his conclusions agree with the ideas of modern phonology?
+2.   How does Boas’ point relate to modern phonology as you know it from the Understanding Linguistics course. Do his conclusions agree with the ideas of modern phonology?
 3.   Specifically, comment on 1 and 2 in relation to the question as to how the last two paragraphs of the article fit with the remainder of the paper?
 4.   Describe the experiments Boas refers to in the beginning of the article, commenting on what their motivations are and what their findings are. How does Boas interpret them?
 5.   Do the same as 4 for Boas’ own experiments.

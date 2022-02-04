@@ -11,9 +11,10 @@
 
 <div id = "left">
 
-- What is science?
+
 - What was Popper's major contribution to the Philosophy of Science?
 - Why are scientific hoaxs, fraud, and plagiarism harmful?
+- What is plagiarism?
 
 
 </div>
@@ -24,6 +25,10 @@
 
 
 </div>
+---
+
+# "Science"
+
 ---
 
 ## "Science"
@@ -103,6 +108,25 @@ Oldest known usage of "scientist"
 
 ---
 
+
+<div id = "left">
+
+
+</div>
+
+
+<div id = "right">
+
+```
+   Science, since people must do it, is a socially embedded activity. It progresses by hunch, vision, and intuition. Much of its change through time does not record a closer approach to absolute truth, but the alteration of cultural contexts that influence it so strongly. Facts are not pure and unsullied bits of information; culture also influences what we see and how we see it. Theories, moreover, are not inexorable inductions from facts. The most creative theories are often imaginative visions imposed upon facts; the source of imagination is also strongly cultural.
+
+- Gould (1981)
+```
+
+</div>
+
+
+---
 
 
 # The "rebirth"
@@ -347,4 +371,13 @@ of God through the contemplation of His creation. He described the natural philo
 
 ### References
 
+<div id = "refs">
+
 Henry, J., 2008. _The scientific revolution and the origins of modern science_. Macmillan International Higher Education.
+
+Gould, S. J. 1981. _The Mismeasure of Man_. New York: W. W. Norton & Company.
+
+
+
+
+</div>
