@@ -330,7 +330,14 @@ _Relation aller Fürnemmen und gedenckwürdigen Historien_
 
 <div id = "right">
 
-<img src="https://media.nature.com/lw800/magazine-assets/d41586-018-06944-7/d41586-018-06944-7_16181484.jpg" width="300"/>
+<img src="https://museum.wales/media/44320/Lister-shell.jpg" width="300"/>
+
+</div>
+
+<div id = "right_border">
+
+Left image: Vesalius _De Humani Corporis Fabrica Libri Septem_ (1543)  
+Right image: Anna and Susanna Lister, from __Historiae Conchyliorum__ (1685) Credit: National Museum Wales
 
 </div>
 
