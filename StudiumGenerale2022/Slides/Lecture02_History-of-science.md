@@ -112,7 +112,7 @@ Oldest known usage of "scientist"
 
 <div id = "left">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/2/21/Stephen_Jay_Gould_2015%2C_portrait_%28unknown_date%29.jpg" width="400"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/2/21/Stephen_Jay_Gould_2015%2C_portrait_%28unknown_date%29.jpg" width="300"/>
 
 </div>
 
@@ -328,7 +328,11 @@ _Relation aller Fürnemmen und gedenckwürdigen Historien_
 
 </div>
 
-One easily overlooked feature of printing was its ability to reproduce images and diagrams. Illustrations posed a problem for the manuscript tradition since the ability to render drawings accurately depended upon the copyist’s draftsmanship, and often upon his understanding of the text. Consequently, every copy meant degradation for anatomical renderings, botanical and zoological illustrations, maps, charts, and mathematical or technological diagrams. Some copyists simply omitted difficult graphics. Printing meant that an author could oversee the production of a master woodcut or engraving, which could then produce identical copies easily and reliably. Under such conditions, authors were more willing and able to include images in their texts, enabling the growth of scientific illustration for the first time.
+<div id = "right">
+
+<img src="https://media.nature.com/lw800/magazine-assets/d41586-018-06944-7/d41586-018-06944-7_16181484.jpg" width="300"/>
+
+</div>
 
  
 ##  New information from the New World
