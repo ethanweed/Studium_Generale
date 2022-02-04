@@ -335,10 +335,8 @@ _Relation aller Fürnemmen und gedenckwürdigen Historien_
 </div>
 
 <div id = "right">
-
 Vesalius. _De Humani Corporis Fabrica Libri Septem_ (1543)
-Right: Lister. _Historiae Conchyliorum_ (1685) Credit: National Museum Wales
-
+Lister. _Historiae Conchyliorum_ (1685) Credit: National Museum Wales
 </div>
 
 
