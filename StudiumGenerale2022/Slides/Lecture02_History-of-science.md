@@ -336,8 +336,8 @@ _Relation aller Fürnemmen und gedenckwürdigen Historien_
 
 <div id = "right_border">
 
-Left image: Vesalius _De Humani Corporis Fabrica Libri Septem_ (1543)  
-Right image: Anna and Susanna Lister, from __Historiae Conchyliorum__ (1685) Credit: National Museum Wales
+Left: Vesalius. _De Humani Corporis Fabrica Libri Septem_ (1543)  
+Right: Lister. __Historiae Conchyliorum__ (1685) Credit: National Museum Wales
 
 </div>
 
