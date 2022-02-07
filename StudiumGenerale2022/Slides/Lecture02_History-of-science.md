@@ -722,7 +722,7 @@ Mechanical philosophy
 
 <div id = "right">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prinicipia-title.png/440px-Prinicipia-title.png" width="400"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prinicipia-title.png/440px-Prinicipia-title.png" width="300"/>
 
 </div>
 
