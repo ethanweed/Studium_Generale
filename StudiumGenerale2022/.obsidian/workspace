@@ -7,11 +7,9 @@
         "id": "5c3f5698b1fc6686",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Slides/Lecture02_History-of-science.md",
-            "mode": "source",
-            "source": true
+            "file": "Literature/02_Danielson  & Graney_2014 .pdf"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides/Lecture02_History-of-science.md",
+                "file": "Literature/02_Danielson  & Graney_2014 .pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +87,7 @@
   },
   "active": "5c3f5698b1fc6686",
   "lastOpenFiles": [
+    "Literature/02_Danielson  & Graney_2014 .pdf",
     "Slides/Lecture02_History-of-science.md",
     "Literature/02_Trombley_2012 Parts 1 & 2_notes.md",
     "Literature/02_Trombley_2012 Parts 1 & 2.pdf",
@@ -97,7 +96,6 @@
     "Literature/01_Principe_Chapters 1 & 2.pdf",
     "Classic Texts/02_Saussure_1_questions.md",
     "Classic Texts/01_Boas_questions.md",
-    "Slides/Lecture01_What-is-science.md",
-    "CourseInfo/Syllabus.md"
+    "Slides/Lecture01_What-is-science.md"
   ]
 }
