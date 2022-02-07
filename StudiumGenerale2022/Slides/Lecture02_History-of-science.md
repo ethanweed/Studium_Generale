@@ -614,9 +614,29 @@ Johannes Kepler (1571 - 1630)
 ___
 
 
-##    Galileo Galilei
+##    Galileo
 
 
+
+<div id = "left">
+
+Observed:
+
+- Mountains on the moon
+- Sunspots
+- Stars not visible to the naked eye
+- Phases of Venus
+- Jupiter’s moons
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sidereus%2C_nuncius_magna_longeqve_admirabilia_spectacula..._Wellcome_L0072633.jpg/1024px-Sidereus%2C_nuncius_magna_longeqve_admirabilia_spectacula..._Wellcome_L0072633.jpg" width="300"/>
+
+Galileo Galilei (1564 - 1642)
+
+</div>
 
 ___
 
