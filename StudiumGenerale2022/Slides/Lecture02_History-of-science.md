@@ -616,7 +616,7 @@ ___
 
 ##    Galileo
 
-
+Astronomy
 
 <div id = "left">
 
@@ -640,6 +640,10 @@ Galileo Galilei (1564 - 1642)
 
 ___
 
+
+
+
+---
 
 Dave Scott, Apollo 15, 1971
 
