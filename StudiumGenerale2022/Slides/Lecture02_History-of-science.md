@@ -644,8 +644,10 @@ ___
 
 
 
-<video data-autoplay src="Images/Apollo_15_feather_and_hammer_drop.mp4"></video>
-<section> 
+<video
+	   data-autoplay src="Images/Apollo_15_feather_and_hammer_drop.mp4">
+</video>
+
 
 
 
