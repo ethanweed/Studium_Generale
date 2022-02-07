@@ -686,6 +686,8 @@ Dave Scott, Apollo 15, 1971
 
 ##    René Descartes
 
+(1596 - 1650)
+
 <div id = "left">
 Mechanical philosophy
 
@@ -709,9 +711,27 @@ Mechanical philosophy
 
 ## Newton
 
+(1643 - 1727)
+
+<div id = "left">
+
+- _Philosophiæ Naturalis Principia Mathematica_
+- Provided a general framework for understanding motion, mechanics, and gravity
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prinicipia-title.png/440px-Prinicipia-title.png" width="400"/>
+
+</div>
+
 ---
 
 ## Einstein
+
+
+
 
 ---
 
