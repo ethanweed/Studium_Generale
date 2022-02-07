@@ -730,7 +730,20 @@ Mechanical philosophy
 
 ## Einstein
 
+<div id = "left">
 
+<img src="http://galileo.rice.edu/lib/student_work/experiment95/galileo_parabola.jpeg" width="400"/>
+
+</div>
+
+<div id = "right">
+
+- Newton's laws describe the effects of gravity fairly well
+- But what _is_ gravity?
+- Newton: the force that attracts objects to each other
+- Einstein: a result of the curvature of spacetime by mass or energy
+
+</div>
 
 
 ---
