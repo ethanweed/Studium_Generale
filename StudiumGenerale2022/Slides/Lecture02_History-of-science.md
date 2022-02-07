@@ -640,6 +640,16 @@ Galileo Galilei (1564 - 1642)
 
 ___
 
+
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Apollo_15_feather_and_hammer_drop.ogv/220px--Apollo_15_feather_and_hammer_drop.ogv.jpg" width="400"/>
+
+</div>
+
+
+---
+
 ##    René Descartes
 
 Mechanical philosophy
