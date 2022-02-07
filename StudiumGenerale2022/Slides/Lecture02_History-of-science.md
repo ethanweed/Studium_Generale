@@ -787,7 +787,7 @@ Mechanical philosophy
 
 <div id = "right">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Darwin_Tree_1837.png/1024px-Darwin_Tree_1837.png" width="300"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Darwin_Tree_1837.png/1024px-Darwin_Tree_1837.png" width="250"/>
 
 
 </div>
