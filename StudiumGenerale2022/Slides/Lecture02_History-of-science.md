@@ -567,10 +567,13 @@ Robert Boyle, for example, considered his scientific inquiries to be a type of r
 
 ##    Copernican revolution
 
-Ptolomey, Copernicus, and Mars in retrograde
+Ptolomey, Copernicus, and Mars in Retrograde
 <div id = "left">
 
-<img src="http://www.ibiblio.org/expo/vatican.exhibit/exhibit/d-mathematics/images/math10a.jpg" width="400"/>
+<img src="http://www.ibiblio.org/expo/vatican.exhibit/exhibit/d-mathematics/images/math10a.jpg" width="350"/>
+
+Claudius Ptolemy (ca. 100 - 170 A.D.)  
+Planetary epicycles
 
 </div>
 
@@ -578,6 +581,9 @@ Ptolomey, Copernicus, and Mars in retrograde
 <div id = "right">
 
 <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/De_Revolutionibus_ms_p9v.jpg" width="400"/>
+
+Nicolaus Copernicus: 1473 - 1543  
+Heliocentrism
 
 </div>
 
