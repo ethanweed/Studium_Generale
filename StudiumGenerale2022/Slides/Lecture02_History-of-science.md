@@ -750,10 +750,20 @@ Mechanical philosophy
 
 ##   Quantum mechanics
 
+<div id = "left">
+
 - Light and matter appear to made of particles
 - Light and matter also appear to be waves
+
+</div>
+
+<div id = "right">
+
 - The state of objects can be best described as a probability function
 - More exact measurement of some states results in less exact measurement of others
+
+</div>
+
 
 ---
 
