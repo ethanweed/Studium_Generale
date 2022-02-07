@@ -593,10 +593,29 @@ Heliocentrism
 
 ## Kepler
 
+<div id = "left">
+
+<img src="https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/images/mars-rotates-sun.jpg" width="300"/>
+
+</div>
+
+Johannes Kepler (1571 - 1630)
+
+<div id = "right">
+
+- Built on Copernicus' heliocentric model
+- Build on Tycho Brahe's data collection
+- Developed an elliptical theory of planetary motion
+
+</div>
+
+
+
 ___
 
 
 ##    Galileo Galilei
+
 
 
 ___
