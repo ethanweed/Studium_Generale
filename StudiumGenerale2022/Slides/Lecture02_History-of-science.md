@@ -641,11 +641,12 @@ Galileo Galilei (1564 - 1642)
 ___
 
 
-
+Dave Scott, Apollo 15, 1971
 
 
 <video
- src="/Users/ethan/Documents/GitHub/Studium_Generale/StudiumGenerale2022/Slides/Images/Apollo_15_feather_and_hammer_drop.mp4">
+	data-autoplay
+	src="/Users/ethan/Documents/GitHub/Studium_Generale/StudiumGenerale2022/Slides/Images/Apollo_15_feather_and_hammer_drop.mp4">
 </video>
 
 ---
