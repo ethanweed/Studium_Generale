@@ -750,13 +750,17 @@ Mechanical philosophy
 
 ##   Quantum mechanics
 
+- Light and matter appear to made of particles
+- Light and matter also appear to be waves
+- The state of objects can be best described as a probability function
+- More exact measurement of some states results in less exact measurement of others
+
 ---
 
-##   Schrödinger's Cat
 
----
 
-##    Charles Darwin’s
+
+##    Darwin
 
 ---
 
