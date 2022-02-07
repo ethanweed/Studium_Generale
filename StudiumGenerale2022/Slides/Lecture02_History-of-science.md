@@ -643,7 +643,9 @@ ___
 
 <div id = "left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Apollo_15_feather_and_hammer_drop.ogv/220px--Apollo_15_feather_and_hammer_drop.ogv.jpg" width="400"/>
+```html
+<section>  <iframe data-src="/images/Apollo_15_feather_and_hammer_drop.ogv" data-preload></iframe></section>
+```
 
 </div>
 
