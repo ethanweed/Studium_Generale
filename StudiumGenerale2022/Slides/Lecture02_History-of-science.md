@@ -643,9 +643,9 @@ ___
 
 <div id = "left">
 
-```html
+html
 <section>  <iframe data-src="/images/Apollo_15_feather_and_hammer_drop.ogv" data-preload></iframe></section>
-```
+
 
 </div>
 
