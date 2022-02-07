@@ -565,7 +565,7 @@ Robert Boyle, for example, considered his scientific inquiries to be a type of r
 
 ---
 
-##    Copernican revolution
+##    Copernicus
 
 <div id = "left">
 
