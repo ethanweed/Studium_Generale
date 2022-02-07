@@ -632,7 +632,7 @@ Observed:
 
 <div id = "right">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sidereus%2C_nuncius_magna_longeqve_admirabilia_spectacula..._Wellcome_L0072633.jpg/1024px-Sidereus%2C_nuncius_magna_longeqve_admirabilia_spectacula..._Wellcome_L0072633.jpg" width="300"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sidereus%2C_nuncius_magna_longeqve_admirabilia_spectacula..._Wellcome_L0072633.jpg/1024px-Sidereus%2C_nuncius_magna_longeqve_admirabilia_spectacula..._Wellcome_L0072633.jpg" width="270"/>
 
 Galileo Galilei (1564 - 1642)
 
@@ -640,8 +640,24 @@ Galileo Galilei (1564 - 1642)
 
 ___
 
+##    Galileo
+
+Mechanics and Experimentation
+
+<div id = "left">
+
+<img src="http://galileo.rice.edu/lib/student_work/experiment95/galileo_parabola.jpeg" width="400"/>
+
+</div>
 
 
+<div id = "right">
+
+- motion
+- mechanics
+- engineering
+
+</div>
 
 ---
 
@@ -666,20 +682,30 @@ Dave Scott, Apollo 15, 1971
 
 
 
-
----
-
-
-
-
-
 ---
 
 ##    René Descartes
 
+<div id = "left">
 Mechanical philosophy
 
+- Particles of matter interacting with one another
+- Laws of motion will explain the universe
+- End of Aristotelian view of the world
+
+</div>
+
+
+<div id = "right">
+
+<img src="http://www.columbia.edu/~vpf3/home/descartes-reflex.jpg" width=""/>
+
+</div>
+
+
+
 ---
+
 
 ## Newton
 
