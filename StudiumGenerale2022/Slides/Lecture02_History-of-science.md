@@ -567,6 +567,18 @@ Robert Boyle, for example, considered his scientific inquiries to be a type of r
 
 ##    Copernican revolution
 
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cb/De_Revolutionibus_ms_p9v.jpg" width="300"/>
+
+</div>
+
+
+<div id = "right">
+
+<img src="http://www.ibiblio.org/expo/vatican.exhibit/exhibit/d-mathematics/images/math10a.jpg" width="300"/>
+
+</div>
 
 ---
 
