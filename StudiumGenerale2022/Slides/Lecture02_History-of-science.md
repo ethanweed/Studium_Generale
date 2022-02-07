@@ -772,6 +772,20 @@ Mechanical philosophy
 
 ##    Darwin
 
+<div id = "left">
+
+- _Origin of Species_ (1859)
+- Natural selection: mechanism of evolution
+
+</div>
+
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Darwin%27s_finches_by_Gould.jpg" width=""/>
+
+</div>
+
 ---
 
 ##    molecular biology watson and crick
