@@ -525,6 +525,7 @@ Given the immense variety of nature, the task of the aspiring magus is mind- bog
 - Principe (2011)
 ```
 
+---
 
 ### God as a Romance author
 
@@ -540,6 +541,8 @@ the world is like ‘a well contriv’d Romance’. For Boyle, the Creator is th
 
 ```
 
+---
+
 ## Good induction, wrong conclusions
 
 ```
@@ -548,19 +551,71 @@ What our predecessors did was to observe various mysterious and apparently simil
 
 ```
 
+---
+
 ## The scientist-priest
-Robert Boyle, for example, considered his scientific inquiries to be a type of religious devotion (and thus particularly appropriate to do on Sundays) that heightens the natural philosopher’s knowledge and awareness
-of God through the contemplation of His creation. He described the natural philosopher as a ‘priest of nature’ whose duty it was to expound and interpret the messages written in the Book of Nature, and to gather together and give voice to all creation’s silent praise of its Creator.
+
+```
+Robert Boyle, for example, considered his scientific inquiries to be a type of religious devotion (and thus particularly appropriate to do on Sundays) that heightens the natural philosopher’s knowledge and awareness of God through the contemplation of His creation. He described the natural philosopher as a ‘priest of nature’ whose duty it was to expound and interpret the messages written in the Book of Nature, and to gather together and give voice to all creation’s silent praise of its Creator.
+- Principe (2011)
+
+```
+
+#   Modern Science
+
+---
+
+##    Copernican revolution
 
 
+---
+
+## Kepler
+
+___
 
 
+##    Galileo Galilei
 
+
+___
+
+##    René Descartes
+
+Mechanical philosophy
+
+---
+
+## Newton
+
+---
+
+## Einstein
+
+---
+
+##   Quantum mechanics
+
+---
+
+##   Schrödinger's Cat
+
+---
+
+##    Charles Darwin’s
+
+---
+
+##    molecular biology watson and crick
+
+---
 
 
 
 
 ---
+
+
 
 
 ### References
