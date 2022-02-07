@@ -772,10 +772,14 @@ Mechanical philosophy
 
 ##    Darwin
 
+(1809-1882)
+
 <div id = "left">
 
 - _Origin of Species_ (1859)
 - Natural selection: mechanism of evolution
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Darwin_Tree_1837.png/1024px-Darwin_Tree_1837.png" width="100"/>
 
 </div>
 
