@@ -476,7 +476,7 @@ ___
 - based in Aristotle
 - everything has its place
 - God at the top
-- Minerals at the bottom
+- minerals at the bottom
 
 </div>
 
