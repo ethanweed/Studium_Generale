@@ -477,6 +477,7 @@ ___
 - everything has its place
 - God at the top
 - minerals at the bottom
+- chaos at the absolute bottom
 
 </div>
 
