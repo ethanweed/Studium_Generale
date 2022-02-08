@@ -15,6 +15,7 @@
 - What was Popper's major contribution to the Philosophy of Science?
 - Why are scientific hoaxs, fraud, and plagiarism harmful?
 - What is plagiarism?
+- What is Mirsky's main point in his article "Copy That"?
 
 
 </div>
