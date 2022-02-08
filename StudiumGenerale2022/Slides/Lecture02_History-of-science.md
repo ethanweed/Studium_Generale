@@ -49,7 +49,7 @@ Henry (2008)
 <div id = "right_border">
 
 
-- How do you understand the link between the word science and the concept of science in the first sentence of the quote? 
+- How do you understand the link between the word _science_ and the concept of _science_ in the first sentence of the quote? 
 - What do you think Henry means?
 
 
