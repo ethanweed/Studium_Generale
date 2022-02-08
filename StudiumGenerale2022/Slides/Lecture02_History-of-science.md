@@ -537,11 +537,17 @@ Given the immense variety of nature, the task of the aspiring magus is mind- bog
 
 </div>
 
+<div id = "right">
+
 ```
 the world is like ‘a well contriv’d Romance’. For Boyle, the Creator is the ultimate romance writer, and scientific investigators are the readers trying to figure out all the relationships and crisscrossing storylines in the world He wrote.
 
 
 ```
+
+
+</div>
+
 
 ---
 
