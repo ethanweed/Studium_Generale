@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slides/Lecture02_History-of-science.md",
+            "file": "Slides/Lecture03_Philosophy-of-science1.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides/Lecture02_History-of-science.md",
+                "file": "Slides/Lecture03_Philosophy-of-science1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5c3f5698b1fc6686",
   "lastOpenFiles": [
-    "Slides/Lecture02_History-of-science.md",
-    "Literature/02_Trombley_2012 Parts 1 & 2_notes.md",
     "Slides/Lecture03_Philosophy-of-science1.md",
-    "Literature/02_Danielson  & Graney_2014 .pdf",
-    "Literature/02_Trombley_2012 Parts 1 & 2.pdf",
-    "Classic Texts/01_Boas_notes.md",
-    "Classic Texts/01_Boas_1889.pdf",
-    "Literature/01_Principe_Chapters 1 & 2.pdf",
+    "Slides/Lecture02_History-of-science.md",
+    "Slides/Lecture04_Scientific-argumentation.md",
+    "Classic Texts/03_Saussure_2_questions.md",
     "Classic Texts/02_Saussure_1_questions.md",
-    "Classic Texts/01_Boas_questions.md"
+    "CourseInfo/Students_schedule - spring_semester.md",
+    "Timeline.md",
+    "Literature/02_Trombley_2012 Parts 1 & 2_notes.md",
+    "Literature/02_Danielson  & Graney_2014 .pdf",
+    "Literature/02_Trombley_2012 Parts 1 & 2.pdf"
   ]
 }
