@@ -516,6 +516,13 @@ But if scientists use simplicity as a guide to inference, this raises a deep que
 
 ---
 
+## Correlation
+
+
+
+
+---
+
 # Authority
 
 ---
