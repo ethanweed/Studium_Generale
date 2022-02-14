@@ -254,6 +254,8 @@ Nlaka'pamuctsin does not have nouns.
 
 # References
 
+## References
+
 <div id = "refs">
 
 Evans, J.S.B.T., Barston, J.L. and Pollard, P., 1983. On the conflict between logic and belief in syllogistic reasoning. _Memory & cognition_, _11_(3), pp.295-306.
