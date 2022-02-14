@@ -566,7 +566,7 @@ Carl Hempel (1905 - 1997)
 
 ## Causal asymmetry
 
-<div id = "left">
+<div id = "left_border_small">
 
 X causes Y
 
@@ -575,7 +575,7 @@ X causes Y
 </div>
 
 
-<div id = "right">
+<div id = "right_border_small">
 
 But how can we be sure that X causes Y?
 
