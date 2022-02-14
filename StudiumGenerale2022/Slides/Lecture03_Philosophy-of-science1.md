@@ -514,7 +514,9 @@ But if scientists use simplicity as a guide to inference, this raises a deep que
 
 ---
 
-## Making mistakes
+# Making mistakes
+
+## "The right way to get it wrong"
 
 Article by Kaiser & Creager (2012)
 
@@ -522,13 +524,13 @@ Article by Kaiser & Creager (2012)
 
 ## Spooky action at a distance
 
-<img src="https://www.science.org/do/10.1126/science.aad1685/full/sn-entanglement_0.jpg" width=""/>
+<img src="https://www.science.org/do/10.1126/science.aad1685/full/sn-entanglement_0.jpg" width="500"/>
 
 ---
 
 ## Quantum communication
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Herbert_1982_FLASH%20.png?raw=true" width=""/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Herbert_1982_FLASH%20.png?raw=true" width="500"/>
 
 
 ---
