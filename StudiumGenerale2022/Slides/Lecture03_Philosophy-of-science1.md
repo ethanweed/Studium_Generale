@@ -27,8 +27,8 @@
 
 <div id = "left_border">
 
-Socrates is a man
-All men are mortal
+Socrates is a man  
+All men are mortal  
 .˙. Socrates is mortal
 
 </div>
