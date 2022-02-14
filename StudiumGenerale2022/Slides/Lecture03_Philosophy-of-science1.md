@@ -170,9 +170,13 @@ Nlaka'pamuctsin is a language.
 ---
 
 
+<div id = "right">
 
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Kincade_1983.png?raw=true" width="700"/>
 
+
+
+</div>
 
 
 ---
