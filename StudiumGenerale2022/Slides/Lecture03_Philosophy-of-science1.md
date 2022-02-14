@@ -530,7 +530,7 @@ Article by Kaiser & Creager (2012)
 
 ## Quantum communication
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Herbert_1982_FLASH%20.png?raw=true" width="500"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Herbert_1982_FLASH%20.png?raw=true" width="450"/>
 
 
 ---
