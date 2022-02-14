@@ -436,11 +436,16 @@ Sherlock Holmes, in "The Adventure of the Cardboard Box"
 
 <div id = "left">
 
+```
 The surprising fact, C, is observed.  
 
 But if A were true, C would be a matter of course.  
 
 Hence, there is reason to suspect that A is true.
+
+Pierce (CP 5.189)
+
+```
 
 </div>
 
@@ -467,6 +472,44 @@ How often have I said to you that when you have eliminated the impossible, whate
 
 </div>
 
+
+---
+
+## Inference to the best explanation
+
+<div id = "left">
+
+- Which explanation is best?
+- How can we tell?
+- Occam's razor?
+
+</div>
+
+<div id = "right">
+```
+But if scientists use simplicity as a guide to inference, this raises a deep question. Do we have reason to think that the universe is simple rather than complex?
+
+- Okasha (2002)
+```
+
+</div>
+---
+
+## Bayesian Inference
+
+<div id = "left">
+
+- Acknowledging Priors
+- Updating Priors
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Black_Swan_2_-_Pitt_Town_Lagoon.jpg/440px-Black_Swan_2_-_Pitt_Town_Lagoon.jpg" width=""/>
+
+</div>
+
 ---
 
 # Explanation
@@ -488,6 +531,8 @@ Doyle, A.C., 2010. _The sign of four_. Broadview Press.
 Evans, J.S.B.T., Barston, J.L. and Pollard, P., 1983. On the conflict between logic and belief in syllogistic reasoning. _Memory & cognition_, _11_(3), pp.295-306.
 
 Kinkade, M.D., 1983. Salish evidence against the universality of ‘noun’and ‘verb’. _Lingua_, _60_(1), pp.25-39.
+
+Okasha, Samir. 2002. _Philosophy of science: a very short introduction_. Oxford: Oxford University Press.
 
 Peirce, C.S., 1974. _Collected papers of charles sanders peirce_(Vol. 5). Harvard University Press.
 
