@@ -247,8 +247,58 @@ Nlaka'pamuctsin does not have nouns.
 
 ## Hume's problem
 
+<div id = "left">
+
+- David Hume (1711-1776)
+- Empiricist
+- Skeptic
+
+</div>
+
+<div id = "right">
+
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/440px-Painting_of_David_Hume.jpg" width=""/>
 
+
+</div>
+---
+
+## Black swans
+
+
+
+<div id = "right">
+
+All swans so far observed are white.  
+
+.˙. All swans are white.
+
+</div>
+
+
+
+---
+
+## Black swans
+
+
+
+<div id = "right">
+
+All swans so far observed are white.  
+
+.˙. All swans are white.
+
+</div>
+
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Black_Swan_2_-_Pitt_Town_Lagoon.jpg/440px-Black_Swan_2_-_Pitt_Town_Lagoon.jpg" width=""/>
+
+</div>
+ 
 ---
 
 # Abduction
@@ -274,4 +324,8 @@ Evans, J.S.B.T., Barston, J.L. and Pollard, P., 1983. On the conflict between lo
 Kinkade, M.D., 1983. Salish evidence against the universality of ‘noun’and ‘verb’. _Lingua_, _60_(1), pp.25-39.
 
 </div>
+
+## Images
+
+Black swan: [JJ Harrison](https://commons.wikimedia.org/wiki/User:JJ_Harrison "User:JJ Harrison") ([https://www.jjharrison.com.au/](https://www.jjharrison.com.au/); Rights: -   [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
