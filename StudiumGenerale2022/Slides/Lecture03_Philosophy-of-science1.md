@@ -89,9 +89,7 @@ Ethan is drinking coffee.
 
 _Modus tollens_  
 
-If _P_, then _Q_.  
-Not _Q_.  
-Therefore, not _P_.  
+
 
 </div>
 
