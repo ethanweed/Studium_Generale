@@ -229,7 +229,7 @@ Nlaka'pamuctsin does not have nouns.
 
 <div id = "center_border">
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Evans_et_al_1983.png?raw=true" width=""/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Evans_et_al_1983.png?raw=true" width="800"/>
 
 </div>
 
