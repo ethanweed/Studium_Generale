@@ -245,6 +245,12 @@ Nlaka'pamuctsin does not have nouns.
 
 ---
 
+## Hume's problem
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/440px-Painting_of_David_Hume.jpg" width=""/>
+
+---
+
 # Abduction
 
 ---
