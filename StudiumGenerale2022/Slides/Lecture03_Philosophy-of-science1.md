@@ -185,10 +185,9 @@ Nlaka'pamuctsin is a language.
 
 
 </div>
+<div id = "right_border">
 
-<div id = "right">
-
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Kincade_1983.png?raw=true" width="900"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Kincade_1983.png?raw=true" width="600"/>
 
 
 
@@ -214,13 +213,7 @@ Nlaka'pamuctsin does not have nouns.
 
 </div>
 
-<div id = "right_border">
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Kincade_1983.png?raw=true" width="400"/>
-
-
-
-</div>
 
 
 ---
