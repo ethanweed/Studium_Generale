@@ -516,6 +516,35 @@ But if scientists use simplicity as a guide to inference, this raises a deep que
 
 ---
 
+## Hempel's Covering Law
+
+<div id = "left">
+
+L1, L2, etc ... (General laws)  
+
+C1, C2, etc.... (Conditions)  
+
+.˙. E (The event to be explained)
+
+</div>
+
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Carl_Gustav_Hempel.jpg" width=""/>
+
+Carl Hempel (1905 - 1997)
+
+</div>
+
+---
+
+
+
+
+---
+
+
 ## Correlation
 
 
