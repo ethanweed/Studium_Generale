@@ -47,6 +47,26 @@ All men are mortal
 
 ---
 
+
+
+
+ <div id = "left_border">
+
+_Modus ponens_
+
+If _P_, then _Q_  
+_P_.
+.˙. _Q_
+
+</div>
+
+<div id = "right_border">
+
+
+</div>
+
+---
+
 # Induction
 
 ---
