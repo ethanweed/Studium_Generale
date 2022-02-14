@@ -580,11 +580,33 @@ X causes Y
 But how can we be sure that X causes Y?
 
 </div>
+---
 
+## Hume (again)
+
+<div id = "left_border_small">
+
+- We can only know that which we can sense
+- Can we sense causality?
+
+</div>
 
 ---
 
-# Authority
+## Funes el Memorioso
+
+```
+
+They allow us to make out dimly, or to infer, the dizzying world of Funes. He was, let us not forget, almost incapable of general, platonic ideas. It was not only difficult for him to understand that the generic term dog embraced so many unlike specimens of differing sizes and different forms; he was disturbed by the fact that a dog at three-fourteen (seen in profile) should have the same name as the dog at three-fifteen (seen from the front).
+
+[...]
+
+Without effort, he had learned English, French, Portuguese, Latin. I suspect, nevertheless, that he was not very capable of thought. To think is to forget a difference, to generalize, to abstract. In the overly replete world of Funes there were nothing but details, almost contiguous details.
+
+-Funes el Memorioso (Borges, 1944)
+```
+
+
 
 ---
 
@@ -594,7 +616,10 @@ But how can we be sure that X causes Y?
 
 <div id = "refs">
 
+
 Anscombe, F.J., 1973. Graphs in statistical analysis. _The american statistician_, _27_(1), pp.17-21.
+
+Borges, J.L. 1944 _Ficciones_. Editorial Sur.
 
 Doyle, A.C., 2010. _The sign of four_. Broadview Press.
 
