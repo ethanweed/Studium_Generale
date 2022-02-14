@@ -379,6 +379,23 @@ Papyrus Oxyrhynchus 29 (ca. 100 AD?)
 ---
 
 
+<div id = "left">
+
+```
+“
+Let me run over the principal steps. We approached the case, you remember, with an absolutely blank mind, which is always an advantage. We had formed no theories. We were simply there to observe and to draw inferences from our observations.
+
+Sherlock Holmes, in "The Adventure of the Cardboard Box"
+
+```
+
+</div>
+
+<div id = "right">
+
+;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sherlock_Holmes_-_Adventure_of_the_Cardboard_Box_illustration_1893.jpg/440px-Sherlock_Holmes_-_Adventure_of_the_Cardboard_Box_illustration_1893.jpg" width=""/>
+
+</div>
 
 ---
 
