@@ -543,7 +543,7 @@ But if scientists use simplicity as a guide to inference, this raises a deep que
 
 ## Hempel's Covering Law
 
-<div id = "left">
+<div id = "left_border_small">
 
 L1, L2, etc ... (General laws)  
 
