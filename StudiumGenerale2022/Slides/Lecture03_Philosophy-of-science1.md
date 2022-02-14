@@ -514,15 +514,28 @@ But if scientists use simplicity as a guide to inference, this raises a deep que
 
 ---
 
-# Explanation
+## Making mistakes
+
+Article by Kaiser & Creager (2012)
 
 ---
+
+## Spooky action at a distance
 
 <img src="https://www.science.org/do/10.1126/science.aad1685/full/sn-entanglement_0.jpg" width=""/>
 
+---
+
+## Quantum communication
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Herbert_1982_FLASH%20.png?raw=true" width=""/>
+
 
 ---
 
+# Explanation
+
+---
 
 
 ---
@@ -635,6 +648,10 @@ Borges, J.L. 1944 _Ficciones_. Editorial Sur.
 Doyle, A.C., 2010. _The sign of four_. Broadview Press.
 
 Evans, J.S.B.T., Barston, J.L. and Pollard, P., 1983. On the conflict between logic and belief in syllogistic reasoning. _Memory & cognition_, _11_(3), pp.295-306.
+
+Herbert, N., 1982. FLASH—A superluminal communicator based upon a new kind of quantum measurement. _Foundations of Physics_, _12_(12), pp.1171-1179.
+
+Kaiser, D. and Creager, A.N., 2012. The right way to get it wrong. _Scientific American_, _306_(6), pp.70-75.
 
 Kinkade, M.D., 1983. Salish evidence against the universality of ‘noun’and ‘verb’. _Lingua_, _60_(1), pp.25-39.
 
