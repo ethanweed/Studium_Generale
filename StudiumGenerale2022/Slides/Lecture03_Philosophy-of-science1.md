@@ -228,6 +228,8 @@ Nlaka'pamuctsin does not have nouns.
 ## Problematic deductions
 
 
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Evans_et_al_1983.png?raw=true" width=""/>
+
 
 
 
@@ -252,5 +254,11 @@ Nlaka'pamuctsin does not have nouns.
 
 # References
 
-Kinkade, M. Dale. "Salish evidence against the universality of ‘noun’and ‘verb’." _Lingua_ 60, no. 1 (1983): 25-39.
+<div id = "refs">
+
+Evans, J.S.B.T., Barston, J.L. and Pollard, P., 1983. On the conflict between logic and belief in syllogistic reasoning. _Memory & cognition_, _11_(3), pp.295-306.
+
+Kinkade, M.D., 1983. Salish evidence against the universality of ‘noun’and ‘verb’. _Lingua_, _60_(1), pp.25-39.
+
+</div>
 
