@@ -519,6 +519,22 @@ But if scientists use simplicity as a guide to inference, this raises a deep que
 ## Correlation
 
 
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/spurious_correlation_1.png?raw=true" width="400"/>
+
+---
+
+## Correlation
+
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/spurious_correlation_2.png?raw=true" width="400"/>
+
+
+---
+
+## Anscombe's Quartet
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/1600px-Anscombe%27s_quartet_3.svg.png" width="400"/>
+
 
 
 ---
@@ -551,5 +567,9 @@ Peirce, C.S., 1974. _Collected papers of charles sanders peirce_(Vol. 5). Harvar
 <div id = "refs">
 
 Black swan: [JJ Harrison](https://commons.wikimedia.org/wiki/User:JJ_Harrison "User:JJ Harrison") ([https://www.jjharrison.com.au/](https://www.jjharrison.com.au/); Rights: -   [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+
+Spurious correlations: https://tylervigen.com/spurious-correlations
+
+Anscombe's Quartet:  https://commons.wikimedia.org/wiki/User:Schutz,   https://en.wikipedia.org/wiki/File:Anscombe%27s_quartet_3.svg; Rights: CC BY-SA 3.0
 
 </div>
