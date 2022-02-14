@@ -50,17 +50,17 @@ All men are mortal
 
 
 
- <div id = "left_border">
+ <div id = "left_border_small">
 
 _Modus ponens_
 
 If _P_, then _Q_  
-_P_.
+_P_.  
 .˙. _Q_
 
 </div>
 
-<div id = "right_border">
+<div id = "right_border_small">
 
 
 </div>
