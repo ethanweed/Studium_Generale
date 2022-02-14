@@ -19,7 +19,27 @@
 
 # Deduction
 
+---
 
+## "Top-down" reasoning
+
+---
+
+<div id = "left_border">
+
+Socrates is a man
+All men are mortal
+.˙. Socrates is mortal
+
+</div>
+
+
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/440px-Socrate_du_Louvre.jpg" width="300"/>
+
+</div>
 
 ---
 
