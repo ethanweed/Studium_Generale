@@ -169,7 +169,7 @@ Nlaka'pamuctsin is a language.
 
 ---
 
-## Linguistic deductions
+## Problematic deductions
 
 <div id = "left">
 
@@ -197,7 +197,7 @@ Nlaka'pamuctsin is a language.
 
 ---
 
-## Linguistic deductions
+## Problematic deductions
 
 <div id = "left">
 
@@ -225,24 +225,11 @@ Nlaka'pamuctsin does not have nouns.
 
 ---
 
-<div id = "left_center_small">
-
-Some languages do not have nouns  
-
-Nlaka'pamuctsin doesn't have nouns  
-
-.˙.  Nlaka'pamuctsin is a language
-
-
-</div>
-
-
-<div id = "right">
+## Problematic deductions
 
 
 
 
-</div> 
 
 
 ---
