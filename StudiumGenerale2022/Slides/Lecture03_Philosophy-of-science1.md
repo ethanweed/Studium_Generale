@@ -516,6 +516,31 @@ But if scientists use simplicity as a guide to inference, this raises a deep que
 
 ---
 
+
+
+## Correlation
+
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/spurious_correlation_1.png?raw=true" width="800"/>
+
+---
+
+## Correlation
+
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/spurious_correlation_2.png?raw=true" width="800"/>
+
+
+---
+
+## Anscombe's Quartet
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/1600px-Anscombe%27s_quartet_3.svg.png" width="600"/>
+
+
+---
+
+
 ## Hempel's Covering Law
 
 <div id = "left">
@@ -539,30 +564,6 @@ Carl Hempel (1905 - 1997)
 
 ---
 
-
-
-
----
-
-
-## Correlation
-
-
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/spurious_correlation_1.png?raw=true" width="800"/>
-
----
-
-## Correlation
-
-
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/spurious_correlation_2.png?raw=true" width="800"/>
-
-
----
-
-## Anscombe's Quartet
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/1600px-Anscombe%27s_quartet_3.svg.png" width="600"/>
 
 
 
