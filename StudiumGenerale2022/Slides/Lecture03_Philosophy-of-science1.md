@@ -350,12 +350,35 @@ Papyrus Oxyrhynchus 29 (ca. 100 AD?)
 
 ---
 
+## So what good is induction?
 
 
  
 ---
 
 # Abduction
+
+---
+
+## Abduction (IBE)
+
+
+<div id = "left">
+
+- C.S. Pierce (1839 - 1914)
+- Semiotician
+- Pragmatist
+
+</div>
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Charles_Sanders_Peirce.jpg" width=""/>
+
+</div>
+
+---
+
+
 
 ---
 
