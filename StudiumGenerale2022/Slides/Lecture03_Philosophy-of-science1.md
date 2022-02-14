@@ -332,15 +332,24 @@ Observation –> Theories –> Predictions
 
 ## Proof
 
-Induction will never prove anything
+Induction will never prove anything.
 
 ---
 
 ## Proof
 
-Induction has never and will never proove anything.
+Induction has never and will never prove anything.
 
 ---
+
+## Proof only exists in mathematics
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/P._Oxy._I_29.jpg/600px-P._Oxy._I_29.jpg" width=""/>
+
+Papyrus Oxyrhynchus 29 (ca. 100 AD?) copy of Euclid (ca. 300 BC)
+
+---
+
 
 
  
