@@ -25,7 +25,11 @@
 
 ---
 
+## "Top-down" reasoning
+
 <div id = "left_border">
+
+Syllogism:
 
 Socrates is a man  
 All men are mortal  
