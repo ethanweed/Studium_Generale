@@ -372,7 +372,7 @@ Papyrus Oxyrhynchus 29 (ca. 100 AD?)
 </div>
 <div id = "right">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Charles_Sanders_Peirce.jpg" width=""/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Charles_Sanders_Peirce.jpg" width="400"/>
 
 </div>
 
