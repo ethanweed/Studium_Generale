@@ -298,6 +298,51 @@ All swans so far observed are white.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Black_Swan_2_-_Pitt_Town_Lagoon.jpg/440px-Black_Swan_2_-_Pitt_Town_Lagoon.jpg" width=""/>
 
 </div>
+
+
+---
+
+## Black swans
+
+<div id = "left">
+
+```
+When any one asks me how I can best describe my experiences of nearly forty years at sea I merely say uneventful. Of course, there have been Winter gales and storms and fog and the like, but in all my experience I have never been in an accident of any sort worth speaking about. I have seen but one vessel in distress in all my years at sea, a brig, the crew of which was taken off in a small boat in charge of my third officer. I never saw a wreck and have never been wrecked, nor was I ever in any predicament that threatened to end in disaster of any sort.
+- Captain E. J. Smith (writing in 1907)
+
+```
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/600px-RMS_Titanic_3.jpg" width=""/>
+
+RMS _Titanic_ 1912
+</div>
+
+
+---
+
+## Knowledge production
+
+Observation –> Theories –> Predictions
+
+---
+
+## Proof
+
+Induction will never prove anything
+
+---
+
+## Proof
+
+Induction has never and will never proove anything.
+
+---
+
+
  
 ---
 
