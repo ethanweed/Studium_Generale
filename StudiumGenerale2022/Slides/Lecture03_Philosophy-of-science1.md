@@ -519,21 +519,21 @@ But if scientists use simplicity as a guide to inference, this raises a deep que
 ## Correlation
 
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/spurious_correlation_1.png?raw=true" width="400"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/spurious_correlation_1.png?raw=true" width="800"/>
 
 ---
 
 ## Correlation
 
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/spurious_correlation_2.png?raw=true" width="400"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/spurious_correlation_2.png?raw=true" width="800"/>
 
 
 ---
 
 ## Anscombe's Quartet
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/1600px-Anscombe%27s_quartet_3.svg.png" width="400"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/1600px-Anscombe%27s_quartet_3.svg.png" width="600"/>
 
 
 
@@ -548,6 +548,8 @@ But if scientists use simplicity as a guide to inference, this raises a deep que
 ## References
 
 <div id = "refs">
+
+Anscombe, F.J., 1973. Graphs in statistical analysis. _The american statistician_, _27_(1), pp.17-21.
 
 Doyle, A.C., 2010. _The sign of four_. Broadview Press.
 
