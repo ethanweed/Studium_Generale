@@ -564,7 +564,22 @@ Carl Hempel (1905 - 1997)
 
 ---
 
+## Causal asymmetry
 
+<div id = "left">
+
+X causes Y
+
+.˙. Y cannot cause X
+
+</div>
+
+
+<div id = "right">
+
+But how can we be sure that X causes Y?
+
+</div>
 
 
 ---
