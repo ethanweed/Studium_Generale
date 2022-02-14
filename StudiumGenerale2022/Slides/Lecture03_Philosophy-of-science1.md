@@ -170,6 +170,7 @@ Nlaka'pamuctsin is a language.
 ---
 
 
+<img src="Studium_Generale/StudiumGenerale2022/Slides/Images/Kincade_1983.png" width=""/>
 
 
 
