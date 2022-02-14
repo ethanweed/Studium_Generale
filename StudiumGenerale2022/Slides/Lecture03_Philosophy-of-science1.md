@@ -245,6 +245,38 @@ Nlaka'pamuctsin does not have nouns.
 
 ---
 
+## "Bottom-up" reasoning
+
+---
+
+## "Bottom-up" reasoning
+
+The first 5 songs on this playlist are good.  
+.˙. The next song will be good too.
+
+---
+
+## A linguistic example
+
+<div id = "left">
+
+Marc Dax (1770 - 1837): 3 patients
+Gustave Dax (1815 - 1893):140 patients
+Paul Broca (1824 - 1880): 1 patient
+
+</div>
+
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Plaque_Marc_Dax_Sommières.jpg/440px-Plaque_Marc_Dax_Sommières.jpg" width=""/>
+
+</div>
+
+
+
+---
+
 ## Hume's problem
 
 <div id = "left">
@@ -393,7 +425,45 @@ Sherlock Holmes, in "The Adventure of the Cardboard Box"
 
 <div id = "right">
 
-;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sherlock_Holmes_-_Adventure_of_the_Cardboard_Box_illustration_1893.jpg/440px-Sherlock_Holmes_-_Adventure_of_the_Cardboard_Box_illustration_1893.jpg" width=""/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sherlock_Holmes_-_Adventure_of_the_Cardboard_Box_illustration_1893.jpg/440px-Sherlock_Holmes_-_Adventure_of_the_Cardboard_Box_illustration_1893.jpg" width=""/>
+
+</div>
+
+
+---
+
+## Pierce on abduction
+
+<div id = "left">
+
+The surprising fact, C, is observed.  
+
+But if A were true, C would be a matter of course.  
+
+Hence, there is reason to suspect that A is true.
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Charles_Sanders_Peirce.jpg" width="400"/>
+
+</div>
+
+---
+
+
+<div id = "left">
+
+How often have I said to you that when you have eliminated the impossible, whatever remains, _however improbable_, must be the truth?
+
+- Sherlock Holmes in _The Sign of Four_
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%22The_Sign_of_the_Four%22_in_Lippincott’s_Monthly_Magazine_%281890%29.jpg/440px-%22The_Sign_of_the_Four%22_in_Lippincott’s_Monthly_Magazine_%281890%29.jpg" width=""/>
 
 </div>
 
@@ -413,9 +483,13 @@ Sherlock Holmes, in "The Adventure of the Cardboard Box"
 
 <div id = "refs">
 
+Doyle, A.C., 2010. _The sign of four_. Broadview Press.
+
 Evans, J.S.B.T., Barston, J.L. and Pollard, P., 1983. On the conflict between logic and belief in syllogistic reasoning. _Memory & cognition_, _11_(3), pp.295-306.
 
 Kinkade, M.D., 1983. Salish evidence against the universality of ‘noun’and ‘verb’. _Lingua_, _60_(1), pp.25-39.
+
+Peirce, C.S., 1974. _Collected papers of charles sanders peirce_(Vol. 5). Harvard University Press.
 
 </div>
 
