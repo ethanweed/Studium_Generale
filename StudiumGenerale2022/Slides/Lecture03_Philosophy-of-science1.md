@@ -360,6 +360,8 @@ RMS _Titanic_ 1912
 
 Observation –> Theories –> Predictions
 
+
+
 ---
 
 ## Proof
@@ -516,6 +518,15 @@ But if scientists use simplicity as a guide to inference, this raises a deep que
 
 ---
 
+<img src="https://www.science.org/do/10.1126/science.aad1685/full/sn-entanglement_0.jpg" width=""/>
+
+
+---
+
+
+
+---
+
 
 
 ## Correlation
@@ -643,5 +654,7 @@ Black swan: [JJ Harrison](https://commons.wikimedia.org/wiki/User:JJ_Harrison "U
 Spurious correlations: https://tylervigen.com/spurious-correlations
 
 Anscombe's Quartet:  https://commons.wikimedia.org/wiki/User:Schutz,   https://en.wikipedia.org/wiki/File:Anscombe%27s_quartet_3.svg; Rights: CC BY-SA 3.0
+
+Quantum entanglement: https://www.science.org/content/article/more-evidence-support-quantum-theory-s-spooky-action-distance
 
 </div>

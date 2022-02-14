@@ -11,7 +11,7 @@
           "state": {
             "file": "Slides/Lecture03_Philosophy-of-science1.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -90,14 +90,14 @@
   "active": "5c3f5698b1fc6686",
   "lastOpenFiles": [
     "Slides/Lecture03_Philosophy-of-science1.md",
+    "Literature/03_Kaiser & Creager_2012.pdf",
+    "Literature/03_Kaiser & Creager_2012.md",
     "Slides/Lecture02_History-of-science.md",
     "Slides/Lecture04_Scientific-argumentation.md",
     "Classic Texts/03_Saussure_2_questions.md",
     "Classic Texts/02_Saussure_1_questions.md",
     "CourseInfo/Students_schedule - spring_semester.md",
     "Timeline.md",
-    "Literature/02_Trombley_2012 Parts 1 & 2_notes.md",
-    "Literature/02_Danielson  & Graney_2014 .pdf",
-    "Literature/02_Trombley_2012 Parts 1 & 2.pdf"
+    "Literature/02_Trombley_2012 Parts 1 & 2_notes.md"
   ]
 }
