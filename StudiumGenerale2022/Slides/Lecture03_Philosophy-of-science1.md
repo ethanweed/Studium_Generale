@@ -126,12 +126,48 @@ _Modus tollens_
 
 If Ethan is awake, he will drink coffee.  
 
-Ethan is not drinking coffee.  
+Ethan is _not_ drinking coffee.  
 
-.˙. Ethan is not awake.
+.˙. Ethan is _not_ awake.
 
 </div>
 
+
+---
+
+## Linguistic deductions
+
+
+<div id = "center_border">
+
+All languages have consonants and vowels.  
+
+Nlaka'pamuctsin is a language.  
+
+.˙. Nlaka'pamuctsin has consonants and vowels.
+
+</div>
+
+
+---
+
+
+
+## Linguistic deductions
+
+
+<div id = "center_border">
+
+All languages have nouns.  
+
+Nlaka'pamuctsin is a language.  
+
+.˙. Nlaka'pamuctsin has nouns.
+
+</div>
+
+
+---
 
 
 
