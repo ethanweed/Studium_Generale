@@ -47,7 +47,7 @@ All men are mortal
 
 ---
 
-
+## Species of syllogism
 
 
  <div id = "left_border_small">
@@ -62,8 +62,73 @@ _P_.
 
 <div id = "right_border_small">
 
+_Modus tollens_  
+
+If _P_, then _Q_.  
+Not _Q_.  
+Therefore, not _P_.  
 
 </div>
+
+---
+
+## Species of syllogism
+
+
+ <div id = "left_border_small">
+
+_Modus ponens_
+
+If Ethan is awake, he will drink coffee.
+Ethan is drinking coffee.  
+.˙. Ethan is awake
+
+</div>
+
+<div id = "right_border_small">
+
+_Modus tollens_  
+
+If _P_, then _Q_.  
+Not _Q_.  
+Therefore, not _P_.  
+
+</div>
+
+
+
+
+---
+
+
+## Species of syllogism
+
+
+ <div id = "left_border_small">
+
+_Modus ponens_
+
+If Ethan is awake, he will drink coffee.
+Ethan is drinking coffee.  
+.˙. Ethan is awake
+
+</div>
+
+<div id = "right_border_small">
+
+_Modus tollens_  
+
+If Ethan is awake, he will drink coffee.  
+Ethan is not drinking coffee.  
+.˙. Ethan is not awake.
+
+</div>
+
+
+
+
+
+
 
 ---
 
