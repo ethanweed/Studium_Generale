@@ -169,14 +169,80 @@ Nlaka'pamuctsin is a language.
 
 ---
 
+## Linguistic deductions
+
+<div id = "left">
+
+<div id = "center_border">
+
+All languages have nouns.  
+
+Nlaka'pamuctsin is a language.  
+
+.˙. Nlaka'pamuctsin has nouns.
+
+</div>
+
+
+</div>
 
 <div id = "right">
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Kincade_1983.png?raw=true" width="700"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Kincade_1983.png?raw=true" width="900"/>
 
 
 
 </div>
+
+
+---
+
+## Linguistic deductions
+
+<div id = "left">
+
+<div id = "center_border">
+
+All languages have nouns.  
+
+Nlaka'pamuctsin does not have nouns.  
+
+.˙. Nlaka'pamuctsin is not a language.
+
+</div>
+
+
+</div>
+
+<div id = "right">
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Kincade_1983.png?raw=true" width="900"/>
+
+
+
+</div>
+
+
+---
+
+<div id = "left_center_small">
+
+Some languages do not have nouns  
+
+Nlaka'pamuctsin doesn't have nouns  
+
+.˙.  Nlaka'pamuctsin is a language
+
+
+</div>
+
+
+<div id = "right">
+
+
+
+
+</div> 
 
 
 ---
@@ -198,4 +264,6 @@ Nlaka'pamuctsin is a language.
 ---
 
 # References
+
+Kinkade, M. Dale. "Salish evidence against the universality of ‘noun’and ‘verb’." _Lingua_ 60, no. 1 (1983): 25-39.
 
