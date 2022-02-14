@@ -55,7 +55,9 @@ All men are mortal
 _Modus ponens_
 
 If _P_, then _Q_  
+
 _P_.  
+
 .˙. _Q_
 
 </div>
@@ -65,7 +67,9 @@ _P_.
 _Modus tollens_  
 
 If _P_, then _Q_.  
+
 Not _Q_.  
+
 Therefore, not _P_.  
 
 </div>
@@ -79,8 +83,10 @@ Therefore, not _P_.
 
 _Modus ponens_
 
-If Ethan is awake, he will drink coffee.
+If Ethan is awake, he will drink coffee.  
+
 Ethan is drinking coffee.  
+
 .˙. Ethan is awake
 
 </div>
@@ -106,8 +112,10 @@ _Modus tollens_
 
 _Modus ponens_
 
-If Ethan is awake, he will drink coffee.
+If Ethan is awake, he will drink coffee.  
+
 Ethan is drinking coffee.  
+
 .˙. Ethan is awake
 
 </div>
@@ -117,7 +125,9 @@ Ethan is drinking coffee.
 _Modus tollens_  
 
 If Ethan is awake, he will drink coffee.  
+
 Ethan is not drinking coffee.  
+
 .˙. Ethan is not awake.
 
 </div>
