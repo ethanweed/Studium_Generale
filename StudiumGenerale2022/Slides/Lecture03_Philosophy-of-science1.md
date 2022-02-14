@@ -327,5 +327,9 @@ Kinkade, M.D., 1983. Salish evidence against the universality of ‘noun’and �
 
 ## Images
 
+
+<div id = "refs">
+
 Black swan: [JJ Harrison](https://commons.wikimedia.org/wiki/User:JJ_Harrison "User:JJ Harrison") ([https://www.jjharrison.com.au/](https://www.jjharrison.com.au/); Rights: -   [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
+</div>
