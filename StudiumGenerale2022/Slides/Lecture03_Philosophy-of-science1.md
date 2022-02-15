@@ -662,7 +662,7 @@ Kinkade, M.D., 1983. Salish evidence against the universality of ‘noun’and �
 
 Okasha, Samir. 2002. _Philosophy of science: a very short introduction_. Oxford: Oxford University Press.
 
-Peirce, C.S., 1974. _Collected papers of charles sanders peirce_(Vol. 5). Harvard University Press.
+Peirce, C.S., 1974. _Collected Papers of Charles Sanders Peirce_(Vol. 5). Harvard University Press.
 
 </div>
 
