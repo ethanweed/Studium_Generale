@@ -260,8 +260,10 @@ The first 5 songs on this playlist are good.
 
 <div id = "left">
 
-Marc Dax (1770 - 1837): 3 patients
-Gustave Dax (1815 - 1893):140 patients
+Marc Dax (1770 - 1837): 3 patients  
+
+Gustave Dax (1815 - 1893):140 patients  
+
 Paul Broca (1824 - 1880): 1 patient
 
 </div>
@@ -495,6 +497,7 @@ But if scientists use simplicity as a guide to inference, this raises a deep que
 ```
 
 </div>
+
 ---
 
 ## Bayesian Inference
