@@ -31,24 +31,94 @@ at work in all languages
 
 ## Linguistic circuit
 
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_01.png" width=""/>
+
 
 ---
 
 ## Linguistic circuit
 
 
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_02.png" width=""/>
 
+---
+
+## Language and society
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_03.png" width=""/>
+
+---
+
+## Language and society
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_04.png" width=""/>
+
+---
+
+## Language,society, and time
+
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_10.png" width=""/>
+
+---
+
+
+## Language,society, and time
+
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_11.png" width=""/>
+
+---
+
+
+## Phonology
+
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_05png" width=""/>
 
 ---
 
 ## Phonology
 
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_06.png" width=""/>
+
+---
+
+## The Linguistic Sign
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_07.png" width=""/>
 
 
 ---
 
-## 
+## The Linguistic Sign
 
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_08.png" width=""/>
+
+---
+
+## The Linguistic Sign
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_09.png" width=""/>
+
+---
+
+## Language as structure
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_012.png" width=""/>
+
+
+---
+
+## Language as structure
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_013.png" width=""/>
+
+---
+
+## Linguistics
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_14.png" width=""/>
 
 ---
 
