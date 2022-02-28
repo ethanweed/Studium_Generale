@@ -15,7 +15,8 @@ To understand what we do, and why we do it.
 ## The story of Herodotus
 
 <img src=
-"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/McGregor_Herodotus.png?raw=true" />
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/McGregor_Herodotus.png?raw=true" width = "600"/>
+
 
 
 ---
@@ -23,7 +24,7 @@ To understand what we do, and why we do it.
 ## The story of Herodotus
 
 <img src=
-"/Users/ethan/Documents/GitHub/Studium_Generale/StudiumGenerale2022/Slides/Images/Thomas_2007_1.png" />
+"/Users/ethan/Documents/GitHub/Studium_Generale/StudiumGenerale2022/Slides/Images/Thomas_2007_1.png" width = "600"/>
 
 ---
 
