@@ -263,6 +263,10 @@
 
 #### [Page 13](highlights://05_Thomas#page=13)
 
+> In these ways the story of Psammatichus’ inquiry is remodeled,
+> if sometimes only subtly, to meet the anticipated needs of
+> contemporary readers.
+
 > The problem is that to domesticate the past on the model of the
 > present deceives read- ers into assuming more continuity than
 > may actually exist, leaving them under- prepared to appreciate
@@ -399,5 +403,14 @@
 > manner, which relativizes it to the world of the reader,
 > paradox- ically serves to orient neophytes away from inquiry
 > into the past.
+
+#### [Page 24](highlights://05_Thomas#page=24)
+
+> some scholars assimilate it into modern linguistic research,
+> while con- ceding that it is flawed on ethical grounds.
+
+> In doing so, they often seem to make the past both
+> inappropriately familiar (therefore less threatening), and
+> inappro- priately strange (therefore less valuable).
 
 

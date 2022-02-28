@@ -28,6 +28,14 @@ To understand what we do, and why we do it.
 
 ---
 
+
+## The story of Herodotus
+
+<img src=
+"/Users/ethan/Documents/GitHub/Studium_Generale/StudiumGenerale2022/Slides/Images/Thomas_2007_2.png" width = "600"/>
+
+---
+
 # Ancient Linguistics
 
 ---
