@@ -58,7 +58,7 @@ at work in all languages
 ## Language,society, and time
 
 
-<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_10.png" width="600"/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_10.png" width="500"/>
 
 ---
 
@@ -66,7 +66,7 @@ at work in all languages
 ## Language,society, and time
 
 
-<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_11.png" width="600"/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_11.png" width="500"/>
 
 ---
 
@@ -74,7 +74,7 @@ at work in all languages
 ## Phonology
 
 
-<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_05png" width=""/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_05.png" width=""/>
 
 ---
 
