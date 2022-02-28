@@ -132,4 +132,16 @@ at work in all languages
 ---
 
 
+# References
 
+---
+
+## References
+
+
+<div id = "refs">
+
+
+Saussure, Ferdinand de. 1959. Course in general linguistics. Translated by W. Baskin. Glasgow: Collins.
+
+</div>
