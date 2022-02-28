@@ -66,7 +66,7 @@ at work in all languages
 ## Language,society, and time
 
 
-<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_11.png" width="700"/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_11.png" width="500"/>
 
 ---
 
