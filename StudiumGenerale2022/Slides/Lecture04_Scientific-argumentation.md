@@ -74,13 +74,13 @@ at work in all languages
 ## Phonology
 
 
-<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_05.png" width=""/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_05.png" width="500"/>
 
 ---
 
 ## Phonology
 
-<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_06.png" width="500"/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_06.png" width=""/>
 
 ---
 
