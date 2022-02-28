@@ -13,6 +13,3 @@ git add -A
 git commit -m "auto-updated with build-mermaid.sh"
 git push origin master
 
-
-
-for i in *.jpeg; do sips -s format png -s formatOptions 100 "${i}" --out "${i%jpeg}png"; done
