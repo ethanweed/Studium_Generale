@@ -17,6 +17,7 @@
 
 ## Knowledge production
 
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/knowledge-creation-1.png" width=""/>
 
 
 ---
