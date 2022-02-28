@@ -105,7 +105,7 @@ at work in all languages
 
 ## Language as structure
 
-<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_12.png" width=""/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_12.png" width="600"/>
 
 
 ---
