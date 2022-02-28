@@ -9,5 +9,5 @@ for i in *.md ; do mmdc -i "$i" -o "${i%.*}.png" -b transparent; done
 # Push to github
 
 git add -A
-git commit -m "auto-updated with build.sh"
+git commit -m "auto-updated with build-mermaid.sh"
 git push origin master
