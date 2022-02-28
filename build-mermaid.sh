@@ -4,8 +4,9 @@
 
 cd /Users/ethan/Documents/GitHub/Studium_Generale/StudiumGenerale2022/Slides/Images
 
-for i in *.md ; do mmdc -i "$i" -o "${i%.*}.png" -b transparent; done
+for i in *.md ; do mmdc -i "$i" -o "/Figures${i%.*}.png" -b transparent; done
 
+cd /Users/ethan/Documents/GitHub/Studium_Generale/StudiumGenerale2022/Slides/Images/Figures
 for i in *.png ; do convert "$i" "${i%.*}.jpg" ; done
 
 # Push to github
