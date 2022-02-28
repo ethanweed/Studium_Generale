@@ -1,6 +1,6 @@
 ```mermaid
   graph LR;
-      ((observation)) -- induction --> theory;
+      id1((observation)) -- induction --> theory;
       theory -- deduction --> prediction;
 	  prediction -- experimentation --> observation;
       
