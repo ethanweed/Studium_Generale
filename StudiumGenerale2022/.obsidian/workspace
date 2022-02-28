@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slides/Lecture03_Philosophy-of-science1.md",
+            "file": "Slides/Lecture04_Scientific-argumentation.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides/Lecture03_Philosophy-of-science1.md",
+                "file": "Slides/Lecture04_Scientific-argumentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5c3f5698b1fc6686",
   "lastOpenFiles": [
+    "Slides/Lecture04_Scientific-argumentation.md",
+    "Classic Texts/04_Malinowski_questions.md",
+    "Classic Texts/03_Saussure_2_questions.md",
     "Slides/Lecture03_Philosophy-of-science1.md",
     "Slides/Lecture02_History-of-science.md",
     "Literature/03_Kaiser & Creager_2012.pdf",
     "Literature/03_Kaiser & Creager_2012.md",
-    "Slides/Lecture04_Scientific-argumentation.md",
-    "Classic Texts/03_Saussure_2_questions.md",
     "Classic Texts/02_Saussure_1_questions.md",
     "CourseInfo/Students_schedule - spring_semester.md",
-    "Timeline.md",
-    "Literature/02_Trombley_2012 Parts 1 & 2_notes.md"
+    "Timeline.md"
   ]
 }
