@@ -31,7 +31,7 @@ at work in all languages
 
 ## Linguistic circuit
 
-<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_01.png" width="600"/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_01.png" width="800"/>
 
 
 ---
