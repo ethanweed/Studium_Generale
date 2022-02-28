@@ -17,7 +17,11 @@
 > tasks that required comparable lexical access, but different
 > information packaging.
 
+> explanation task
+
 #### [Page 1](highlights://04_Alibali%20%20et%20al_2010#page=3)
+
+> description task,
 
 > The results suggest that gesture is involved in the conceptual
 > planning of speech.
