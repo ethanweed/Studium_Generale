@@ -26,6 +26,10 @@
 > The results suggest that gesture is involved in the conceptual
 > planning of speech.
 
+> When people speak, they often spontaneously produce gestures,
+> and those gestures are typically used to indicate or represent
+> objects and ideas
+
 > Our goal is to test two alternative accounts about how and when
 > gesture is involved in speech production.
 
