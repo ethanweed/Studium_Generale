@@ -1,4 +1,5 @@
 # History of Linguistics 1
+
 ---
 
 # Why Study History?
