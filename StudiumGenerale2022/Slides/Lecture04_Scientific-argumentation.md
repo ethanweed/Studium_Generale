@@ -156,6 +156,12 @@ at work in all languages
 	src="/Users/ethan/Documents/GitHub/Studium_Generale/StudiumGenerale2022/Slides/Images/Gilbert_1.png" width=""/>
 
 
+---
+
+<img
+	src="/Users/ethan/Documents/GitHub/Studium_Generale/StudiumGenerale2022/Slides/Images/Gilbert_2.png" width=""/>
+
+
 
 ---
 
