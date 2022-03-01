@@ -133,18 +133,16 @@ at work in all languages
 
 ---
 
-<img
-	src="/Users/ethan/Documents/GitHub/Studium_Generale/StudiumGenerale2022/Slides/Images/Alibali_1.png" width=""/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Alibali_1.png" width=""/>
+
 
 ---
 
-<img
-	src="/Users/ethan/Documents/GitHub/Studium_Generale/StudiumGenerale2022/Slides/Images/Alibali_2.png" width=""/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Alibali_2.png" width=""/>
 
 ---
 
-<img
-	src="/Users/ethan/Documents/GitHub/Studium_Generale/StudiumGenerale2022/Slides/Images/Alibali_3.png" width=""/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Alibali_3.png" width=""/>
 
 ---
 
