@@ -133,7 +133,9 @@ at work in all languages
 
 ---
 
-<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Alibali_1.png?raw=true" width=""/>
+<img
+src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Alibali_1.png?raw=true" width=""/>
+
 
 
 ---
