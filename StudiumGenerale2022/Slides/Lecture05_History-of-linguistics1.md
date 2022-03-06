@@ -141,13 +141,19 @@ and syllables the name naturally suited to each thing?
 
 ---
 
-### The word
+### Ancient Greek grammar
 
-  Word-based grammar: 
+  Word-basedr: 
 
 * Identification of the word as a linguistic entity  
 * Establishment of word classes – parts of speech  
 * Establishment of grammatical categories to describe the morphology of the words in the paradigms, and their syntax of combination
+
+
+---
+
+##    Dionysius Thrax
+
 
 
 ---
