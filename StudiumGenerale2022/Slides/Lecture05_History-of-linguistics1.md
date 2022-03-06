@@ -106,6 +106,9 @@ Like all cultural phenomena linguistics has a history, which partly shapes:
 ---
 
 ### Linguistics in ancient Greece  
+
+<div id = "left">
+
 What is...
  
 – the origin of language?
@@ -113,6 +116,9 @@ What is...
 –the relation between language and thought?
 
 –the relation between form and meaning?
+
+</div>
+
 
 ---
 
