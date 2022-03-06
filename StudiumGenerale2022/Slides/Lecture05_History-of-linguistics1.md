@@ -145,8 +145,8 @@ and syllables the name naturally suited to each thing?
 
   Word-based grammar: 
 
-–Identification of the word as a linguistic entity
-–Establishment of word classes – parts of speech
+–Identification of the word as a linguistic entity  
+–Establishment of word classes – parts of speech  
 –Establishment of grammatical categories to describe the morphology of the words in the paradigms, and their syntax of combination
 
 
