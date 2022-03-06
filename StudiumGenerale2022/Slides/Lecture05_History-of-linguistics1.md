@@ -103,6 +103,19 @@ Like all cultural phenomena linguistics has a history, which partly shapes:
 
  ``The ancient Greeks had the gift of wondering at things that other people take for granted - Bloomfield (1935)``
 
+---
+
+### Linguistics in ancient Greece  
+What is...
+ 
+– the origin of language?
+
+–the relation between language and thought?
+
+–the relation between form and meaning?
+
+---
+
 ## Linguistics in the Middle Ages
 
 
