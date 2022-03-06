@@ -53,13 +53,55 @@ Like all cultural phenomena linguistics has a history, which partly shapes:
 
 ---
 
-## Panini
+## Indian tradition
+
+---
+
+### Pānini
+
+- 7th to 4th century BCE
+- Somewhere in what is now Pakistan?
+- _Aṣtādhyāyī_: prescriptive grammar of Sanskrit
+
+---
+
+### Pānini
+
+- Early formalist
+- Morphology: abstract rules of word formation
+- Phonology: pronunciation of words in isolation and in context
+
+---
+
+### Bhartṛhari
+
+- 5th century BCE
+- Vākyapadīya: Sanskrit grammar
+- _Sphoṭa_: "bursts" or "spurts": how the mind groups language units in comprehension
+
+---
+
+### Bhartṛhari
+
+- _varṇa-sphoṭa_: syllables
+- _pada-sphoṭa_: words
+- _vakya-sphoṭa_: sentences
+
+---
+
+### Bhartṛhari
+
+- Thought and language
+- Sign: signifier and signified
+- Inspiration for Saussure?
 
 ---
 
 ## Linguistics in ancient Greece 
 
 ---
+
+ ``The ancient Greeks had the gift of wondering at things that other people take for granted - Bloomfield (1935)``
 
 ## Linguistics in the Middle Ages
 
@@ -71,6 +113,8 @@ Like all cultural phenomena linguistics has a history, which partly shapes:
 ## References
 
 <div id = "refs">
+
+Bloomfield, L., 1994. _Language_. Motilal Banarsidass Publ..
 
 McGregor, W.B., 2015. _Linguistics: an introduction_. Bloomsbury Publishing.
 
