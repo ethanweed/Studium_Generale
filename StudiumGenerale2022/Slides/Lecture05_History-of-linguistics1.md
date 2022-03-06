@@ -113,9 +113,9 @@ What is...
  
 – the origin of language?
 
-–the relation between language and thought?
+– the relation between language and thought?
 
-–the relation between form and meaning?
+– the relation between form and meaning?
 
 </div>
 
