@@ -120,6 +120,38 @@ What is...
 
 ---
 
+### Plato's _Cratylus_
+
+Is language "natural" or "conventional"?
+
+---
+
+### Plato's _Cratylus_
+
+
+```
+HERMOGENES: That's right.
+SOCRATES: Because it seems that there's a type of shuttle that's naturally
+suited to each type of weaving. And the same holds of tools in general.
+HERMOGENES: Yes.
+SOCRATES: So mustn't a rule-setter also know how to embody in sounds
+and syllables the name naturally suited to each thing?
+
+```
+
+---
+
+### The word
+
+  Word-based grammar: 
+
+–Identification of the word as a linguistic entity
+–Establishment of word classes – parts of speech
+–Establishment of grammatical categories to describe the morphology of the words in the paradigms, and their syntax of combination
+
+
+---
+
 ## Linguistics in the Middle Ages
 
 
