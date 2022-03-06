@@ -111,9 +111,9 @@ Like all cultural phenomena linguistics has a history, which partly shapes:
 
 What is...
  
-– the origin of language?  
-– the relation between language and thought?  
-– the relation between form and meaning?
+* the origin of language?  
+* the relation between language and thought?  
+* the relation between form and meaning?
 
 </div>
 
