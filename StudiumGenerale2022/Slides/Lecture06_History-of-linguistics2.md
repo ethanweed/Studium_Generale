@@ -243,7 +243,7 @@ Phillip:
 
 ### Discoveries of the Phillip expedition
 
-1. That the language of the Burubirangal appears to have been a sister dialect of that spoken by the Iyura, and that one dialect marker is the correspondence of nd in Burubirangal words with simple n in Iyura words
+1. That the language of the Burubirangal appears to have been a sister dialect of that spoken by the Iyura, and that one dialect marker is the correspondence of _nd_ in Burubirangal words with simple _n_ in Iyura words
 
 
 ---
