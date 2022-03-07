@@ -157,6 +157,7 @@ and syllables the name naturally suited to each thing?
 -  ca. 100 BCE
 - _Téchnē grammatiké_: first know description of a European language (Greek)
 - Defined European grammar for 13 centuries
+- word-based (little to nothing on syntax)
 
 ---
 
@@ -179,8 +180,106 @@ and syllables the name naturally suited to each thing?
 
 ---
 
+##   Apollonius Dyscolus
+
+- ca. 100 CE
+- Assigned grammatical structure to meaning
+- Syntactic description built on relation of noun and verb to one another
+
+---
+
+##   Apollonius Dyscolus
+
+- Active verbs: actions “passing over to something or someone else”
+- Foreshadows distinctions of subject and object
+- Evidence of hierarchical structure of sentences, and notion of constituency
+
+---
+
+```
+
+   [Ancient Greeks'] achievement in that part of linguistics in which they were strongest, namely grammatical theory and grammatical description, is strong enough to deserve and to sustain critical examination. It is also such as to inspire our gratitude and admiration. - Robins (1967)
+
+```
+
+---
+
 ## Linguistics in the Middle Ages
 
+- Descriptive grammars of Latin
+- Descriptive grammars of the vernaculars
+- Orthographies of vernacular languages
+
+---
+
+## Roger Bacon
+
+<div id = "left">
+- 1219-1292
+- mathematics, optics, astronomy, alchemy, linguistics
+- wizard?
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Roger-bacon-statue.jpg/440px-Roger-bacon-statue.jpg" width=""/>
+
+</div>
+
+---
+
+## Roger Bacon
+
+<div id = "left">
+
+_Novum Organum_ (1620):
+	- How to achieve knowledge
+	- observation
+	- induction
+
+</div>
+
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg/440px-Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg" width=""/>
+
+</div>
+
+---
+## Bacon's brazen head
+
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Miles_%26_the_Brazen_Head.png" width=""/>
+
+</div>
+
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Friar_Bacon%27s_Brazen_Head.png" width=""/>
+
+</div>
+
+
+---
+
+## Roger Bacon
+
+
+- Grammar was fundamentally the same in all languages
+- Differences between languages are incidental and shallow
+
+---
+
+## Speculative Grammarians
+
+- All languages share an underlying grammar
+- Investigated this grammar by studying Latin
+
+---
 
 # References
 
@@ -193,6 +292,8 @@ and syllables the name naturally suited to each thing?
 Bloomfield, L., 1994. _Language_. Motilal Banarsidass Publ..
 
 McGregor, W.B., 2015. _Linguistics: an introduction_. Bloomsbury Publishing.
+
+Robins, R.H., 1967. _A short history of linguistics_. Longman. London
 
 Thomas, M., 2007. The Evergreen Story of Psammetichus’ Inquiry into the Origin of Language. _Historiographia linguistica_, _34_(1), pp.37-62.
 
