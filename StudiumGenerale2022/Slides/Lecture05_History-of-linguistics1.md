@@ -171,6 +171,14 @@ and syllables the name naturally suited to each thing?
 
 ---
 
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Thrax3.png" width="600"/>
+
+---
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Thrax4.png" width="600"/>
+
+---
+
 ## Linguistics in the Middle Ages
 
 
