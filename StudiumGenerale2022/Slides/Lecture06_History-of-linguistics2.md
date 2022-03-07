@@ -165,10 +165,30 @@ But they did make some important linguistic discoveries.
 
 ---
 
+Tench writes:
+
+```
+These are petty remarks. But one variety struck us more forcibly. Although our natives and the strangers conversed on a par, and understood each other perfectly, yet they spoke different dialects of the same language; many of the most common and necessary words, used in life, bearing no similitude, and others being slightly different.
+```
 
 
 ---
 
+Collins writes:
+
+```
+We often heard, that people from the northward had been met with, who could not be exactly understood by our friends; but this is not so wonderful as that people living at the distance of only fifty or sixty miles should call the sun and moon by different names; such, however, was the fact. In an excursion to the banks of the Hawkesbury, accompanied by two Sydney natives, we first discovered this difference; but our companions conversed with the river natives without any apparent difficulty, each understanding or comprehending the other.
+```
+
+---
+
+Phillip:
+
+```
+[...] there is good reason to believe several different languages are spoken by the natives of this country, and this accounts for only one or two of those words given in Captain Cook’s vocabulary having ever been heard amongst the natives who visited the settlement.
+```
+
+---
 
 
 
