@@ -404,7 +404,8 @@ J.R. Firth
 
 <div id = "left">
 
-Polysystemicity of languages:
+Polysystemicity of languages:  
+
 	- A language is not one system, but many systems
 	- E.g. different consonantal phonologies for word initial, medial, and/or final position
 	- Different case systems for nouns and pronouns
