@@ -392,7 +392,7 @@ J.R. Firth
 <div id = "right">
 
 <img src=
-"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Firth.png?raw=true" width = "400"/>
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Firth.png?raw=true" width = "300"/>
 
 </div>
 
@@ -414,7 +414,7 @@ Polysystemicity of languages:
 <div id = "right">
 
 <img src=
-"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Firth.png?raw=true" width = "400"/>
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Firth.png?raw=true" width = "300"/>
 
 </div>
 
