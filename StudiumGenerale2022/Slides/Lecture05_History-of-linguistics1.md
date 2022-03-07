@@ -280,8 +280,9 @@ _Novum Organum_ (1620):
 <div id = "left">
 
 - All languages share an underlying grammar
-- Investigated this grammar by studying Latin
+- Investigated this grammar by studying Latin  
 -Thomas of Erfurt (C 14): "Modism"
+
 </div>
 
 
