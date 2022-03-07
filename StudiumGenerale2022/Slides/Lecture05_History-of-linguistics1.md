@@ -153,7 +153,7 @@ SOCRATES: So mustn't a rule-setter also know how to embody in sounds and syllabl
 
 <div id = "right">
 
-<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/shuttle.png" width="600"/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/shuttle.png" width="800"/>
 
 </div>
 
