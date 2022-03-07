@@ -52,7 +52,7 @@ What do you remember about:
 
 <div id = "left">
 
-Wilhelm Heinrich Immanuel Bleek 
+Wilhelm Heinrich Immanuel Bleek (1827-1875)
 
 - Trained in comparative linguistics
 - Doctoral thesis on African languages 
@@ -74,7 +74,7 @@ Wilhelm Heinrich Immanuel Bleek
 
 ---
 
-### James Cook
+### James Cook (1728-1779)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cook_Three_Voyages_59.png/780px-Cook_Three_Voyages_59.png" width=""/>
 
