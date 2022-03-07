@@ -126,7 +126,9 @@ Captain Arthur Phillip (govenor of New South Wales) set out to "_to reach Hawkes
 
 ---
 
-- April 11 1791: The Expedition leaves from the Govenor's house, with 21 people, including Gulbi & Baludiri: Iryura men to act as translators
+#### April 11 1791 
+
+The Expedition leaves from the Govenor's house, with 21 people, including Gulbi & Baludiri: Iryura men to act as translators
 
 
 ---
