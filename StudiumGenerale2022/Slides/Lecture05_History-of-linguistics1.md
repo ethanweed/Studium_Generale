@@ -43,10 +43,13 @@ To understand what we do, and why we do it.
 Like all cultural phenomena linguistics has a history, which partly shapes...
 
 </div>
-–The questions it addresses
-–The methods it employs
+
+
+
 <div id = "right_border">
 
+–The questions it addresses
+–The methods it employs
 
 </div>
 
