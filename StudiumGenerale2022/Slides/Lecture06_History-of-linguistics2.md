@@ -94,8 +94,20 @@ What do you remember about:
 
 ---
 
+<div id = "left">
+
+This and other stories of language contact in Australia can be found in McGregor (2008)
+
+</div>
+
+<div id = "right">
+
 <img src=
-"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/McGregor_book_cover.png?raw=true" width = "500"/>
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/McGregor_book_cover.png?raw=true" width = "400"/>
+
+</div>
+
+
 
 ---
 
@@ -161,6 +173,8 @@ What do you remember about:
 <div id = "refs">
 
 Breen, J.G., 1970. A re-examination of Cook's Gogo-Yimidjir word list. _Oceania_, _41_(1), pp.28-38.
+
+McGregor, W., 2008. _Encountering Aboriginal Languages: Studies in the history of Australian linguistics_. Pacific Linguistics, Research School of Pacific and Asian Studies, The Australian National University.
 
 Wilkins, D.P. and Nash, D., 2008. The European'discovery'of a multilingual Australia: the linguistic and ethnographic successes of a failed expedition. In _Encountering Aboriginal languages: Studies in the history of Australian Linguistics_. Pacific Linguistics.
 
