@@ -280,7 +280,7 @@ With hindsight, the real failure of this expedition is that its participants, an
 <div id = "left">
 
 <img src=
-"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Saussure_sign.png?raw=true" width = "700"/>
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Saussure_sign.png?raw=true" width = "500"/>
 
 - Swiss Professor of Sanskrit
 - Father of modern linguistics
