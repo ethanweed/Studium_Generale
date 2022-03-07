@@ -48,9 +48,22 @@ What do you remember about:
 
 ---
 
-### An exception: a proffesional in the colonies
+### A proffesional in the colonies
+
+<div id = "left">
+
+Wilhelm Heinrich Immanuel Bleek 
+
+
+</div>
+
+<div id = "right">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Wilhelm_Bleek.jpg" width=""/>
+
+</div>
+
+
 
 ---
 
