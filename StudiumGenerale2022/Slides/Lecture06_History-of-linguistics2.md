@@ -290,7 +290,7 @@ With hindsight, the real failure of this expedition is that its participants, an
 
 <div id = "right">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ferdinand_de_Saussure_by_Jullien_Restored.png/440px-Ferdinand_de_Saussure_by_Jullien_Restored.png" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ferdinand_de_Saussure_by_Jullien_Restored.png/440px-Ferdinand_de_Saussure_by_Jullien_Restored.png" width="300"/>
 
 </div>
 
@@ -305,6 +305,33 @@ In a language there are only differences without positive terms. Whether we take
 
 ---
 
+## Rise of the phoneme
+
+<div id = "left">
+
+- Henry Sweet
+- Baudouin de Courtenay 
+- Dufriche-Desgenettes
+
+</div>
+
+<div id = "right">
+
+```
+"[...] human language in general and speech sounds in particular do not and
+cannot last uninterruptedly. An uttered word or an uttered sentence dis
+appears immediately at the same moment as it is uttered. There is no physical
+connection between one utterance and another that follows it. The link be
+tween the individual utterance acts [...] are representations®, images in
+memory [Erinnerungsbilder], and during the utterance itself these images
+in memory become the stimulus to set the speech organs in motion in the
+appropriate way". (1895 : 18)
+```
+
+
+</div>
+
+---
 
 ## The Prague school
 
