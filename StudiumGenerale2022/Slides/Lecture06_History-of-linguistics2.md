@@ -370,9 +370,9 @@ Phonological debates:
 
 ---
 
-### Roman Jakobson
+### Jakobson's model of communication
 
-Model of communication
+
 
 <img src="https://www.researchgate.net/profile/Uelle-Paerl/publication/284864618/figure/fig2/AS:538564481433600@1505415186122/Jakobsons-19851956-model-of-communication.png" width="400"/>
 
