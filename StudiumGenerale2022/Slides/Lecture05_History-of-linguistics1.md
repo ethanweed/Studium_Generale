@@ -281,7 +281,7 @@ _Novum Organum_ (1620):
 
 - All languages share an underlying grammar
 - Investigated this grammar by studying Latin  
--Thomas of Erfurt (C 14): "Modism"
+- Thomas of Erfurt (C 14): "Modism"
 
 </div>
 
