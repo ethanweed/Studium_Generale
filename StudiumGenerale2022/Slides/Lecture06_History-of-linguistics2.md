@@ -275,12 +275,16 @@ With hindsight, the real failure of this expedition is that its participants, an
 
 ---
 
-## Ferdinand de Saussure (1857-1913)
+## Ferdinand de Saussure 
 
 <div id = "left">
 
 <img src=
 "https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Saussure_sign.png?raw=true" width = "800"/>
+
+- Swiss
+- (1857-1913)
+- Father of modern linguistics
 
 </div>
 
@@ -290,6 +294,14 @@ With hindsight, the real failure of this expedition is that its participants, an
 
 </div>
 
+
+---
+
+## Ferdinand de Saussure 
+
+```
+In a language there are only differences without positive terms. Whether we take the signified or the signifier, the language contains neither ideas nor sounds that pre-exist the linguistic system, but only conceptual differences and phonic differences issuing from this system
+```
 
 ---
 
