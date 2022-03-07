@@ -128,16 +128,26 @@ In 1791, Captain Arthur Phillip (govenor of New South Wales) set out to "_to rea
 
 The expedition sets out on April 11, and consists of 21 people including:
 
+<div id = "left">
+
 - Gulbi (Colbee, Colebe)
 - Baludiri (Boladeree, Ballederry)
 - Governor Phillip
 - Captain Collins (judge-advocate) and his servant
 - Captain Tench
+
+</div>
+
+<div id = "right">
+
 - Lieutenant Dawes
 - Mr White (principal surgeon)
 - two sergeants
 - eight privates
 - three gamekeepers (i.e. ‘three convicts who were good marksmen’)
+
+</div>
+
 
 ---
 
