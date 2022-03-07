@@ -190,8 +190,10 @@ Phillip:
 
 ---
 
+### Comparative Linguistics
+
 <img src=
-"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Phillip_expedition_comparisons.png?raw=true" width = "800"/>
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Phillip_expedition_comparisons.png?raw=true" width = "700"/>
 
 ---
 
