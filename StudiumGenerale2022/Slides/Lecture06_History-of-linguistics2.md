@@ -532,9 +532,19 @@ Polysystemicity of languages:
 
 ## Rejection of structuralism
 
+<div id = "left">
+
 - Noam Chomsky’s 1957 _Syntactic structures_
 - Rejection of behaviourism
 - Rise of Generative Linguistics
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Noam_Chomsky_portrait_2017_retouched.png/440px-Noam_Chomsky_portrait_2017_retouched.png" width=""/>
+
+</div>
 
 ---
 
