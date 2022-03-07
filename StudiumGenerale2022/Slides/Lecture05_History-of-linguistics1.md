@@ -163,11 +163,11 @@ and syllables the name naturally suited to each thing?
 ##    Dionysius Thrax
 
 
-<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Thrax1.png" width="400"/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Thrax1.png" width="600"/>
 
 
 
-<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Thrax2.png" width="400"/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Thrax2.png" width="600"/>
 
 ---
 
