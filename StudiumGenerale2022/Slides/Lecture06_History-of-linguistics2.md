@@ -542,7 +542,7 @@ Polysystemicity of languages:
 
 <div id = "right">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Noam_Chomsky_portrait_2017_retouched.png/440px-Noam_Chomsky_portrait_2017_retouched.png" width=""/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Noam_Chomsky_portrait_2017_retouched.png/440px-Noam_Chomsky_portrait_2017_retouched.png" width="300"/>
 
 </div>
 
