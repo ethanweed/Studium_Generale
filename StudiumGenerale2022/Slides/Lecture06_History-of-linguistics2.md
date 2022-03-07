@@ -22,9 +22,7 @@ What do you remember about:
 
 ---
 
-```html
-<section data-background-image="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/colonization.gif?raw=true"></section>
-```
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/colonization.gif?raw=true" width=""/>
 
 ---
 
