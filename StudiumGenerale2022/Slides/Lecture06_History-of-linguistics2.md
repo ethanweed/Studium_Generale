@@ -157,7 +157,7 @@ The expedition achieves none of its goals.
 ---
 
 <img src=
-"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Phillip_expedition_wrong-way.png?raw=true" width = "400"/>
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Phillip_expedition_wrong-way.png?raw=true" width = "800"/>
 
 ---
 
