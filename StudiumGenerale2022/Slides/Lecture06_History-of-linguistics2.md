@@ -380,7 +380,7 @@ Phonological debates:
 
 ### British structuralism
 
-J.R. Firth(1890-1960)
+J.R. Firth (1890-1960)
 
 <div id = "left">
 
