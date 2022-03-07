@@ -40,6 +40,20 @@ What do you remember about:
 
 ---
 
+## Colonial Linguistics
+
+- Mostly amateurs
+- Often missionaries
+- Used Latin grammar to describe other languages
+
+---
+
+### An exception: a proffesional in the colonies
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Wilhelm_Bleek.jpg" width=""/>
+
+---
+
 ## First recordings of Australian languages
 
 ---
