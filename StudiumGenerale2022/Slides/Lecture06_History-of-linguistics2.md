@@ -318,16 +318,12 @@ In a language there are only differences without positive terms. Whether we take
 <div id = "right">
 
 ```
-"[...] human language in general and speech sounds in particular do not and
-cannot last uninterruptedly. An uttered word or an uttered sentence dis
-appears immediately at the same moment as it is uttered. There is no physical
-connection between one utterance and another that follows it. The link be
-tween the individual utterance acts [...] are representations®, images in
-memory [Erinnerungsbilder], and during the utterance itself these images
-in memory become the stimulus to set the speech organs in motion in the
-appropriate way". (1895 : 18)
+Phonological debates:
+	- phones vs. phonemes
+	- intention vs. execution
+	- influence of orthography
+	- psychological reality
 ```
-
 
 </div>
 
