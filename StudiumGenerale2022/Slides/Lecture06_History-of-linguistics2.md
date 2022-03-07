@@ -90,7 +90,7 @@ What do you remember about:
 
 ---
 
-## A failed expedition
+## A "failed" expedition
 
 ---
 
@@ -110,6 +110,12 @@ This and other stories of language contact in Australia can be found in McGregor
 
 
 ---
+
+<div id = "left">
+
+Captain Arthur Phillip (govenor of New South Wales) set out to "to reach Hawkesbury-River, opposite Richmond Hill, and, if possible, to cross the river and get to the mountains" and to "ascertain whether or not the Hawkesbury and the Nepean, were the same river"
+
+</div>
 
 <div id = "right">
 
