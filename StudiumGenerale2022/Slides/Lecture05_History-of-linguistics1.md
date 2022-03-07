@@ -86,7 +86,7 @@ Like all cultural phenomena linguistics has a history, which partly shapes...
 ### Bhartṛhari
 
 - 5th century BCE
-- Vākyapadīya: Sanskrit grammar
+- _Vākyapadīya_: Sanskrit grammar
 - _Sphoṭa_: "bursts" or "spurts": how the mind groups language units in comprehension
 
 ---
