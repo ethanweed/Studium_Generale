@@ -37,7 +37,21 @@ What do you remember about:
 
 ---
 
+<div id = "left">
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Endeavour_at_Endeavour_River%2C_engraving_c._1786.jpg/500px-Endeavour_at_Endeavour_River%2C_engraving_c._1786.jpg" width=""/>
+
+</div>
+
+
+<div id = "right">
+
+<img src=
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Cooks_journal.png?raw=true" width = "700"/>
+
+</div>
+
+
 
 ---
 
