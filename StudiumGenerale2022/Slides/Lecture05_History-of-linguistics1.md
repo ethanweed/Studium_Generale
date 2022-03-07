@@ -143,7 +143,7 @@ and syllables the name naturally suited to each thing?
 
 ### Ancient Greek grammar
 
-  Word-basedr: 
+  Word-based: 
 
 * Identification of the word as a linguistic entity  
 * Establishment of word classes – parts of speech  
@@ -154,6 +154,15 @@ and syllables the name naturally suited to each thing?
 
 ##    Dionysius Thrax
 
+- c. 100 BCE
+- _Téchnē grammatiké_: first know description of a European language (Greek)
+- Defined European grammar for 13 centuries
+
+---
+
+##    Dionysius Thrax
+
+![[Thrax1.png]]
 
 
 ---
