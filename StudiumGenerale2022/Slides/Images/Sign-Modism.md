@@ -1,8 +1,8 @@
 ```mermaid
-  graph;
-      A((Word)) <--> B((Concept));
-	  A(Word) <--> C(Thing);
-	  B(Concept) <--> C(Thing);
+  graph LR;
+      A((Word))<-->B((Concept));
+	  A(Word)<-->C(Thing);
+	  B(Concept)<-->C(Thing);
       
       
 ```
