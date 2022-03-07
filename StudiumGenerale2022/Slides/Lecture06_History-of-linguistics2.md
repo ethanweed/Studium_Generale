@@ -275,6 +275,21 @@ With hindsight, the real failure of this expedition is that its participants, an
 
 ---
 
+<div id = "left">
+
+<img src=
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Saussure_sign.png?raw=true" width = "800"/>
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ferdinand_de_Saussure_by_Jullien_Restored.png/440px-Ferdinand_de_Saussure_by_Jullien_Restored.png" width=""/>
+
+</div>
+
+
+---
 
 
 ## The Prague school
