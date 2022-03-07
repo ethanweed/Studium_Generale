@@ -23,7 +23,7 @@ What do you remember about:
 ---
 
 ```html
-<section data-background-image="">  <h2>Image</h2></section>
+<section data-background-image="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/colonization.gif?raw=true"></section>
 ```
 
 ---
