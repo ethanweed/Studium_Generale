@@ -94,6 +94,11 @@ What do you remember about:
 
 ---
 
+<img src=
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/McGregor_book_cover.png?raw=true" width = "500"/>
+
+---
+
 <div id = "right">
 
 <img src=
@@ -156,6 +161,8 @@ What do you remember about:
 <div id = "refs">
 
 Breen, J.G., 1970. A re-examination of Cook's Gogo-Yimidjir word list. _Oceania_, _41_(1), pp.28-38.
+
+Wilkins, D.P. and Nash, D., 2008. The European'discovery'of a multilingual Australia: the linguistic and ethnographic successes of a failed expedition. In _Encountering Aboriginal languages: Studies in the history of Australian Linguistics_. Pacific Linguistics.
 
 Images:
 
