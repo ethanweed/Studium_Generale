@@ -406,9 +406,9 @@ J.R. Firth
 
 Polysystemicity of languages:  
 
-	- A language is not one system, but many systems
-	- E.g. different consonantal phonologies for word initial, medial, and/or final position
-	- Different case systems for nouns and pronouns
+- A language is not one system, but many systems
+- E.g. different consonantal phonologies for word initial, medial, and/or final position
+- Different case systems for nouns and pronouns
 
 </div>
 
@@ -424,7 +424,8 @@ Polysystemicity of languages:
 ### British ~~structuralism~~ functionalism
 
 <div id = "left">
-- Michael Halliday  
+- Michael Halliday
+- Firth's student  
 - Language is a "systemic resource for meaning"
 - Linguistics is the study of meaning-exchange through language
  
