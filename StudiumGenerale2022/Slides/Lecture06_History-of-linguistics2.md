@@ -48,11 +48,17 @@ What do you remember about:
 
 ---
 
-### A proffesional in the colonies
+### A professional in the colonies
 
 <div id = "left">
 
 Wilhelm Heinrich Immanuel Bleek 
+
+- Trained in comparative linguistics
+- Doctoral thesis on African languages 
+- Worked in South Africa with San people
+- Wrote __A Comparative Grammar of South African Languages__ in 
+
 
 
 </div>
