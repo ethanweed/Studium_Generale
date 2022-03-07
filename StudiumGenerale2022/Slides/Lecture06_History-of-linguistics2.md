@@ -537,6 +537,9 @@ Polysystemicity of languages:
 - Noam Chomsky’s 1957 _Syntactic structures_
 - Rejection of behaviourism
 - Rise of Generative Linguistics
+- Language does not arise from a community of speakers (a lá Saussure)
+- Language == Grammar
+
 
 </div>
 
