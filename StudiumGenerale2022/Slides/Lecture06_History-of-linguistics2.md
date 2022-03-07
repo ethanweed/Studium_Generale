@@ -55,7 +55,8 @@ What do you remember about:
 
 ---
 
-
+<img src=
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Cooks_wordlistl.png?raw=true" width = ""/>
 
 ---
 
