@@ -391,7 +391,8 @@ J.R. Firth
 
 <div id = "right">
 
-<img src="J.R. Firth " width=""/>
+<img src="<img src=
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Firth.png?raw=true" width = "800"/>" width=""/>
 
 </div>
 
@@ -412,7 +413,8 @@ Polysystemicity of languages:
 
 <div id = "right">
 
-<img src="J.R. Firth " width=""/>
+<img src="<img src=
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Firth.png?raw=true" width = "800"/>" width=""/>
 
 </div>
 
@@ -420,8 +422,18 @@ Polysystemicity of languages:
 
 ### British ~~structuralism~~ functionalism
 
-Michael Halliday
-"not in the sense of a system of signs, but a systemic resource for meaning"
+<div id = "left">
+- Michael Halliday  
+- Language is a "systemic resource for meaning"
+- Linguistics is the study of meaning-exchange through language
+ 
+</div>
+
+<div id = "right">
+
+<img src="https://3.bp.blogspot.com/-_UazS8toW3c/WOtePv5ueTI/AAAAAAAABaE/Ou7LOLoZkOoBqJNt1C2fdS9mdHWX48j3wCLcB/s320/MAK_Halliday.jpg" width=""/>
+
+</div>
 
 ---
 
