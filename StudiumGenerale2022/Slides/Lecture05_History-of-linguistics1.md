@@ -287,9 +287,18 @@ _Novum Organum_ (1620):
 
 <div id = "right">
 
-<img src="Studium_Generale/StudiumGenerale2022/Slides/Images/triangle-modist.png" width=""/>
+Thomas of Erfurt (C 14)
+	- "Modism"
+
+
+
+
 
 </div>
+
+---
+
+<img src="Studium_Generale/StudiumGenerale2022/Slides/Images/triangle-modist.png" width=""/>
 
 ---
 
