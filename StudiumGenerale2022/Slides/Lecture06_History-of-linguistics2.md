@@ -18,18 +18,16 @@ What do you remember about:
 
 ---
 
-## Colonial era (c. 1500-1900)
+## Colonial era 
 
 <div id = "left">
+- ca. 1500-1900
+- European colonization of:
 
-European colonization of:
-
-- Americas
-- Africa
-- Asia 
-- Oceania
-
-
+	- Americas
+	- Africa
+	- Asia 
+	- Oceania
 
 </div>
 
