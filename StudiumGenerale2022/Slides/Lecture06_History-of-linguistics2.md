@@ -94,6 +94,22 @@ What do you remember about:
 
 ---
 
+<div id = "right">
+
+<img src=
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Campbells_route.png?raw=true" width = "500"/>
+
+</div>
+
+---
+
+
+
+---
+
+
+---
+
 ## Early understandings of sound systems of Australian languages
 
 ---
