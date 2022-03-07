@@ -113,7 +113,7 @@ This and other stories of language contact in Australia can be found in McGregor
 
 <div id = "left">
 
-Captain Arthur Phillip (govenor of New South Wales) set out to "to reach Hawkesbury-River, opposite Richmond Hill, and, if possible, to cross the river and get to the mountains" and to "ascertain whether or not the Hawkesbury and the Nepean, were the same river"
+Captain Arthur Phillip (govenor of New South Wales) set out to "_to reach Hawkesbury-River, opposite Richmond Hill, and, if possible, to cross the river and get to the mountains_" and to "_ascertain whether or not the Hawkesbury and the Nepean, were the same river_"
 
 </div>
 
@@ -126,6 +126,7 @@ Captain Arthur Phillip (govenor of New South Wales) set out to "to reach Hawkesb
 
 ---
 
+- April 11 1791: The Expedition leaves from the Govenor's house, with 21 people, including Gulbi & Baludiri: Iryura men to act as translators
 
 
 ---
