@@ -475,7 +475,7 @@ Polysystemicity of languages:
 <div id = "left">
 
 - Cultural relativity
-- Main concern was to gather information on the languages and cultures Native Americans before they disappeared
+- Main concern was to gather information on the languages and cultures of Native Americans before they disappeared
 
 </div>
 
