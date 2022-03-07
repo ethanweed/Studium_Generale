@@ -319,10 +319,10 @@ In a language there are only differences without positive terms. Whether we take
 
 Phonological debates:
 
-	- phones vs. phonemes
-	- intention vs. execution
-	- influence of orthography
-	- psychological reality
+- phones vs. phonemes
+- intention vs. execution
+- influence of orthography
+- psychological reality
 
 
 </div>
