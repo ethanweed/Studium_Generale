@@ -22,7 +22,8 @@ What do you remember about:
 
 ---
 
-## A professional in the colonies
+<img src="<img src=
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Cooks_journal.png?raw=true" width = "700"/>" width=""/>
 
 ---
 
@@ -197,23 +198,41 @@ Phillip:
 
 ---
 
+### Discoveries of the Phillip expedition
 
+1. That the language of the Burubirangal appears to have been a sister dialect of that spoken by the Iyura, and that one dialect marker is the correspondence of nd in Burubirangal words with simple n in Iyura words
 
-## Early understandings of sound systems of Australian languages
 
 ---
 
-## Rise of scientific phonetics
+### Discoveries of the Phillip expedition
+
+2. That the language spoken by the people encountered on the Hawkesbury, is distinct from that on the coast (and that spoken by the Burubirangal) and appears to be the same language, or a dialect of the same language, as Darkinyung.
 
 ---
 
-## The notion of phoneme strengthens
+### Discoveries of the Phillip expedition
+
+
+3. That Gulbi and Baludiri could converse with the different people encountered is also the first clear indication of the multilingual and multidialectal capabilities that was typical of the Aboriginal inhabitants. We have here the first recording of what appears to be a bilingual conversation with each party using their own language.
 
 ---
 
-## Modern linguistics
+### A "failed" expedition
+
+
+```
+With hindsight, the real failure of this expedition is that its participants, and other observers, were blind to its successes. A rich spectrum of ethnographic and linguistic discoveries was relegated to the realm of insignificance when Collins pronounced that the expedition returned ‘without making any discovery of the least importance.’ One can only speculate as to whether history would have been any different if such discoveries had been vested with real significance and worth. -Wilkins and Nash (2008)
+```
+
 
 ---
+
+# Modern linguistics
+
+---
+
+
 
 ## The Prague school
 
