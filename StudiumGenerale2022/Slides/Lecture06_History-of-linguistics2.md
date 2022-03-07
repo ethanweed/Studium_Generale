@@ -18,7 +18,7 @@ What do you remember about:
 
 ---
 
-## Colonial era
+## Colonial era (c. 1500-1900)
 
 <div id = "left">
 
