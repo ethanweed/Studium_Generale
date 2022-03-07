@@ -289,7 +289,7 @@ With hindsight, the real failure of this expedition is that its participants, an
 
 <div id = "right">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ferdinand_de_Saussure_by_Jullien_Restored.png/440px-Ferdinand_de_Saussure_by_Jullien_Restored.png" width="300"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ferdinand_de_Saussure_by_Jullien_Restored.png/440px-Ferdinand_de_Saussure_by_Jullien_Restored.png" width="100"/>
 
 </div>
 
