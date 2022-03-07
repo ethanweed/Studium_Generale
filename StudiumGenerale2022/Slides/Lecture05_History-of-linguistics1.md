@@ -291,14 +291,14 @@ Thomas of Erfurt (C 14)
 	- "Modism"
 
 
-
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/triangle-modist.png?raw=true" width="100"/>
 
 
 </div>
 
 ---
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/triangle-modist.png?raw=true" width=""/>
+
 
 ---
 
