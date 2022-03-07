@@ -514,7 +514,7 @@ Polysystemicity of languages:
 - Primary concern was to establish linguistics as a science
 - Heavily influenced by the mechanistic outlook of behaviourist psychology
 - Strict empiricist
-- No interest in semantics (meaning) or mentalism (psychology)
+- No place for semantics or psychology in linguistics
 
 
 
