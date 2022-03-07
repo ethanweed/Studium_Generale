@@ -243,7 +243,7 @@ _Novum Organum_ (1620):
 
 <div id = "right">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg/440px-Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg" width=""/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg/440px-Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg" width="400"/>
 
 </div>
 
@@ -277,8 +277,23 @@ _Novum Organum_ (1620):
 
 ## Speculative Grammarians
 
+<div id = "left">
+
 - All languages share an underlying grammar
 - Investigated this grammar by studying Latin
+
+</div>
+
+
+<div id = "right">
+
+Thomas of Erfurt (C 14)
+	- "Modism"
+
+
+
+
+</div>
 
 ---
 
