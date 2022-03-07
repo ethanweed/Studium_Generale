@@ -275,15 +275,14 @@ With hindsight, the real failure of this expedition is that its participants, an
 
 ---
 
-## Ferdinand de Saussure 
+## Ferdinand de Saussure (1857-1913)
 
 <div id = "left">
 
 <img src=
 "https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Saussure_sign.png?raw=true" width = "800"/>
 
-- Swiss
-- (1857-1913)
+- Swiss Professor of Sanskrit
 - Father of modern linguistics
 
 </div>
@@ -309,9 +308,9 @@ In a language there are only differences without positive terms. Whether we take
 
 <div id = "left">
 
-- Henry Sweet
-- Baudouin de Courtenay 
-- Dufriche-Desgenettes
+- Henry Sweet (1845-1912) 
+- Baudouin de Courtenay (1845-1929) 
+- Dufriche-Desgenettes (1804-1878)
 
 </div>
 
@@ -339,7 +338,7 @@ Phonological debates:
 
 <div id = "left">
 
-- Nicholai Trubetzkoy
+- Nicholai Trubetzkoy (1890-1938)
 - Placed the notion of the phoneme in the centre of linguistic theory
 
 </div>
@@ -356,7 +355,7 @@ Phonological debates:
 
 <div id = "left">
 
-- Roman Jakobson
+- Roman Jakobson (1896-1982) 
 - phonology
 - syntax, morphology, semantics
 - film, poetry, music criticism
@@ -380,7 +379,7 @@ Phonological debates:
 
 ### British structuralism
 
-J.R. Firth
+J.R. Firth(1890-1960)
 
 <div id = "left">
 
@@ -400,7 +399,7 @@ J.R. Firth
 
 ### British structuralism
 
-J.R. Firth
+J.R. Firth 
 
 <div id = "left">
 
@@ -424,7 +423,7 @@ Polysystemicity of languages:
 ### British ~~structuralism~~ functionalism
 
 <div id = "left">
-- Michael Halliday
+- Michael Halliday (1925-2018)
 - Firth's student  
 - Language is a "systemic resource for meaning"
 - Linguistics is the study of meaning-exchange through language
@@ -441,9 +440,93 @@ Polysystemicity of languages:
 
 ### Danish structuralism
 
+
+<div id = "left">
+- Louis Hjelmslev (1899-1965)
+- Copenhagen school of linguistics
+- Inspired by the Prague school
+- Followed in Sausurre's footsteps
+- Went the formalist route (unlike Firth)
+
+</div>
+
+
+<div id = "right">
+
+<img src="https://lingvistkredsen.ku.dk/billeder/louis-hjelmslev.jpg" width=""/>
+
+</div>
+
 ---
 
 ### American structuralism
+
+- Franz Boas (1858–1942)
+- Edward Sapir (1884-1939)
+- Leonard Bloomfield (1887-1949)
+
+
+---
+
+### Franz Boas
+
+
+<div id = "left">
+
+- Cultural relativity
+- Main concern was to gather information on the languages and cultures Native Americans before they disappeared
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/FranzBoas.jpg/440px-FranzBoas.jpg" width=""/>
+
+</div>
+
+---
+
+### Edward Sapir
+
+<div id = "left">
+- Student of Boas
+- Studied Native American languages
+- Languages should be described in their own terms, not with European categories
+
+</div>
+
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Edward_Sapir.jpg" width=""/>
+
+</div>
+
+
+---
+
+### Leonard Bloomfield 
+
+<div id = "left">
+
+- Sanskrit scholar (big Pānini fan!)
+- Primary concern was to establish linguistics as a science
+- Heavily influenced by the mechanistic outlook of behaviourist psychology
+- Strict empiricist (neo-Humian)
+- No interest in semantics (meaning) or mentalism (psychology)
+
+
+
+
+</div>
+
+
+<div id = "right">
+
+<img src="https://ling.yale.edu/sites/default/files/images/Leonard-Bloomfield-1.jpg" width=""/>
+
+</div>
+
 
 ---
 
@@ -471,6 +554,8 @@ Images:
 Cook map: Jon Platek (https://commons.wikimedia.org/wiki/File:Cook_Three_Voyages_59.png)
 
 J.R. Firth: https://www.jstor.org/stable/pdf/610106.pdf
+
+Bloomfield: https://ling.yale.edu/sites/default/files/images/Leonard-Bloomfield-1.jpg
 
 
 
