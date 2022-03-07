@@ -22,8 +22,9 @@ What do you remember about:
 
 ---
 
-<img src="<img src=
-"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Cooks_journal.png?raw=true" width = "700"/>" width=""/>
+```html
+<section data-background-image="">  <h2>Image</h2></section>
+```
 
 ---
 
