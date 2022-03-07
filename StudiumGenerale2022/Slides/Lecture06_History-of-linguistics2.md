@@ -156,6 +156,23 @@ The expedition achieves none of its goals.
 
 ---
 
+<img src=
+"https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Phillip_expedition_wrong-way.png?raw=true" width = "400"/>
+
+---
+
+But they did make some important linguistic discoveries.
+
+---
+
+
+
+---
+
+
+
+
+
 ## Early understandings of sound systems of Australian languages
 
 ---
