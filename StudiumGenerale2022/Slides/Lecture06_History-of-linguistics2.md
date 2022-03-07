@@ -70,7 +70,23 @@ What do you remember about:
 "https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Cooks_wordlist_comparison.png?raw=true" width = "500"/>
 
 
+---
 
+### First Fleet (1788)
+
+<div id = "left">
+
+- Sought to establish a penal colony at Botany Bay (2000 km from Endeavour River)
+- Brought a copy of Cook's wordlist
+- Not helpful
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_First_Fleet_entering_Port_Jackson%2C_January_26%2C_1788%2C_drawn_1888_A9333001h.jpg/440px-The_First_Fleet_entering_Port_Jackson%2C_January_26%2C_1788%2C_drawn_1888_A9333001h.jpg" width=""/>
+
+</div>
 
 ---
 
@@ -123,6 +139,7 @@ What do you remember about:
 
 <div id = "refs">
 
+Breen, J.G., 1970. A re-examination of Cook's Gogo-Yimidjir word list. _Oceania_, _41_(1), pp.28-38.
 
 Images:
 
