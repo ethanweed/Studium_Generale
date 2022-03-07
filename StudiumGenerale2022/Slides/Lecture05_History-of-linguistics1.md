@@ -138,16 +138,19 @@ Is language "natural" or "conventional"?
 
 ### Plato's _Cratylus_
 
+<div id = "left">
 
 ```
 HERMOGENES: That's right.
-SOCRATES: Because it seems that there's a type of shuttle that's naturally
-suited to each type of weaving. And the same holds of tools in general.
+SOCRATES: Because it seems that there's a type of shuttle that's naturally suited to each type of weaving. And the same holds of tools in general.
 HERMOGENES: Yes.
-SOCRATES: So mustn't a rule-setter also know how to embody in sounds
-and syllables the name naturally suited to each thing?
+SOCRATES: So mustn't a rule-setter also know how to embody in sounds and syllables the name naturally suited to each thing?
 
 ```
+
+</div>
+
+
 
 ---
 
