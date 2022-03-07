@@ -173,7 +173,7 @@ SOCRATES: So mustn't a rule-setter also know how to embody in sounds and syllabl
 ##    Dionysius Thrax
 
 -  ca. 100 BCE
-- _Téchnē grammatiké_: first know description of a European language (Greek)
+- _Téchnē grammatiké_: first known description of a European language (Greek)
 - Defined European grammar for 13 centuries
 - word-based (little to nothing on syntax)
 
