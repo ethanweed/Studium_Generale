@@ -38,12 +38,19 @@ To understand what we do, and why we do it.
 
 ## History of Linguistics   
 
+<div id = "left_border">
 
-Like all cultural phenomena linguistics has a history, which partly shapes:
+Like all cultural phenomena linguistics has a history, which partly shapes...
 
+</div>
 –The questions it addresses
-
 –The methods it employs
+<div id = "right_border">
+
+
+</div>
+
+
 
 ---
 
