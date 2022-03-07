@@ -513,7 +513,7 @@ Polysystemicity of languages:
 - Sanskrit scholar (big Pānini fan!)
 - Primary concern was to establish linguistics as a science
 - Heavily influenced by the mechanistic outlook of behaviourist psychology
-- Strict empiricist (neo-Humian)
+- Strict empiricist
 - No interest in semantics (meaning) or mentalism (psychology)
 
 
