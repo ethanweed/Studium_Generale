@@ -151,6 +151,11 @@ SOCRATES: So mustn't a rule-setter also know how to embody in sounds and syllabl
 </div>
 
 
+<div id = "right">
+
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/shuttle.png" width="600"/>
+
+</div>
 
 ---
 
@@ -325,5 +330,9 @@ McGregor, W.B., 2015. _Linguistics: an introduction_. Bloomsbury Publishing.
 Robins, R.H., 1967. _A short history of linguistics_. Longman. London
 
 Thomas, M., 2007. The Evergreen Story of Psammetichus’ Inquiry into the Origin of Language. _Historiographia linguistica_, _34_(1), pp.37-62.
+
+Images: 
+
+Shuttle: https://coimages.sciencemuseumgroup.org.uk/images/359/784/large_SMG00180995.jpg
 
 </div>
