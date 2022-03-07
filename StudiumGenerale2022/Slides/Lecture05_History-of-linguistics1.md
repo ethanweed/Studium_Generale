@@ -48,7 +48,7 @@ Like all cultural phenomena linguistics has a history, which partly shapes...
 
 <div id = "right_border">
 
-– The questions it addresses
+– The questions it addresses  
 – The methods it employs
 
 </div>
