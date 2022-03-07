@@ -20,9 +20,25 @@ What do you remember about:
 
 ## Colonial era
 
----
+<div id = "left">
+
+European colonization of:
+
+- Americas
+- Africa
+- Asia 
+- Oceania
+
+
+
+</div>
+
+<div id = "right">
 
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/colonization.gif?raw=true" width=""/>
+
+</div>
+
 
 ---
 
