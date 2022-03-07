@@ -248,6 +248,7 @@ _Novum Organum_ (1620):
 </div>
 
 ---
+
 ## Bacon's brazen head
 
 <div id = "left">
