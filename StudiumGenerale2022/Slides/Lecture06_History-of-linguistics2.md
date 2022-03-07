@@ -327,25 +327,68 @@ Phonological debates:
 
 </div>
 
----
-
-## The Prague school
 
 ---
 
-## British structuralism
+## Diversification of linguistics in C20
+
 
 ---
 
-## Danish structuralism
+### The Prague school
+
+<div id = "left">
+
+- Nicholai Trubetzkoy
+- Placed the notion of the phoneme in the centre of linguistic theory
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Nikolai_Trubetzkoy.jpg" width=""/>
+
+</div>
 
 ---
 
-## American structuralism
+### The Prague school
+
+<div id = "left">
+
+- Roman Jakobson
+
+</div>
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Roman_Yakobson.jpg" width=""/>
+
+</div>
 
 ---
 
-## Rejection of structuralism
+### Roman Jakobson
+
+Model of communication
+
+<img src="https://www.researchgate.net/profile/Uelle-Paerl/publication/284864618/figure/fig2/AS:538564481433600@1505415186122/Jakobsons-19851956-model-of-communication.png" width=""/>
+
+---
+
+### British structuralism
+
+---
+
+### Danish structuralism
+
+---
+
+### American structuralism
+
+---
+
+### Rejection of structuralism
 
 ---
 
