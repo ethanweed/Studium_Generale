@@ -1,4 +1,4 @@
-# History of Linguistics 1
+# History of Linguistics 2
 
 ---
 
