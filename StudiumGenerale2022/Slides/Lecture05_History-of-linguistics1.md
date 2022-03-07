@@ -243,7 +243,7 @@ _Novum Organum_ (1620):
 
 <div id = "right">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg/440px-Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg" width="400"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg/440px-Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg" width="300"/>
 
 </div>
 
@@ -296,9 +296,6 @@ _Novum Organum_ (1620):
 
 ---
 
-
-
----
 
 # References
 
