@@ -380,6 +380,49 @@ Phonological debates:
 
 ### British structuralism
 
+J.R. Firth
+
+<div id = "left">
+
+-  Influenced by Bronislaw Malinowski
+- Developed a contextual theory of meaning
+- Meaning is use _in context_
+</div>
+
+<div id = "right">
+
+<img src="J.R. Firth " width=""/>
+
+</div>
+
+---
+
+### British structuralism
+
+J.R. Firth
+
+<div id = "left">
+
+Polysystemicity of languages:
+	- A language is not one system, but many systems
+	- E.g. different consonantal phonologies for word initial, medial, and/or final position
+	- Different case systems for nouns and pronouns
+
+</div>
+
+<div id = "right">
+
+<img src="J.R. Firth " width=""/>
+
+</div>
+
+---
+
+### British ~~structuralism~~ functionalism
+
+Michael Halliday
+"not in the sense of a system of signs, but a systemic resource for meaning"
+
 ---
 
 ### Danish structuralism
@@ -412,6 +455,8 @@ Wilkins, D.P. and Nash, D., 2008. The European'discovery'of a multilingual Austr
 Images:
 
 Cook map: Jon Platek (https://commons.wikimedia.org/wiki/File:Cook_Three_Voyages_59.png)
+
+J.R. Firth: https://www.jstor.org/stable/pdf/610106.pdf
 
 
 
