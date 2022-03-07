@@ -290,6 +290,7 @@ _Novum Organum_ (1620):
 
 - Grammar was fundamentally the same in all languages
 - Differences between languages are incidental and shallow
+- Early Chomskyian?
 
 ---
 
