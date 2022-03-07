@@ -63,6 +63,7 @@ What do you remember about:
 "https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Cooks_wordlist.png?raw=true" width = "500"/>
 
 ---
+
 ### Gogo-Yimidjir wordlists
 
 <img src=
