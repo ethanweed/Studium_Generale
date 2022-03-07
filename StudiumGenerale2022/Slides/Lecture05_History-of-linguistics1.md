@@ -154,7 +154,7 @@ and syllables the name naturally suited to each thing?
 
 ##    Dionysius Thrax
 
-- c. 100 BCE
+-  ca. 100 BCE
 - _Téchnē grammatiké_: first know description of a European language (Greek)
 - Defined European grammar for 13 centuries
 
@@ -162,8 +162,9 @@ and syllables the name naturally suited to each thing?
 
 ##    Dionysius Thrax
 
-![[Thrax1.png]]
 
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Thrax1.png" width=""/>
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Thrax2.png" width=""/>
 
 ---
 
