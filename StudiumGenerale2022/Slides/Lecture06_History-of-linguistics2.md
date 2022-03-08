@@ -56,8 +56,9 @@ Wilhelm Heinrich Immanuel Bleek (1827-1875)
 
 - Trained in comparative linguistics
 - Doctoral thesis on African languages 
-- Worked in South Africa with San people
+- Worked in South Africa with San people  
 
+Lucy Lloyd (1834-1913) 
 </div>
 
 <div id = "right">
@@ -69,7 +70,7 @@ Wilhelm Heinrich Immanuel Bleek (1827-1875)
 
 </div>
 
-Lucy Lloyd (1834-1913) 
+
 
 ---
 
