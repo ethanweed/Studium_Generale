@@ -69,7 +69,7 @@ Wilhelm Heinrich Immanuel Bleek (1827-1875)
 
 </div>
 
-
+Lucy Lloyd (1834-1913) 
 
 ---
 
