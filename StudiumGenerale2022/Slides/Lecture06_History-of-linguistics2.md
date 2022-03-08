@@ -64,6 +64,9 @@ Wilhelm Heinrich Immanuel Bleek (1827-1875)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Wilhelm_Bleek.jpg" width=""/>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Lucy_Lloyd00.jpg" width=""/>
+
+
 </div>
 
 
