@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CourseInfo/Schedule.md",
+            "file": "CourseInfo/Syllabus.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CourseInfo/Schedule.md",
+                "file": "CourseInfo/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "5c3f5698b1fc6686",
   "lastOpenFiles": [
+    "CourseInfo/Syllabus.md",
     "CourseInfo/Schedule.md",
     "Slides/Lecture07_Linguistic-theories1.md",
     "Slides/Lecture06_History-of-linguistics2.md",
@@ -97,7 +98,6 @@
     "Slides/Images/Sign-Modism.md",
     "Slides/Images/knowledge-creation.md",
     "Classic Texts/04_Malinowski_questions.md",
-    "Literature/07_Bloomfield.pdf",
-    "Slides/Lecture03_Philosophy-of-science1.md"
+    "Literature/07_Bloomfield.pdf"
   ]
 }
