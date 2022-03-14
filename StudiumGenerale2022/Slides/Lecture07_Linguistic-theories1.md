@@ -50,7 +50,7 @@ How do you know what you know?
 ---
 
 
-<p class="fragment" data-fragment-index="3">Appears last</p>
+<p class="fragment" data-fragment-index="1">Appears last</p>
 <p class="fragment" data-fragment-index="1">Appears first</p>
 <p class="fragment" data-fragment-index="2">Appears second</p>
 
@@ -60,7 +60,7 @@ How do you know what you know?
 <div id = "left">
 **Formal theories**
 
-<p class="fragment" data-fragment-index="1">- Focus on structure </p>
+
 
 </div>
 
