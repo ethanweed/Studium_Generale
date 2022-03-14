@@ -49,9 +49,11 @@ How do you know what you know?
 
 ---
 
-```html
-<p class="fragment" data-fragment-index="3">Appears last</p><p class="fragment" data-fragment-index="1">Appears first</p><p class="fragment" data-fragment-index="2">Appears second</p>
-```
+
+<p class="fragment" data-fragment-index="3">Appears last</p>
+<p class="fragment" data-fragment-index="1">Appears first</p>
+<p class="fragment" data-fragment-index="2">Appears second</p>
+
 
 ---
 
