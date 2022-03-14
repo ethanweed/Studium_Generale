@@ -49,6 +49,8 @@ How do you know what you know?
 
 ---
 
+<section data-transition="zoom">  
+
 <div id = "left">
 **Formal theories**
 
@@ -63,21 +65,33 @@ How do you know what you know?
 
 </div>
 
+</section>
+
 ---
+
+
+<section data-transition="zoom">  
 
 <div id = "left">
 **Formal theories**
 
-- 
+- Focus on structure 
+- Grammar is an algebraic system of rules
 
 </div>
 
 <div id = "right">
 **Functional theories**
 
-- 
+- Focus on meaning
+- Grammar is not algebraic
 
 </div>
+
+</section>
+
+
+
 
 
 ---
