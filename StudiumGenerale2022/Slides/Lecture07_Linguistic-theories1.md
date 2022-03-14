@@ -49,7 +49,7 @@ How do you know what you know?
 
 ---
 
-<section data-transition="none">  
+
 
 <div id = "left">
 **Formal theories**
@@ -65,12 +65,12 @@ How do you know what you know?
 
 </div>
 
-</section>
+
 
 ---
 
 
-<section data-transition="none">  
+
 
 <div id = "left">
 **Formal theories**
@@ -86,9 +86,7 @@ How do you know what you know?
 - Focus on meaning
 - Grammar is not algebraic
 
-</div>
 
-</section>
 
 
 
