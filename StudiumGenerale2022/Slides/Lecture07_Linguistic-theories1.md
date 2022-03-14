@@ -60,14 +60,14 @@ How do you know what you know?
 <div id = "left">
 **Formal theories**
 
-- Focus on structure 
+<p class="fragment" data-fragment-index="1">- Focus on structure </p>
 
 </div>
 
 <div id = "right">
 **Functional theories**
 
-- Focus on meaning
+<p class="fragment" data-fragment-index="1">- Focus on meaning</p>
 
 </div>
 
