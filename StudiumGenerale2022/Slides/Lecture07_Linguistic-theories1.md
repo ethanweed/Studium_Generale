@@ -56,22 +56,20 @@ How do you know what you know?
 
 
 ---
-
+<p class="fragment" data-fragment-index="1">
 <div id = "left">
-**Formal theories**
-
-
+**Formalist theories**
 
 </div>
+</p>
 
-<div id = "right">
-**Functional theories**
 
-<p class="fragment" data-fragment-index="2">- Focus on meaning</p>
+<p class="fragment" data-fragment-index="1">
+<div id = "left">
+**Functionalist theories**
 
 </div>
-
-
+</p>
 
 ---
 
