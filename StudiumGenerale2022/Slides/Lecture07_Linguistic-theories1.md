@@ -64,10 +64,7 @@ How do you know what you know?
 <div id = "left">
 <em>Formalism</em>
 
-- Focus on structure
-
-- Grammar is a set of algebraic rules  
-- The sentences of a language make up a well-defined set
+Focus on structure
 </div>
 
 
@@ -75,24 +72,54 @@ How do you know what you know?
 <div id = "right">
 <em>Functionalism</em>
 
-- Focus on meaning
+Focus on meaning
 
-- Grammar is not algebraic  
-- The set of sentences in a language is not a well-defined set
 </div>
 	
 
+---
 
+
+<div id = "left">
+<em>Formalism</em>
+
+Grammar is a set of algebraic rules  
+
+</div>
+
+
+
+<div id = "right">
+<em>Functionalism</em>
+
+Grammar is not algebraic  
+</div>
 
 ---
 
+<div id = "left">
+<em>Formalism</em>
+
+The sentences of a language make up a well-defined set
+</div>
+
+
+
+<div id = "right">
+<em>Functionalism</em>
+
+The set of sentences in a language is not a well-defined set
+</div>
+
+
+---
 
 
 <div id = "left">
 <em>Formalism</em>
 
 -  Syntax is autonomous, and can be studied in isolation
-- Language arose in biological evolution and grammar is genetically coded
+
 
 </div>
 
@@ -102,16 +129,34 @@ How do you know what you know?
 <em>Functionalism</em>
 
 - Syntax interacts with other components of grammar (and cognition)
-- Language arose in social evolution, and what is genetically coded is a language-ready body/brain
+
 </div>
 
 ---
 
+<div id = "left">
+<em>Formalism</em>
+
+Language arose in biological evolution and grammar is genetically coded
+
+</div>
+
+
+
+<div id = "right">
+<em>Functionalism</em>
+
+Grammar is as it is because of the functions it serves – to meet communicative needs of speakers.
+
+</div>
+
+
+---
 
 <div id = "left">
 <em>Formalism</em>
 
--  Grammar is as it is
+Grammar is as it is
 
 
 </div>
@@ -121,7 +166,7 @@ How do you know what you know?
 <div id = "right">
 <em>Functionalism</em>
 
-- Grammar is as it is because of the functions it serves – to meet communicative needs of speakers
+Grammar is as it is because of the functions it serves – to meet communicative needs of speakers
 
 </div>
 
