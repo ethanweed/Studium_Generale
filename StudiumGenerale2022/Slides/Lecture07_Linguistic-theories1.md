@@ -59,6 +59,7 @@ How do you know what you know?
 
 ---
 
+## Theory comparisons
 
 <em style="text-align: left; float: left;">Formalist</em>
 <em style="text-align: right; float: right;">Functionalist</em>
