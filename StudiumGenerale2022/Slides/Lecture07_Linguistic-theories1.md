@@ -49,7 +49,7 @@ How do you know what you know?
 
 ---
 
-<section data-transition="zoom">  
+<section data-transition="none">  
 
 <div id = "left">
 **Formal theories**
@@ -70,7 +70,7 @@ How do you know what you know?
 ---
 
 
-<section data-transition="zoom">  
+<section data-transition="none">  
 
 <div id = "left">
 **Formal theories**
