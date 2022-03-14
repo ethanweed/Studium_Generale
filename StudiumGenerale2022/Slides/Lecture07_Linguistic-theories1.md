@@ -59,7 +59,7 @@ How do you know what you know?
 
 ---
 
-### Theory comparisons
+
 
 <em style="text-align: left; float: left;">Formalist</em>
 <em style="text-align: right; float: right;">Functionalist</em>
@@ -70,6 +70,10 @@ How do you know what you know?
 <p class="fragment" data-fragment-index="1" style="text-align: left; float: left;">Focus on structure</p>
 
 <p class="fragment" data-fragment-index="1" style="text-align: right; float: right;">Focus on meaning</p>
+
+<p class="fragment" data-fragment-index="2" style="text-align: left; float: left;">Grammar is an algebraic system of rules</p>
+
+<p class="fragment" data-fragment-index="2" style="text-align: right; float: right;">Grammar is not algebraic</p>
 	
 
 
