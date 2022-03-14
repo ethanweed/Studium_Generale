@@ -92,9 +92,8 @@ How do you know what you know?
 <em>Formalism</em>
 
 -  Syntax is autonomous, and can be studied in isolation
+- Language arose in biological evolution and grammar is genetically coded
 
-- Grammar is a set of algebraic rules  
-- The sentences of a language make up a well-defined set
 </div>
 
 
@@ -103,6 +102,7 @@ How do you know what you know?
 <em>Functionalism</em>
 
 - Syntax interacts with other components of grammar (and cognition)
+- Language arose in social evolution, and what is genetically coded is a language-ready body/brain
 </div>
 
 
