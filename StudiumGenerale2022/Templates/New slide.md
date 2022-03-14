@@ -1,24 +1,30 @@
-## Title
+# Title
 
-<style>
-.container{
-  display: flex;
-}
-.col {
-  flex: 1;
-}
-</style>
+---
 
----------------------------------------- 
+# Review
+
+---
+
+## Quiz
+
+---
+
+# Topic 1
+
+---
+
+# Topic 2
+
+---
 
 
+# References
 
----------------------------------------- 
+---
+
+## References
 
 
----------------------------------------- 
-
-### References
-	
-<font size = 2>
+<div id = "refs">
 
