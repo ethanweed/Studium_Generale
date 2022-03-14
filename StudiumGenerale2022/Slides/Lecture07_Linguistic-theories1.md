@@ -56,6 +56,7 @@ How do you know what you know?
 
 
 ---
+
 <p class="fragment" data-fragment-index="1">
 <div id = "left">
 **Formalist theories**
