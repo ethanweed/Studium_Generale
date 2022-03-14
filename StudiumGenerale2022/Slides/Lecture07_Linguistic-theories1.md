@@ -60,7 +60,7 @@ How do you know what you know?
 ---
 
 
-<section>
+
   <div style="text-align: left; float: left;">
     <p data-markdown>- This is my first left element</p>
     <p data-markdown>- This is my second left element</p>
@@ -72,7 +72,7 @@ How do you know what you know?
     <p data-markdown>- This is my second rightelement</p>
     
   </div>
-</section>
+
 
 
 ---
