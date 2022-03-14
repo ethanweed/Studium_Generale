@@ -64,7 +64,8 @@ How do you know what you know?
 <div id = "left">
 <em>Formalism</em>
 - Focus on structure
-- Grammar is a set of algebraic rules
+
+- Grammar is a set of algebraic rules  
 - The sentences of a language make up a well-defined set
 </div>
 
@@ -73,7 +74,8 @@ How do you know what you know?
 <div id = "right">
 <em>Functionalism</em>
 - Focus on meaning
-- Grammar is not algebraic
+
+- Grammar is not algebraic  
 - The set of sentences in a language is not a well-defined set
 </div>
 	
