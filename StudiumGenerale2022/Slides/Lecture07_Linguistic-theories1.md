@@ -49,7 +49,11 @@ How do you know what you know?
 
 ---
 
+```html
+<p class="fragment" data-fragment-index="3">Appears last</p><p class="fragment" data-fragment-index="1">Appears first</p><p class="fragment" data-fragment-index="2">Appears second</p>
+```
 
+---
 
 <div id = "left">
 **Formal theories**
@@ -69,22 +73,6 @@ How do you know what you know?
 
 ---
 
-
-
-
-<div id = "left">
-**Formal theories**
-
-- Focus on structure 
-- Grammar is an algebraic system of rules
-
-</div>
-
-<div id = "right">
-**Functional theories**
-
-- Focus on meaning
-- Grammar is not algebraic
 
 
 
