@@ -38,26 +38,17 @@ How do you know what you know?
 
 ---
 
-## External vs. internal 
+Is language shaped by its function?
+
+
+---
+
+Is language shaped by our cognitive systems?
 
 
 ---
 
 
--  Among those discussed by Dik are ease and economy of articulation, and properties related to the degree of perceptibility of sounds (e.g. the fact that in 3-vowel systems, the vowels usually occupy maximally distinct positions in the phonological space).
--  Language-Independent Preferred Order of Constituents (LIPOC), which states that, other things being equal (which they frequently are not – see the discussion of competing motivations below), constituents will be ordered in terms of their complexity, from least to most complex.
--  third important source of functional pressure on lan- guages is the socio-cultural context.
-
-
----
-
-
-<p class="fragment" data-fragment-index="1">Appears last</p>
-<p class="fragment" data-fragment-index="1">Appears first</p>
-<p class="fragment" data-fragment-index="2">Appears second</p>
-
-
----
 
 
 
@@ -118,7 +109,7 @@ The set of sentences in a language is not a well-defined set
 <div id = "left">
 <em>Formalism</em>
 
--  Syntax is autonomous, and can be studied in isolation
+Syntax is autonomous, and can be studied in isolation
 
 
 </div>
@@ -128,7 +119,7 @@ The set of sentences in a language is not a well-defined set
 <div id = "right">
 <em>Functionalism</em>
 
-- Syntax interacts with other components of grammar (and cognition)
+Syntax interacts with other components of grammar (and cognition)
 
 </div>
 
@@ -173,13 +164,28 @@ Grammar is as it is because of the functions it serves – to meet communicative
 
 ---
 
-# Functional grammar
+<div id = "left">
+<em>Formalism</em>
+
+Grammatical rules exist that change structures, giving rise to distinct levels of surface vs. deep structure
+
+</div>
+
+
+
+<div id = "right">
+<em>Functionalism</em>
+
+   
+
+Structures do not change by grammatical rules. No contrast between deep and surface structures: there is only language.
+</div>
 
 ---
 
-# Formal grammar
+   
 
----
+
 
 
 
