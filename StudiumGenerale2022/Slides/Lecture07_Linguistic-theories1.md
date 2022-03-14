@@ -184,8 +184,70 @@ Structures do not change by grammatical rules. No contrast between deep and surf
 ---
 
    
+<div id = "left">
+<em>Formalism</em>
+
+   
+
+No significant theoretical place for constructions – it is the grammatical rules that are central
+
+</div>
 
 
+
+<div id = "right">
+<em>Functionalism</em>
+
+      
+
+Syntactic structures (constructions) play a central role
+
+
+</div>
+
+
+---
+
+
+<div id = "left">
+<em>Formalism</em>
+
+   
+
+Iconicity of grammatical structures is largely an illusion
+
+</div>
+
+
+
+<div id = "right">
+<em>Functionalism</em>
+
+
+Grammatical structures are often iconic
+
+</div>
+
+
+---
+
+<div id = "left">
+<em>Formalism</em>
+
+   
+
+An important feature of a good grammar is that it is generative
+
+</div>
+
+
+
+<div id = "right">
+<em>Functionalism</em>
+
+Generativity of a grammar is not always considered important
+
+</div>
 
 
 
