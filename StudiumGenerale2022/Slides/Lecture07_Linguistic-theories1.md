@@ -20,9 +20,23 @@
 
 ---
 
+## Some questions..
+
+---
+
 What is language?  
 
 What is its purpose?
+
+---
+
+What do you know about your own language?  
+
+How do you know what you know?
+
+---
+
+
 
 ---
 
