@@ -89,15 +89,20 @@ How do you know what you know?
 
 
 <div id = "left">
+<em>Formalism</em>
 
+-  Syntax is autonomous, and can be studied in isolation
 
+- Grammar is a set of algebraic rules  
+- The sentences of a language make up a well-defined set
 </div>
 
 
 
 <div id = "right">
+<em>Functionalism</em>
 
-
+- Syntax interacts with other components of grammar (and cognition)
 </div>
 
 
