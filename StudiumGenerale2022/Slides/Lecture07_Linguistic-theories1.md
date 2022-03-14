@@ -105,7 +105,25 @@ How do you know what you know?
 - Language arose in social evolution, and what is genetically coded is a language-ready body/brain
 </div>
 
+---
 
+
+<div id = "left">
+<em>Formalism</em>
+
+-  Grammar is as it is
+
+
+</div>
+
+
+
+<div id = "right">
+<em>Functionalism</em>
+
+- Grammar is as it is because of the functions it serves – to meet communicative needs of speakers
+
+</div>
 
 
 ---
