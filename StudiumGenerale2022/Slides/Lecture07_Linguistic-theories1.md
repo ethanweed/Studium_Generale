@@ -67,7 +67,7 @@ How do you know what you know?
 <div id = "right">
 **Functional theories**
 
-<p class="fragment" data-fragment-index="1">- Focus on meaning</p>
+<p class="fragment" data-fragment-index="2">- Focus on meaning</p>
 
 </div>
 
