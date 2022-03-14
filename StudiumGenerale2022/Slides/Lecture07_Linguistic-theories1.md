@@ -63,6 +63,7 @@ How do you know what you know?
 
 <div id = "left">
 <em>Formalism</em>
+
 - Focus on structure
 
 - Grammar is a set of algebraic rules  
@@ -73,6 +74,7 @@ How do you know what you know?
 
 <div id = "right">
 <em>Functionalism</em>
+
 - Focus on meaning
 
 - Grammar is not algebraic  
