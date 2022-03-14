@@ -61,19 +61,21 @@ How do you know what you know?
 
 
 
-<em style="text-align: left; float: left;">Formalist</em>
-<em style="text-align: right; float: right;">Functionalist</em>
+<div id = "left">
+<em>Formalism</em>
+- Focus on structure
+- Grammar is a set of algebraic rules
+- The sentences of a language make up a well-defined set
+</div>
 
-												
-<br>
 
-<p class="fragment" data-fragment-index="1" style="text-align: left; float: left;">Focus on structure</p>
 
-<p class="fragment" data-fragment-index="1" style="text-align: right; float: right;">Focus on meaning</p>
-
-<p class="fragment" data-fragment-index="2" style="text-align: left; float: left;">Grammar is algebraic</p>
-
-<p class="fragment" data-fragment-index="2" style="text-align: right; float: right;">Grammar is not algebraic</p>
+<div id = "right">
+<em>Functionalism</em>
+- Focus on meaning
+- Grammar is not algebraic
+- The set of sentences in a language is not a well-defined set
+</div>
 	
 
 
