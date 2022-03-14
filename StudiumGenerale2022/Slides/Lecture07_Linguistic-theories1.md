@@ -263,3 +263,12 @@ Generativity of a grammar is not always considered important
 
 <div id = "refs">
 
+Butler, Christopher S. 2003. _Structure and function — a guide to three major structural-functional theories. Part 1: approaches to the simplex clause_. Amsterdam: John Benjamins.
+
+Givón, T., 1985. Iconicity, isomorphism and non-arbitrary coding in syntax. _Iconicity in syntax_, pp.187-219. Vancouver
+
+Sampson, Geoffrey. 1980. _Schools of linguistics: competition and evolution_. London: Hutchinson.
+
+
+
+</div>
