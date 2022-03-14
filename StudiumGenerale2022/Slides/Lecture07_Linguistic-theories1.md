@@ -60,8 +60,8 @@ How do you know what you know?
 ---
 
 
-<h3 style="text-align: left; float: left;">Formalist</h3>
-<h3 style="text-align: right; float: right;">Functionalist</h3>
+<em style="text-align: left; float: left;">Formalist</em>
+<em style="text-align: right; float: right;">Functionalist</em>
 
 												
 <br>
