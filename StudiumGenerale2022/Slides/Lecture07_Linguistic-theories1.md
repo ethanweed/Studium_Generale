@@ -60,8 +60,8 @@ How do you know what you know?
 ---
 
 
-<p><h2 style="text-align: left; float: left;">Formalist theories</h2></p>
-<p><h2 style="text-align: right; float: right;">Functionalist theories</h2></p>
+<h4 style="text-align: left; float: left;">Formalist theories</h2>
+<h4 style="text-align: right; float: right;">Functionalist theories</h2>
 
 												
 <br>
