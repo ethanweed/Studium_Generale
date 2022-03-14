@@ -1,3 +1,5 @@
+incremental = "true"
+
 # Linguistic Theories 1
 
 ---
@@ -57,20 +59,7 @@ How do you know what you know?
 
 ---
 
-<p class="fragment" data-fragment-index="1">
-<div id = "left">
-**Formalist theories**
 
-</div>
-</p>
-
-
-<p class="fragment" data-fragment-index="1">
-<div id = "left">
-**Functionalist theories**
-
-</div>
-</p>
 
 ---
 
