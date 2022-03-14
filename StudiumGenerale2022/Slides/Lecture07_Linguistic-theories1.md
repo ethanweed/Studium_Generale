@@ -60,15 +60,15 @@ How do you know what you know?
 ---
 
 
-<p class="fragment" data-fragment-index="1" style="text-align: left; float: left;">Formalist theories</p>
+<p><h2 style="text-align: left; float: left;">Formalist theories</h2></p>
+<p><h2 style="text-align: right; float: right;">Functionalist theories</h2></p>
 
-<p class="fragment" data-fragment-index="1" style="text-align: right; float: right;">Functionalist theories</p>
 												
 <br>
 
-<p class="fragment" data-fragment-index="2" style="text-align: left; float: left;">Focus on structure</p>
+<p class="fragment" data-fragment-index="1" style="text-align: left; float: left;">Focus on structure</p>
 
-<p class="fragment" data-fragment-index="2" style="text-align: right; float: right;">Focus on meaning</p>
+<p class="fragment" data-fragment-index="1" style="text-align: right; float: right;">Focus on meaning</p>
 	
 
 
