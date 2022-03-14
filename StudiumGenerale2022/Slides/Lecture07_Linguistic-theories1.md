@@ -36,6 +36,48 @@ How do you know what you know?
 
 ---
 
+## External vs. internal 
+
+
+---
+
+
+-  Among those discussed by Dik are ease and economy of articulation, and properties related to the degree of perceptibility of sounds (e.g. the fact that in 3-vowel systems, the vowels usually occupy maximally distinct positions in the phonological space).
+-  Language-Independent Preferred Order of Constituents (LIPOC), which states that, other things being equal (which they frequently are not – see the discussion of competing motivations below), constituents will be ordered in terms of their complexity, from least to most complex.
+-  third important source of functional pressure on lan- guages is the socio-cultural context.
+
+
+---
+
+<div id = "left">
+**Formal theories**
+
+- Focus on structure 
+
+</div>
+
+<div id = "right">
+**Functional theories**
+
+- Focus on meaning
+
+</div>
+
+---
+
+<div id = "left">
+**Formal theories**
+
+- 
+
+</div>
+
+<div id = "right">
+**Functional theories**
+
+- 
+
+</div>
 
 
 ---
