@@ -254,6 +254,12 @@ Generativity of a grammar is not always considered important
 
 ---
 
+So..  
+
+Are you a functionalist or a formalist?
+
+---
+
 
 # References
 
