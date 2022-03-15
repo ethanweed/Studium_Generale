@@ -137,7 +137,8 @@ Language arose in biological evolution and grammar is genetically coded
 <div id = "right">
 <em>Functionalism</em>
 
-Grammar is as it is because of the functions it serves – to meet communicative needs of speakers.
+
+Language arose in social evolution, and what is genetically coded is a language-ready body/brain.
 
 </div>
 
