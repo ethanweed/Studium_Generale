@@ -227,12 +227,25 @@ ___
 
 ---
 
+## Bill's Shua data
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Bill_space_0.png?raw=true" width=""/>
 
 ---
 
-# Child Language Acquisition
+
+## Bill's Shua data
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Bill_space_1.png?raw=true" width=""/>
 
 ---
+
+## Bill's Shua data
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Bill_space_2.png?raw=true" width=""/>
+
+---
+
 
 
 # References
