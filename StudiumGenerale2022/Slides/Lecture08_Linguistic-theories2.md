@@ -114,7 +114,7 @@ Problems with this argument?
 
 <div id = "right">
 
-Do (did) Hopi speakers have a fundamentally different conception of the universe?
+Do (did) Hopi speakers have a fundamentally different conception of the universe, and the nature of physics?
 
 </div>
 
