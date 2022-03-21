@@ -244,6 +244,12 @@ ___
 
 <div id = "refs">
 
+Gilbert, A.L., Regier, T., Kay, P. and Ivry, R.B., 2006. Whorf hypothesis is supported in the right visual field but not the left. _Proceedings of the national academy of sciences_, _103_(2), pp.489-494.
+
+Regier, T. and Kay, P., 2009. Language, thought, and color: Whorf was half right. _Trends in cognitive sciences_, _13_(10), pp.439-446.
+
+Roberson, D., Davies, I. and Davidoff, J., 2000. Color categories are not universal: replications and new evidence from a stone-age culture. _Journal of Experimental Psychology: General_, _129_(3), p.369.
+
 Sampson, Geoffrey. 1980. _Schools of linguistics: competition and evolution_. London: Hutchinson.
 
 Whorf, B.L., 1940. _Science and linguistics_ (pp. 207-219). Indianapolis, IN, USA:: Bobbs-Merrill.
