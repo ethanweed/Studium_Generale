@@ -86,6 +86,40 @@ English country and town names cannot be replaced with pronouns after _in, at, t
 
 ---
 
+## Whorf
+
+Animate / inanimate distinction is a cryptotype in Hopi.
+
+Pluralization depends on animacy.
+
+Thus, Hopi believe clouds to be alive.
+
+---
+
+## Whorf
+
+Problems with this argument?
+
+---
+
+## Time in Hopi
+
+<div id = "left">
+
+- no spatial metaphors for time
+- no counting of time units
+- with no time references, no speed references
+
+</div>
+
+<div id = "right">
+
+Do (did) Hopi speakers have a fundamentally different conception of the universe?
+
+</div>
+
+---
+
 # Child Language Acquisition
 
 ---
