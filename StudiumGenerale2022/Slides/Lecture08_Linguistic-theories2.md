@@ -188,7 +188,7 @@ Berinmo (Papua New Guinea)
 
 <img src="https://www.pnas.org/cms/10.1073/pnas.1532837100/asset/2e0951f6-3400-493f-abfd-d6bdb00cb215/assets/graphic/pq1532837001.jpeg" width="400"/>
 
-
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/colors1.png?raw=true" width=""/>
 
 </div>
 
