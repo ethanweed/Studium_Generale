@@ -159,9 +159,21 @@ Do (did) Hopi speakers have a fundamentally different conception of the universe
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Colors_languages.png?raw=true" width=""/>
 
 
+
+
 ---
 
-![[Pasted image 20220321224040.png]]
+<div id = "left">
+
+
+
+</div>
+
+<div id = "right">
+
+
+</div>
+
 
 ---
 
