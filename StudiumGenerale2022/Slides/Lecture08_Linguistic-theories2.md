@@ -145,10 +145,13 @@ Do (did) Hopi speakers have a fundamentally different conception of the universe
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Colors_languages.png?raw=true" width=""/>
 
 
-
 ---
 
+## The case of space
 
+
+
+---
 
 # Child Language Acquisition
 
