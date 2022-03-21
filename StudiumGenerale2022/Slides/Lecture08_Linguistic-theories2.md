@@ -80,7 +80,9 @@ Cryptotypes
 
 ## Whorf
 
-Example: English country and town names cannot be replaced with pronouns after _in, at, to,_ or _from_
+Cryptotypes example:  
+
+English country and town names cannot be replaced with pronouns after _in, at, to,_ or _from_
 
 ---
 
