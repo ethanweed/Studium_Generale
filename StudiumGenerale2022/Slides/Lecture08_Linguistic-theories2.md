@@ -110,7 +110,7 @@ Problems with this argument?
 
 ---
 
-## Temporal expressions in Hopi
+## Time in Hopi
 
 <div id = "left">
 
@@ -128,7 +128,7 @@ Do (did) Hopi speakers have a fundamentally different conception of the universe
 
 ---
 
-## Temporal expressions in Hopi
+## Time in Hopi
 
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Whorf_Hopi_running.png?raw=true" width="600"/>
 
@@ -139,6 +139,7 @@ Do (did) Hopi speakers have a fundamentally different conception of the universe
 <img src="https://www.pnas.org/cms/10.1073/pnas.1532837100/asset/2e0951f6-3400-493f-abfd-d6bdb00cb215/assets/graphic/pq1532837001.jpeg" width=""/>
 
 ---
+
 
 
 
