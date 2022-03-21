@@ -229,7 +229,7 @@ ___
 
 ## Bill's Shua data
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Bill_space_0.png?raw=true" width=""/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Bill_space_0.png?raw=true" width="500"/>
 
 ---
 
