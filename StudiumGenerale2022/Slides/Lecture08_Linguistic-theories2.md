@@ -136,7 +136,21 @@ Do (did) Hopi speakers have a fundamentally different conception of the universe
 
 ## Kay: color universals
 
+<div id = "left">
+
+<img src=
+"https://www1.icsi.berkeley.edu/~kay/me.gray.sweatshirt.jpg" width=""/>
+
+</div>
+
+
+<div id = "right">
+
 <img src="https://www.pnas.org/cms/10.1073/pnas.1532837100/asset/2e0951f6-3400-493f-abfd-d6bdb00cb215/assets/graphic/pq1532837001.jpeg" width=""/>
+
+</div>
+
+
 
 ---
 
@@ -149,6 +163,21 @@ Do (did) Hopi speakers have a fundamentally different conception of the universe
 
 ## The case of space
 
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Majid_1.png?raw=true" width=""/>
+
+---
+
+## The case of space
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Majid_2.png?raw=true" width=""/>
+
+___
+
+## The case of space
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Majid_3.png?raw=true" width=""/>
+
+---
 
 
 ---
