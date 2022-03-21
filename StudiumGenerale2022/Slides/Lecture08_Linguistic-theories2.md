@@ -200,6 +200,12 @@ Berinmo (Papua New Guinea)
 
 </div>
 
+---
+
+## Whorf: half right?
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Gilbert_1.png?raw=true" width=""/>
+
 
 ---
 
