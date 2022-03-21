@@ -246,7 +246,20 @@ ___
 
 ---
 
+## Bill's Shua data
 
+Preliminary results:
+
+- Some used relative, some absolute
+- Tendency for younger, and better educated to use relative
+- Some young people consistently used absolute
+- Women slightly more likely to use relative
+- Scenes described using relative and absolute terms
+- No strong correlation between arrangment pattern and description
+
+
+
+---
 
 # References
 
