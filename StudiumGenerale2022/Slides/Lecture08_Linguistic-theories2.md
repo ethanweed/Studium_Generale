@@ -161,6 +161,10 @@ Do (did) Hopi speakers have a fundamentally different conception of the universe
 
 ---
 
+![[Pasted image 20220321224040.png]]
+
+---
+
 ## The case of space
 
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Majid_1.png?raw=true" width=""/>
