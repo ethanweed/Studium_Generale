@@ -53,7 +53,7 @@ The fact of the matter is that the 'real world' is to a large extent unconscious
 Such categories as number, gender, case, tense, ... are not so much discovered in experience as imposed upon it because of the tyrannical hold that linguistic form has upon our orientation in the world.
 
 - Sapir (1929), quoted in Sampson (1980)
-- 
+
 ```
 
 
@@ -69,6 +69,18 @@ Takes Sapir literally.
 ## Whorf
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffa%2F94%2Fd5%2Ffa94d5cc39365339f478b01a07a919be.png&f=1&nofb=1" width=""/>
+
+---
+
+## Whorf
+
+Cryptotypes
+
+---
+
+## Whorf
+
+Example: English country and town names cannot be replaced with pronouns after _in, at, to,_ or _from_
 
 ---
 
