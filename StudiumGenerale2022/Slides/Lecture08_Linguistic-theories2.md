@@ -165,12 +165,17 @@ Do (did) Hopi speakers have a fundamentally different conception of the universe
 
 <div id = "left">
 
+English
 
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/colors1.png?raw=true" width=""/>
 
 </div>
 
 <div id = "right">
 
+Berinmo (Papua New Guinea)
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/colors2.png?raw=true" width=""/>
 
 </div>
 
