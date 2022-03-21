@@ -136,7 +136,7 @@ Do (did) Hopi speakers have a fundamentally different conception of the universe
 
 ## Kay: color universals
 
-<img src="https://www.pnas.org/cms/10.1073/pnas.1532837100/asset/2e0951f6-3400-493f-abfd-d6bdb00cb215/assets/graphic/pq1532837001.jpeg" width=""/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Colors_languages.png?raw=true" width=""/>
 
 ---
 
