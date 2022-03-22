@@ -99,6 +99,7 @@ Thus, Hopi believe clouds to be alive.
 
 <div id = "right">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Oraibi1.jpg/440px-Oraibi1.jpg" width=""/>
 
 </div>
 
