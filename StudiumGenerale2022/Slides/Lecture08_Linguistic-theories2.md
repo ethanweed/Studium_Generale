@@ -86,7 +86,7 @@ English country and town names cannot be replaced with pronouns after _in, at, t
 
 ---
 
-## Whorf
+## Animacy in Hopi
 
 <div id = "left">
 Animate / inanimate distinction is a cryptotype in Hopi.
@@ -105,7 +105,7 @@ Thus, Hopi believe clouds to be alive.
 
 ---
 
-## Whorf
+
 
 Problems with this argument?
 
