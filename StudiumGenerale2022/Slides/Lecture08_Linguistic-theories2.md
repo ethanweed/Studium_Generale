@@ -130,7 +130,7 @@ Do (did) Hopi speakers have a fundamentally different conception of the universe
 
 ## Time in Hopi
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Whorf_Hopi_running.png?raw=true" width="600"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Whorf_Hopi_running.png?raw=true" width="500"/>
 
 ---
 
