@@ -30,6 +30,14 @@
 
 ---
 
+## Three models:
+
+1. NumLanguages ~ Area
+2. NumLanguages ~ Area + Population
+3. NumLanguage ~ Area + Population + MGS
+
+---
+
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Nettle_1_Area.png?raw=true" width=""/>
 
 ---
