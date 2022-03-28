@@ -74,9 +74,20 @@ _Possible combinations_
 
 ## Two kinds of hypotheses
 
+<div id = "left">
+
 $H1$ = The predictor (independent) variable provides useful information about the outcome (dependent variable)
 
+</div>
+
+
+<div id = "right">
+
 $H0$ = The predictor (IV) variable is unrelated to the outcome (DV) variable
+
+</div>
+
+
 
 ---
 
