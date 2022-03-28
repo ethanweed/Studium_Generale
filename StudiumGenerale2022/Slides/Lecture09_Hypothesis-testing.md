@@ -49,41 +49,46 @@ Adam Sandler Movies
 
 ---
 
+## Two kinds of errors
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal;font-style:normal;text-decoration:none">retain H0</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal;font-style:normal;text-decoration:none">reject H0</span></th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">H0 is true</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">correct decision</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">error (type I)</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">H0 is false</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">error (type II)</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">correct decision</td></tr></tbody></table>
 
 ---
 
 #### Facebook vs. Fish
  
-::: {.container}
-:::: {.col}
+
 
 <img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/facebook.gif?raw=true">
   
-::::
-:::: {.col}
+
 
 <img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/fish.gif?raw=true">
   
-::::
-:::
+
 
 ---
 
 #### Facebook and Working Memory
 
+```
 The purpose of the study was to examine the effect of the use of the social network Facebook on the capacity of working memory. Working memory plays a key role in information processing and cognitive processes.
+```
 
 ---
 
 #### Facebook and Working Memory
 
+```
 Previous studies show that many Facebook users report experiencing flooding of information from using the web. Information overflow is known to impair the working memory function due to its limited capacity. Therefore, we hypothesized that surfing the Facebook network would create a load on working memory capacity and thus lead to a decrease in working memory function.
+```
 
 ---
 
 #### Facebook and Working Memory
 
+```
 Under the conditions of the experiment, 20 subjects watched a video simulating surfing Facebook, and then performed a 2-back task that examines working memory capacity. Under the control condition, subjects watched a neutral video and then performed a 2-back task at the same difficulty level. The experiment was within subjects with a random order of conditions.
+```
 
 ---
 
@@ -91,105 +96,90 @@ Under the conditions of the experiment, 20 subjects watched a video simulating s
 
 #### 2-back test
 
-<img src="https://github.com/ethanweed/LaCoBra/blob/master/2021/Resources/2_back_design.png?raw=true">
+<img src="https://github.com/ethanweed/LaCoBra/blob/master/2021/Resources/2_back_design.png?raw=true" width = "500">
 
 ---
 
-#### Validity
+#### Internal validity
  
-::: {.container}
-:::: {.col}
+
 
 <img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/facebook.gif?raw=true">
 <img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/fish.gif?raw=true">  
-::::
-:::: {.col}
 
-Internal validity:  
-<br/>
+
+
+
 Are there any confounding factors that are _internal_ to the experiment?
   
-::::
-:::
+
 
 
 ---
 
-#### Validity
+#### External validity
  
-::: {.container}
-:::: {.col}
+
 
 <img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/facebook.gif?raw=true">
 <img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/fish.gif?raw=true">   
-::::
-:::: {.col}
 
-External validity:  
+
+
 <br/>
 How generalizable are results from the experiment?
   
-::::
-:::
+
 
 
 ---
 
 
-#### Validity
+#### Construct validity
  
-::: {.container}
-:::: {.col}
+
 
 <img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/facebook.gif?raw=true">
 <img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/fish.gif?raw=true">  
-::::
-:::: {.col}
 
-Construct validity:  
+
+  
 <br/>
 Does the experiment measure what it seeks to measure?
   
-::::
-:::
+
 
 ---
 
-#### Validity
+#### Face validity
  
-::: {.container}
-:::: {.col}
+
 
 <img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/facebook.gif?raw=true">
 <img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/fish.gif?raw=true">  
-::::
-:::: {.col}
 
-Face validity:  
+
+ 
 <br/>
 Does the experiment seem like it would answer the research question?
   
-::::
-:::
+
 
 ---
 
-#### Validity
+#### Ecological validity
  
-::: {.container}
-:::: {.col}
+
 
 <img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/facebook.gif?raw=true">
 <img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/fish.gif?raw=true">  
-::::
-:::: {.col}
 
-Ecological validity:  
+
+
 <br/>
 Does the experimental setup closely simulate the real world?
   
-::::
-:::
+
 
 ---
 
