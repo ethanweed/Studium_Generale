@@ -75,6 +75,8 @@ mod3 <- lm(data = df,
            Languages ~ Area + Population + MGS)
 
 
-tab_model(mod1, file = "Nettle_1_Area.html")
-tab_model(mod2, file = "Nettle_2_Population.html")
-tab_model(mod3, file = "Nettle_3_MGS.html")
+tab_model(mod1, show.intercept = FALSE, show.aic = TRUE, file = "Nettle_1_Area.html")
+tab_model(mod2, show.intercept = FALSE, show.aic = TRUE, file = "Nettle_2_Population.html")
+tab_model(mod3, show.intercept = FALSE, show.aic = TRUE, file = "Nettle_3_MGS.html")
+
+
