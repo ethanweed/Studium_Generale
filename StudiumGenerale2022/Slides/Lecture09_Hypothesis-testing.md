@@ -21,8 +21,10 @@ Nominal, Ordinal, and Ratio data
 
 ---
 
-Interval data
+Interval data  
+
 <img src="https://lh3.googleusercontent.com/JOTbMGt8Z7rIz3ShSO2bwOzFqWdeOtHl_t3n0wFSELp00CPP3CaJ0R4EZJ1Lu-_YGxY1091TvkAX7VkC7IWSPkllnjnBQZynATtCTP4wMx-Z-Cu0Uga8LiNQ56h92gYUOuC7hGk85JY=s0" width=300 style="transform:rotate(180deg);"> 
+
 No “natural” zero value
 
 ---
