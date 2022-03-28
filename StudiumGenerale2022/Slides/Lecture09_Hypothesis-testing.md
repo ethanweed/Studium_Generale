@@ -18,7 +18,7 @@
 
 ---
 
-
+<img src="Studium_Generale/StudiumGenerale2022/Slides/Images/Nettle_0_Abstract.png" width=""/>
 
 ---
 
