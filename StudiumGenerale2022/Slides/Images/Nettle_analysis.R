@@ -79,6 +79,7 @@ tab_model(mod1, show.intercept = FALSE, show.aic = TRUE, file = "Nettle_1_Area.h
 tab_model(mod2, show.intercept = FALSE, show.aic = TRUE, file = "Nettle_2_Population.html")
 tab_model(mod3, show.intercept = FALSE, show.aic = TRUE, file = "Nettle_3_MGS.html")
 
+p4 <- 
 ggplot(df) +
   geom_smooth(aes(scale(Area_log), Languages_log), method = "lm", color = "red") +
   geom_smooth(aes(scale(Population_log), Languages_log), method = "lm", color = "blue") +
@@ -88,4 +89,7 @@ ggplot(df) +
   theme_cowplot() +
   labs(x = " ")
 
+png(filename = "Nettle_4_all.png")
+plot(p4)
+dev.off()
 

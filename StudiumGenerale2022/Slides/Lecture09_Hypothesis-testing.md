@@ -8,6 +8,28 @@
 
 ## Quiz
 
+<div id = "left">
+
+Name two important distinctions between functionalist and formalist approaches to linguistics.
+
+	1. Give an example of specific linguistic phenomenon on which linguists from these two camps would disagree.
+	2. How would a functionalist treat this phenomenon?
+	3. How would a formalist treat this phenomenon?
+
+</div>
+
+
+<div id = "right">
+
+What is the Sapir-Whorf hypothesis?
+
+	1. Describe the strong and weak versions of the hypothesis
+	2. What would constitute evidence for the strong version?
+	3. Is there any evidence for the weak version?
+
+</div>
+
+
 ---
 
 # Research Design 
