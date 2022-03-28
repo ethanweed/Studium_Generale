@@ -12,6 +12,23 @@
 
 # Research Design 
 
+
+
+---
+
+Nominal, Ordinal, and Ratio data
+<img src="https://lh4.googleusercontent.com/ZdmcnWR6MhAj9Cg_vI3Ip-XB-XdJbTtblvOobiF0lAerSgiBbpG_EhevI-jY28-RSMKLrJE2TG3YLDAGRuM9kJDJKCbDI6472EgptiqDU_7ovNUrv1RzyZWVozU62mbDO7PifSBFUY0=s0" width=""/>
+
+---
+
+Interval data
+<img src="https://lh3.googleusercontent.com/JOTbMGt8Z7rIz3ShSO2bwOzFqWdeOtHl_t3n0wFSELp00CPP3CaJ0R4EZJ1Lu-_YGxY1091TvkAX7VkC7IWSPkllnjnBQZynATtCTP4wMx-Z-Cu0Uga8LiNQ56h92gYUOuC7hGk85JY=s0" width=300 style="transform:rotate(180deg);"> 
+No “natural” zero value
+
+---
+
+
+
 ---
 
 # Example: Nettle (1998)
