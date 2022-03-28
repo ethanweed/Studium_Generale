@@ -129,7 +129,7 @@ Are there any confounding factors that are _internal_ to the experiment?
 
 
 <br/>
-How generalizable are results from the experiment?
+How _generalizable_ are results from the experiment?
   
 
 
