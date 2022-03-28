@@ -79,4 +79,13 @@ tab_model(mod1, show.intercept = FALSE, show.aic = TRUE, file = "Nettle_1_Area.h
 tab_model(mod2, show.intercept = FALSE, show.aic = TRUE, file = "Nettle_2_Population.html")
 tab_model(mod3, show.intercept = FALSE, show.aic = TRUE, file = "Nettle_3_MGS.html")
 
+ggplot(df) +
+  geom_smooth(aes(scale(Area_log), Languages_log), method = "lm", color = "red") +
+  geom_smooth(aes(scale(Population_log), Languages_log), method = "lm", color = "blue") +
+  geom_smooth(aes(scale(MGS), Languages_log), method = "lm", color = "yellow") +
+  geom_point(aes(scale(MGS), Languages_log)) +
+  geom_label_repel(aes(scale(MGS), Languages_log, label = Country), max.overlaps = 50) +
+  theme_cowplot() +
+  labs(x = " ")
+
 
