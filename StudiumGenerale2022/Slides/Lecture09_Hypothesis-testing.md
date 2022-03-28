@@ -10,7 +10,7 @@
 
 <div id = "left">
 
-A. How do functionalist and formalist approaches to linguistics differ?
+How do functionalist and formalist approaches to linguistics differ?
 
 	1. Give an example of specific linguistic phenomenon on which linguists from these two camps would disagree.
 	2. How would a functionalist treat this phenomenon?
@@ -21,7 +21,9 @@ A. How do functionalist and formalist approaches to linguistics differ?
 
 <div id = "right">
 
-B. What is the Sapir-Whorf hypothesis?
+What is the Sapir-Whorf hypothesis?
+
+
 
 	1. Describe the strong and weak versions of the hypothesis
 	2. What would constitute evidence for the strong version?
