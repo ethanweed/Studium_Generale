@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Nettle_0_Abstract.png?raw=true" width=""/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Nettle_0_Abstract.png?raw=true" width="500"/>
 
 ---
 
