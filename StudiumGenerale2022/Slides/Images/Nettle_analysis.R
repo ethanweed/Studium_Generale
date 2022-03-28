@@ -63,7 +63,7 @@ plot(p2)
 dev.off()
 
 
-png(filename = "Nettle_3_Population.png")
+png(filename = "Nettle_3_MGS.png")
 plot(p3)
 dev.off()
 
