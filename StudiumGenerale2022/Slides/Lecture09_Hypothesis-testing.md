@@ -366,6 +366,8 @@ Hinkelmann, K., & Kempthorne, O. (2007). Design and analysis of experiments, vol
 
 Navarro, D. and Weed, E., 2021. Learning statistics with python (work in progress). _Available online: https://ethanweed.github.io/pythonbook/landingpage.html_.
 
+Nettle, D., 1998. Explaining global patterns of language diversity. _Journal of anthropological archaeology_, _17_(4), pp.354-374.
+
 Wagenmakers, E-J. (2015) Adam Sandler data. Packaged with JASP statistical software (https://jasp-stats.org)
 
 
