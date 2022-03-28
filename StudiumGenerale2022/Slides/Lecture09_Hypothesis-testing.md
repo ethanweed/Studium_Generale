@@ -193,10 +193,9 @@ Hinkelmann & Kempthorne (2007)
 
 ---
 
----
 
-## Example:  
-### Nettle (1998)
+
+# Nettle (1998)
 
 ---
 
