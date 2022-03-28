@@ -30,6 +30,10 @@
 
 ---
 
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Nettle_1_Area.png?raw=true" width=""/>
+
+---
+
 # References
 
 ---
