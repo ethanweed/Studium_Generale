@@ -54,16 +54,9 @@ Adam Sandler Movies
 
 ---
 
-#### Facebook vs. Fish
- 
+## Example:   
+### Facebook and Working Memory
 
-
-<img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/facebook.gif?raw=true">
-  
-
-
-<img src="https://github.com/ethanweed/ExPsyLing/blob/master/2021/Resources/fish.gif?raw=true">
-  
 
 
 ---
@@ -193,7 +186,8 @@ Hinkelmann & Kempthorne (2007)
 
 ---
 
-# Example: Nettle (1998)
+# Example: 
+### Nettle (1998)
 
 ---
 
@@ -362,7 +356,13 @@ Hinkelmann & Kempthorne (2007)
 
 <div id = "refs">
 
+Aizenberg, O., & Naor, Danielle. (2017, October 28). Facebook and working memory. Retrieved from osf.io/8vwsp
 
+Hinkelmann, K., & Kempthorne, O. (2007). Design and analysis of experiments, volume 1: Introduction to experimental design (Vol. 592). John Wiley & Sons.
+
+Navarro, D. and Weed, E., 2021. Learning statistics with python (work in progress). _Available online: https://ethanweed.github.io/pythonbook/landingpage.html_.
+
+Wagenmakers, E-J. (2015) Adam Sandler data. Packaged with JASP statistical software (https://jasp-stats.org)
 
 
 </div>
