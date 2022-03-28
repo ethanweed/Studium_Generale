@@ -10,7 +10,7 @@
 
 <div id = "left">
 
-Name two important distinctions between functionalist and formalist approaches to linguistics.
+How do functionalist and formalist approaches to linguistics differ?
 
 	1. Give an example of specific linguistic phenomenon on which linguists from these two camps would disagree.
 	2. How would a functionalist treat this phenomenon?
