@@ -257,7 +257,7 @@ Hinkelmann & Kempthorne (2007)
 
 ---
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Nettle_2_Population.png?raw=true" width=""/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Nettle_2_Population.png?raw=true" width="600"/>
 
 ---
 
@@ -301,7 +301,7 @@ Hinkelmann & Kempthorne (2007)
 
 ---
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Nettle_3_MGS.png?raw=true" width=""/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Nettle_3_MGS.png?raw=true" width="600"/>
 
 ---
 
@@ -351,7 +351,7 @@ Hinkelmann & Kempthorne (2007)
 
 ---
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Nettle_4_all.png?raw=true" width=""/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Nettle_4_all.png?raw=true" width="600"/>
 
 ---
 
