@@ -401,7 +401,7 @@ Hinkelmann & Kempthorne (2007)
 
 <div id = "refs">
 
-Aizenberg, O., & Naor, Danielle. (2017, October 28). Facebook and working memory. Retrieved from osf.io/8vwsp
+Aizenberg, O., & Naor, D. (2017, October 28). Facebook and working memory. Retrieved from osf.io/8vwsp
 
 Hinkelmann, K., & Kempthorne, O. (2007). Design and analysis of experiments, volume 1: Introduction to experimental design (Vol. 592). John Wiley & Sons.
 
