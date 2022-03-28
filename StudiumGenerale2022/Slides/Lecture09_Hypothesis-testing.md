@@ -22,7 +22,8 @@ How do functionalist and formalist approaches to linguistics differ?
 <div id = "right">
 
 What is the Sapir-Whorf hypothesis?
-
+<br>
+<br>
 	1. Describe the strong and weak versions of the hypothesis
 	2. What would constitute evidence for the strong version?
 	3. Is there any evidence for the weak version?
