@@ -188,25 +188,25 @@ Thomas Sebeok:
 
 ### Communication with the future
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Sebeok_2.png?raw=true" width="500"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Sebeok_2.png?raw=true" width="600"/>
 
 ---
 
 ### Communication with the future
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Sebeok_3.png?raw=true" width="400"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Sebeok_3.png?raw=true" width="600"/>
 
 ---
 
 ### Communication with the future
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Sebeok_4.png?raw=true" width="400"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Sebeok_4.png?raw=true" width="600"/>
 
 ---
 
 ### Communication with the future
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Sebeok_5.png?raw=true" width="400"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Sebeok_5.png?raw=true" width="600"/>
 
 ---
 
