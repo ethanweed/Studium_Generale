@@ -341,7 +341,7 @@ Word-learning rate:
 - Babies: 0 words
 - 9 words per day between age 2 and 6
 - Websters dictionary: approx. 50,000 words
-- Adult _receptive_ vocabulary: approx. 17,000 words (Goulden, Nation and Read, 1990)
+- Adult receptive vocabulary: approx. 17,000 words (Goulden, Nation and Read, 1990)
 
 
 
@@ -361,6 +361,8 @@ Data: [Stanford University wordbank](http://wordbank.stanford.edu)
 
 <div id = "left">
 
+American English
+
 ![](https://lh5.googleusercontent.com/-X2cw_85wEsr6IpNRnjm4F9GM4dvEi_9P0uxMBnMyNmWjdhTmZ1zYDQrNU5vIi91LbiSMh2AzF6CpjpT35Q4z54HGk5YKEefVnMSlAbcJD5O3LemADKz5DCO6fXACNNRgUSV91pE0pU)
 
 </div>
@@ -368,6 +370,8 @@ Data: [Stanford University wordbank](http://wordbank.stanford.edu)
 
 
 <div id = "right">
+
+Danish
 
 ![](https://lh6.googleusercontent.com/WCCNiicZeUEcIbKqpvxFC8P4k0bZ3WmKbVRQUcHIOd3NHiSWyOlxgMKBDv_pTASLk81tBnICboaRbO2f1Nbd1fqVfYNgJpHNd6BviSLQdOeHQRio8IVWvp9HVJ__3rBIAVadZARKQOk)
 
