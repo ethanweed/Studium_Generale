@@ -268,7 +268,7 @@ Matching:
 
 ---
 
-## Mean Length of Utterance
+## Mean Length of Utterance (MLU)
 
 
 1. The dog barks at the girl.
