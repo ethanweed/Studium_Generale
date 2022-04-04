@@ -224,7 +224,7 @@ Thomas Sebeok:
 
 <div id = "left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/VerbalBehavior.jpg" width=""/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/VerbalBehavior.jpg" width="400"/>
 
 </div>
 
