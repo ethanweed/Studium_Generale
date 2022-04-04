@@ -43,7 +43,18 @@
 ---
 
 
+<div id = "left">
 
+<img src="https://ethanweed.github.io/Studium_Generale/StudiumGenerale2022/Slides/Images/Saussure_13.png" width=""/>
+
+</div>
+
+
+<div id = "right">
+
+- Bloomfield's postulates (e.g., )
+
+</div>
 
 ---
 
