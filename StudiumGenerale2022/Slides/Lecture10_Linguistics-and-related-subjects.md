@@ -61,8 +61,30 @@
 
 ## Language as communication
 
+<div id = "left">
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Saussure_semiology1.png?raw=true" width=""/>
+
+</div>
 
 
+<div id = "right">
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Saussure_semiology2.png?raw=true" width=""/>
+
+</div>
+
+---
+
+## Language as communication
+
+
+
+---
+
+## Language as communication
+
+<img src="https://www.researchgate.net/profile/Uelle-Paerl/publication/284864618/figure/fig2/AS:538564481433600@1505415186122/Jakobsons-19851956-model-of-communication.png" width="400"/>
 
 ---
 
