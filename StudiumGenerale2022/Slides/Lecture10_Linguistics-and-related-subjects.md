@@ -268,6 +268,18 @@ Matching:
 
 ---
 
+## Mean Length of Utterance
+
+
+1. The dog barks at the girl.
+2. The dogs barked at the girl.
+3. The dog went to the bed.
+4. The dog walked to the bed.
+
+
+
+---
+
 # References
 
 ---
