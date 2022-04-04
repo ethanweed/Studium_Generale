@@ -219,6 +219,26 @@ Thomas Sebeok:
 
 ---
 
+## Chomsky vs. Skinner
+
+
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/VerbalBehavior.jpg" width=""/>
+
+</div>
+
+
+
+<div id = "right">
+
+
+</div>
+
+
+
+---
+
 ## Roger Brown (1973) _A First Language_
 
 <div id = "left">
@@ -305,6 +325,8 @@ Brown's stages:
 
 ---
 
+
+
 ---
 
 # References
@@ -319,6 +341,8 @@ Brown's stages:
 Brown, R., 1973. _A first language_. Harvard University Press.
 
 Chandler, D., 2007. _Semiotics: the basics_. Routledge.
+
+Chomsky, N. 1959. A Review of B. F. Skinner's Verbal Behavior. _Language 35_, no. 1 (1959)
 
 Jakobson, R., 1971. Linguistics in relation to other sciences. _Selected writings_, _2_, pp.655-696.
 
