@@ -87,6 +87,7 @@
 ## Language as communciation
 
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Jakobson_model1.png?raw=true" width="500"/>
+
 (Jakobson, 1960)
 
 ---
