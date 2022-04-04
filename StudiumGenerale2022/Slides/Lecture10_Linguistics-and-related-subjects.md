@@ -219,6 +219,25 @@ Thomas Sebeok:
 
 ---
 
+## Roger Brown (1973) _A First Language_
+
+<div id = "left">
+
+Longitudinal study of three children: 
+
+- Adam, Eve, and Sarah
+- Source of [“Brown’s Stages”](http://www.speech-language-therapy.com/index.php?option=com_content&view=article&id=33:brown&catid=2:uncategorised&Itemid=117)
+
+</div>
+
+
+
+<div id = "right">
+
+
+</div>
+
+---
 
 # References
 
