@@ -79,13 +79,28 @@
 ## Language as communication
 
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Shannon_1948.png?raw=true" width=""/>
+
 (Shannon, 1948)
 
 ---
 
 ## Language as communication
 
-<img src="https://www.researchgate.net/profile/Uelle-Paerl/publication/284864618/figure/fig2/AS:538564481433600@1505415186122/Jakobsons-19851956-model-of-communication.png" width="300"/>
+<div id = "left">
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Jakobson_model1.png?raw=true" width=""/>
+
+</div>
+
+
+
+<div id = "right">
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Jakobson_model2.png?raw=true" width=""/>
+
+</div>
+
+Jakobson (1960)
 
 ---
 
