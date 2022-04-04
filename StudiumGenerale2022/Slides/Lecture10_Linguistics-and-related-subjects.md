@@ -383,14 +383,15 @@ How do children extract linguistic rules?
 
 ---
 
-## Dative shift (Baker's paradox)
+## Baker's paradox
 
+Dative shift:
 
-Lars told the truth to his father. (Prepositional dative)
-Lars told his father the truth. (Double object dative)
+- Lars told the truth to his father. (Prepositional dative)
+- Lars told his father the truth. (Double object dative)
 
-Lars confessed the truth to his father. (Prepositional dative)
-\* Lars confessed his father the truth. (Double object dative)
+- Lars confessed the truth to his father. (Prepositional dative)
+- \* Lars confessed his father the truth. (Double object dative)
 
 ---
 
