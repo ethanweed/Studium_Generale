@@ -130,6 +130,27 @@
 </div>
 
 
+---
+
+### Uexküll: a tick's _umwelt_
+
+<div id = "left">
+
+ 1. The smell of butyric acid
+ 2. The temperature of 37 degrees Celsius
+ 3. The hairiness of mammals.
+
+</div>
+
+
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/20140704-TickWaitingOnGrassBlade-CentralMA-USA.JPG" width=""/>
+
+</div>
+
+
 
 ---
 
@@ -158,6 +179,10 @@ De Saussure, F., 2011. _Course in general linguistics_. Columbia University Pres
 Shannon, C.E., 1948. A mathematical theory of communication. _The Bell system technical journal_, _27_(3), pp.379-423.
 
 
+
+Images:
+
+Tick: Mcvoorhis. Source: https://commons.wikimedia.org/wiki/File:20140704-TickWaitingOnGrassBlade-CentralMA-USA.JPG
 
 
 </div>
