@@ -52,9 +52,12 @@
 
 <div id = "right">
 
-- Bloomfield's postulates (e.g., )
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Bloomfield_morphemes.png?raw=true" width=""/>
 
 </div>
+
+
+
 
 ---
 
