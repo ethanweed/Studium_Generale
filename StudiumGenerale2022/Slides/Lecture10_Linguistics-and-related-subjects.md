@@ -224,7 +224,7 @@ Thomas Sebeok:
 
 <div id = "left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/VerbalBehavior.jpg" width="250"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/VerbalBehavior.jpg" width="300"/>
 
 </div>
 
@@ -235,6 +235,12 @@ Thomas Sebeok:
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Chomsky_Skinner_1.png?raw=true" width="600"/>
 
 </div>
+
+
+
+---
+
+## "Poverty of the Stimulus"
 
 
 
@@ -326,7 +332,46 @@ Brown's stages:
 
 ---
 
+## Vocabulary acquisition
 
+<div id = "left">
+
+Word-learning rate:
+
+- Babies: 0 words
+- 9 words per day between age 2 and 6
+- Websters dictionary: approx. 50,000 words
+- Adult vocabulary: approx. 17,000 words (Goulden, Nation and Read, 1990)
+
+
+
+</div>
+
+
+
+<div id = "right">
+
+![](https://lh5.googleusercontent.com/-X2cw_85wEsr6IpNRnjm4F9GM4dvEi_9P0uxMBnMyNmWjdhTmZ1zYDQrNU5vIi91LbiSMh2AzF6CpjpT35Q4z54HGk5YKEefVnMSlAbcJD5O3LemADKz5DCO6fXACNNRgUSV91pE0pU)
+
+</div>
+
+Data: [Stanford University wordbank](http://wordbank.stanford.edu)
+
+---
+
+<div id = "left">
+
+![](https://lh5.googleusercontent.com/-X2cw_85wEsr6IpNRnjm4F9GM4dvEi_9P0uxMBnMyNmWjdhTmZ1zYDQrNU5vIi91LbiSMh2AzF6CpjpT35Q4z54HGk5YKEefVnMSlAbcJD5O3LemADKz5DCO6fXACNNRgUSV91pE0pU)
+
+</div>
+
+
+
+<div id = "right">
+
+![](https://lh6.googleusercontent.com/WCCNiicZeUEcIbKqpvxFC8P4k0bZ3WmKbVRQUcHIOd3NHiSWyOlxgMKBDv_pTASLk81tBnICboaRbO2f1Nbd1fqVfYNgJpHNd6BviSLQdOeHQRio8IVWvp9HVJ__3rBIAVadZARKQOk)
+
+</div>
 
 ---
 
@@ -344,6 +389,8 @@ Brown, R., 1973. _A first language_. Harvard University Press.
 Chandler, D., 2007. _Semiotics: the basics_. Routledge.
 
 Chomsky, N. 1959. A Review of B. F. Skinner's Verbal Behavior. _Language 35_, no. 1 (1959)
+
+Goulden, R., Nation, P. and Read, J., 1990. How large can a receptive vocabulary be?. _Applied linguistics_, _11_(4), pp.341-363.
 
 Jakobson, R., 1971. Linguistics in relation to other sciences. _Selected writings_, _2_, pp.655-696.
 
