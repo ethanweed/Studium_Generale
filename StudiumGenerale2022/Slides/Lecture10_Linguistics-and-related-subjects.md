@@ -125,7 +125,7 @@
 
 <div id = "right">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Uexkülls_schema_original.jpg/220px-Uexkülls_schema_original.jpg" width=""/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Uexkülls_schema_original.jpg/220px-Uexkülls_schema_original.jpg" width="800"/>
 
 </div>
 
