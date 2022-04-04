@@ -394,9 +394,10 @@ Dative shift:
 - \* Lars confessed his father the truth. (Double object dative)
 
 ---
+
 ## A Bayseian solution?
 
-![](https://lh4.googleusercontent.com/pkrJcnqR_FSV8U7PradX2eWGYU35V6PJigh7iYEdpJwtpBEu3PCV06dsyjnmQQNqqh2eIdmeifUwlAl_vkcObyEosvkqE_GftzSkIYue5NXe77lfl21-Ith5Bwx-JU2wKPAExI6wgTY)
+<img source="https://lh4.googleusercontent.com/pkrJcnqR_FSV8U7PradX2eWGYU35V6PJigh7iYEdpJwtpBEu3PCV06dsyjnmQQNqqh2eIdmeifUwlAl_vkcObyEosvkqE_GftzSkIYue5NXe77lfl21-Ith5Bwx-JU2wKPAExI6wgTY)" width="500"
 
 
 ---
