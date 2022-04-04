@@ -234,6 +234,35 @@ Longitudinal study of three children:
 
 <div id = "right">
 
+<img src="https://hwpi.harvard.edu/files/styles/profile_full/public/psych/files/brown2.jpg?m=1515604411&itok=o-RLZ9ZH" width=""/>
+
+</div>
+
+---
+
+## Roger Brown (1973) _A First Language_
+
+<div id = "left">
+
+The children:
+
+- Selected from 30 possible
+-  Just beginning to speak multi-word utterances
+-  Had highly intelligible speech
+-   Highly voluble   
+-   Had no siblings (at first)
+
+
+</div>
+
+
+
+<div id = "right">
+
+Matching:
+
+-   Not matched on age
+-   Matched on MLU and longest utterance (upper bound)
 
 </div>
 
@@ -248,6 +277,8 @@ Longitudinal study of three children:
 
 <div id = "refs">
 
+Brown, R., 1973. _A first language_. Harvard University Press.
+
 Chandler, D., 2007. _Semiotics: the basics_. Routledge.
 
 Jakobson, R., 1971. Linguistics in relation to other sciences. _Selected writings_, _2_, pp.655-696.
@@ -255,6 +286,8 @@ Jakobson, R., 1971. Linguistics in relation to other sciences. _Selected writing
 Jakobson, R. and Sebeok, T.A., 1960. Closing statement: Linguistics and poetics. _Semiotics: An introductory anthology_, pp.147-175.
 
 De Saussure, F., 2011. _Course in general linguistics_. Columbia University Press.
+
+Sebeok, T.A., 1984. _Communication measures to bridge ten millennia_ (No. BMI/ONWI-532). Indiana Univ., Bloomington, IN (United States).
 
 Shannon, C.E., 1948. A mathematical theory of communication. _The Bell system technical journal_, _27_(3), pp.379-423.
 
@@ -266,5 +299,6 @@ Tick. Source: Mcvoorhis - Own work by the original uploader, CC-BY-SA-3.0, https
 
 Thomas Sebeok. Source: Kk - Own work by the original uploader, GFDL, https://commons.wikimedia.org/w/index.php?curid=80066844
 
+Roger Brown. Source: https://hwpi.harvard.edu/files/styles/profile_full/public/psych/files/brown2.jpg?m=1515604411&itok=o-RLZ9ZH
 
 </div>
