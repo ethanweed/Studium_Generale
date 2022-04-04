@@ -379,6 +379,21 @@ Danish
 
 ---
 
+How do children extract linguistic rules?
+
+---
+
+## Dative shift (Baker's paradox)
+
+
+Lars told the truth to his father. (Prepositional dative)
+Lars told his father the truth. (Double object dative)
+
+Lars confessed the truth to his father. (Prepositional dative)
+\* Lars confessed his father the truth. (Double object dative)
+
+---
+
 # References
 
 ---
@@ -387,6 +402,8 @@ Danish
 
 
 <div id = "refs">
+
+Baker, C.L., 1979. Syntactic theory and the projection problem. _Linguistic inquiry_, _10_(4), pp.533-581.
 
 Brown, R., 1973. _A first language_. Harvard University Press.
 
