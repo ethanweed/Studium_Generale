@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slides/Lecture09_Hypothesis-testing.md",
+            "file": "Slides/Lecture10_Linguistics-and-related-subjects.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides/Lecture09_Hypothesis-testing.md",
+                "file": "Slides/Lecture10_Linguistics-and-related-subjects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5c3f5698b1fc6686",
   "lastOpenFiles": [
+    "Slides/Lecture10_Linguistics-and-related-subjects.md",
+    "Slides/Lecture04_Scientific-argumentation.md",
+    "Slides/Lecture05_History-of-linguistics1.md",
+    "Slides/Lecture07_Linguistic-theories1.md",
+    "Slides/Lecture06_History-of-linguistics2.md",
     "Slides/Lecture09_Hypothesis-testing.md",
     "Templates/New presentation.md",
     "CourseInfo/Syllabus.md",
     "Slides/Lecture08_Linguistic-theories2.md",
-    "Slides/Lecture07_Linguistic-theories1.md",
-    "Slides/Lecture06_History-of-linguistics2.md",
-    "Mid-semester evaluation.md",
-    "Thrax1.png",
-    "Slides/Lecture05_History-of-linguistics1.md",
-    "Slides/Lecture02_History-of-science.md"
+    "Mid-semester evaluation.md"
   ]
 }
