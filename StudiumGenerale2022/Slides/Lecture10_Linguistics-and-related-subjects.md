@@ -240,7 +240,11 @@ Thomas Sebeok:
 
 ---
 
-## "Poverty of the Stimulus"
+Poverty of the Stimulus
+
+or
+
+You can't get there from here
 
 
 
