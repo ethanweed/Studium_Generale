@@ -86,7 +86,7 @@
 
 ## Language as communication
 
-<div id = "left">
+<div id = "left_border">
 
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Jakobson_model1.png?raw=true" width=""/>
 
@@ -94,7 +94,7 @@
 
 
 
-<div id = "right">
+<div id = "right_border">
 
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Jakobson_model2.png?raw=true" width=""/>
 
