@@ -394,6 +394,26 @@ Dative shift:
 - \* Lars confessed his father the truth. (Double object dative)
 
 ---
+## A Bayseian solution?
+
+![](https://lh4.googleusercontent.com/pkrJcnqR_FSV8U7PradX2eWGYU35V6PJigh7iYEdpJwtpBEu3PCV06dsyjnmQQNqqh2eIdmeifUwlAl_vkcObyEosvkqE_GftzSkIYue5NXe77lfl21-Ith5Bwx-JU2wKPAExI6wgTY)
+
+---
+
+![](https://lh4.googleusercontent.com/_hE-Kci3osKX1TMdLnIvLPm7_499Q6LbuPxGMRrtSL7WwQD_Ay0-UISJhccdIrp390jkDIlDvZBjt-UyO93B7ivInKWriMZ1tbNrVLQWgmeq6tAhAx-7V0y0pAeoZ7e94NspFScE_dw)
+
+
+---
+
+## Modelling Brown's data
+
+![](https://lh3.googleusercontent.com/DV8t2iWg0uiKkKz8ksBNJ5A_8uaWGzSBtH0sDCKUjCX5v4BV6ytaje6DOLAjdl9pVsGTixEEPQThiQq1HTGfmb5PmbwXFEScpFDa6LOCi7rRZXPvfO5bZeGFoUr1fNjlVGgHqMrnfus)
+
+---
+
+![](https://lh3.googleusercontent.com/ptW3Kwp3cHytdVNpKefG0fVkSIMUwuEVwLSBGIOw7_gF8JDMbVVR-1yK28lqLRpqPTIzjhcclyjA6GELzdMzi-1_eiNpFxGL4hY5gPAO8C7Q10zk5_L7WWuovhpAkNBFicgCplXaAfM)
+
+---
 
 # References
 
@@ -417,6 +437,8 @@ Goulden, R., Nation, P. and Read, J., 1990. How large can a receptive vocabulary
 Jakobson, R., 1971. Linguistics in relation to other sciences. _Selected writings_, _2_, pp.655-696.
 
 Jakobson, R. and Sebeok, T.A., 1960. Closing statement: Linguistics and poetics. _Semiotics: An introductory anthology_, pp.147-175.
+
+Perfors, A., Tenenbaum, J.B. and Wonnacott, E., 2010. Variability, negative evidence, and the acquisition of verb argument constructions. _Journal of child language_, _37_(3), pp.607-642.
 
 De Saussure, F., 2011. _Course in general linguistics_. Columbia University Press.
 
