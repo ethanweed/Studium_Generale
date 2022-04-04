@@ -161,7 +161,8 @@
 
 <div id = "left">
 
-Thomas Sebeok
+Thomas Sebeok:
+
 - Linguist and semiotician
 - Inspired by Uexküll's idea of _umwelt_
 - Student of Jakobson
