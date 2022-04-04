@@ -398,12 +398,20 @@ Dative shift:
 
 ![](https://lh4.googleusercontent.com/pkrJcnqR_FSV8U7PradX2eWGYU35V6PJigh7iYEdpJwtpBEu3PCV06dsyjnmQQNqqh2eIdmeifUwlAl_vkcObyEosvkqE_GftzSkIYue5NXe77lfl21-Ith5Bwx-JU2wKPAExI6wgTY)
 
----
-
-![](https://lh4.googleusercontent.com/_hE-Kci3osKX1TMdLnIvLPm7_499Q6LbuPxGMRrtSL7WwQD_Ay0-UISJhccdIrp390jkDIlDvZBjt-UyO93B7ivInKWriMZ1tbNrVLQWgmeq6tAhAx-7V0y0pAeoZ7e94NspFScE_dw)
-
 
 ---
+
+
+
+<img source="https://lh4.googleusercontent.com/_hE-Kci3osKX1TMdLnIvLPm7_499Q6LbuPxGMRrtSL7WwQD_Ay0-UISJhccdIrp390jkDIlDvZBjt-UyO93B7ivInKWriMZ1tbNrVLQWgmeq6tAhAx-7V0y0pAeoZ7e94NspFScE_dw" width = "500" />
+
+
+
+
+
+---
+
+
 
 ## Modelling Brown's data
 
