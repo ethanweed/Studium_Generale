@@ -188,7 +188,7 @@ Thomas Sebeok:
 
 ### Communication with the future
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Sebeok_2.png?raw=true" width="400"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Sebeok_2.png?raw=true" width="500"/>
 
 ---
 
