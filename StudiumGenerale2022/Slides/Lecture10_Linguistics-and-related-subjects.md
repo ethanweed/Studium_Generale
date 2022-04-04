@@ -280,7 +280,7 @@ Matching:
 
 ## Calculating MLU
 
-![Screen Shot 2017-01-29 at 12.54.29 AM.png](https://lh6.googleusercontent.com/D_hpmiPKh2ugfB9MWV4Y1dNmqGNLMV6PD15lbzFvGUlqefM9dXtTwu5IfLjjYKeebq9jldZS3JXz4FyFZSWMcwrXzI4tSDB9F6Az4nKtdJHgHUd2RFZHuuijTxhBNlYMuruxtdvfDBM)
+![](https://lh6.googleusercontent.com/D_hpmiPKh2ugfB9MWV4Y1dNmqGNLMV6PD15lbzFvGUlqefM9dXtTwu5IfLjjYKeebq9jldZS3JXz4FyFZSWMcwrXzI4tSDB9F6Az4nKtdJHgHUd2RFZHuuijTxhBNlYMuruxtdvfDBM)
 
 ---
 
@@ -299,7 +299,7 @@ Brown's stages:
 
 <div id = "right">
 
-![Screen Shot 2017-01-29 at 12.58.35 AM.png](https://lh6.googleusercontent.com/6gexqfSHFrG9IDkHQd64VXeF6x1PTxY86oNZ5w3jLlcPj9CuYHOfOzsdsJFKBXqa6xQ00HvQcgz3YsNkokhzbfRnP0-U0gxh8M-JqpRicqhXvjMCsD5pCQYTKV87U0UyjGZl14ZEubI)
+![](https://lh6.googleusercontent.com/6gexqfSHFrG9IDkHQd64VXeF6x1PTxY86oNZ5w3jLlcPj9CuYHOfOzsdsJFKBXqa6xQ00HvQcgz3YsNkokhzbfRnP0-U0gxh8M-JqpRicqhXvjMCsD5pCQYTKV87U0UyjGZl14ZEubI)
 
 </div>
 
