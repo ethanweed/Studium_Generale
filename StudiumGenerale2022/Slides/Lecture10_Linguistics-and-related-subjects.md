@@ -127,6 +127,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Uexkülls_schema_original.jpg" width=""/>
 
+- cybernetics
+- biosemiotics / zoosemiotics
+- _umwelt_
+
 </div>
 
 
@@ -151,6 +155,27 @@
 </div>
 
 
+---
+
+### Communication with an unknown addressee
+
+<div id = "left">
+
+Thomas Sebeok
+- Linguist and semiotician
+- Inspired by Uexküll's idea of _umwelt_
+- Student of Jakobson
+
+
+</div>
+
+
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/SebeokinTartu_%28cropped%29.jpg" width=""/>
+
+</div>
 
 ---
 
@@ -182,7 +207,9 @@ Shannon, C.E., 1948. A mathematical theory of communication. _The Bell system te
 
 Images:
 
-Tick: Mcvoorhis. Source: https://commons.wikimedia.org/wiki/File:20140704-TickWaitingOnGrassBlade-CentralMA-USA.JPG
+Tick. Source: Mcvoorhis - Own work by the original uploader, CC-BY-SA-3.0, https://commons.wikimedia.org/wiki/File:20140704-TickWaitingOnGrassBlade-CentralMA-USA.JPG
+
+Thomas Sebeok. Source: Kk - Own work by the original uploader, GFDL, https://commons.wikimedia.org/w/index.php?curid=80066844
 
 
 </div>
