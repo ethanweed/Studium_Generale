@@ -112,6 +112,27 @@
 
 ---
 
+## Biosemiotics: Uexküll
+
+
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Uex_photo_full.jpg/220px-Uex_photo_full.jpg" width=""/>
+
+</div>
+
+
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Uexkülls_schema_original.jpg/220px-Uexkülls_schema_original.jpg" width=""/>
+
+</div>
+
+
+
+---
+
 # Child Language Acquisition
 
 ---
@@ -125,6 +146,10 @@
 
 
 <div id = "refs">
+
+Chandler, D., 2007. _Semiotics: the basics_. Routledge.
+
+Jakobson, R., 1971. Linguistics in relation to other sciences. _Selected writings_, _2_, pp.655-696.
 
 Jakobson, R. and Sebeok, T.A., 1960. Closing statement: Linguistics and poetics. _Semiotics: An introductory anthology_, pp.147-175.
 
