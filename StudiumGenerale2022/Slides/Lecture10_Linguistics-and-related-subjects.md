@@ -180,7 +180,7 @@ Thomas Sebeok:
 
 ---
 
-### Communication with an unknown addressee
+### Communication with the future
 
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Sebeok_1.png?raw=true" width="400"/>
 
