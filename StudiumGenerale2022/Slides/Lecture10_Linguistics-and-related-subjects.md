@@ -232,6 +232,7 @@ Thomas Sebeok:
 
 <div id = "right">
 
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Chomsky_Skinner_1.png?raw=true" width="600"/>
 
 </div>
 
