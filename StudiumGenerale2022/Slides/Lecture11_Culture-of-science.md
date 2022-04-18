@@ -256,10 +256,15 @@ The problem with philosophers of science is that they don't pay enough attention
 
 ---
 
-1. Our image of the scientist may be Einstein, Marie Curie, or Newton making big discoveries
-1. Most scientists don't make big discoveries
-1. Most scientists don't even *try* to make big discoveries
 
+
+::: {.incremental}
+
+- Our image of a scientist may be Einstein, Marie Curie, or Newton making big discoveries
+- Most scientists don't make big discoveries
+- Most scientists don't even *try* to make big discoveries
+
+:::
 
 ---
 
