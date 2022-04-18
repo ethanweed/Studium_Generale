@@ -594,7 +594,7 @@ Latour's model of representation
 
 Trade-offs at the gaps
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour12.png?raw=true" width="500"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour12.png?raw=true" width="700"/>
 
 ---
 
