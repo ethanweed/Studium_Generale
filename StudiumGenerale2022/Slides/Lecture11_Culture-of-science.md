@@ -274,17 +274,23 @@ The problem with philosophers of science is that they don't pay enough attention
 
 ::: incremental
 
-- if you get a finding that seems too strange, it might not get published
 - scientists are part of a community that "believes" in the dominant paradigm
+- if you get a finding that seems too strange, it might not get published
+
 
 :::
-
 
 
 
 ---
 
 ## Normal science as puzzle-solving
+
+::: incremental
+
+BULLETS
+
+:::
 
 1. Doing normal science within the dominant paradigm gives the comfort that the problem we are working on actually has a solution
 1. We gain success from solving puzzles
