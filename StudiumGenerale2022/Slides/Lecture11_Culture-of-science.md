@@ -557,7 +557,7 @@ Language
 Transformation from world to words
 
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour9.png?raw=true" width="500"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour9.png?raw=true" width="700"/>
 
 
 ---
