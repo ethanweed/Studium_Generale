@@ -380,7 +380,7 @@ In normal science, we often just try to demonstrate what we already believe
 
 <div id = "right">
 
-- How did "discover" evolution?
+- How did Darwin "discover" evolution?
 - What was the response?
 
 </div>
@@ -429,6 +429,7 @@ In normal science, we often just try to demonstrate what we already believe
 
 ---
 
+The process of science
 
 <div id = "left">
 
