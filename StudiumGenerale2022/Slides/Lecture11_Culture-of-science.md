@@ -489,40 +489,16 @@ Thinking with data
 
 	Therefore we are neither very far from nor very close to the field site. We are at a good distance, and we have transported a small number of pertinent features. During the transportation something has been preserved. If I can manage to grasp this invariant, this je ne sais quoi, I believe, I will have understood scientific reference. In this little room where the botanist shelters her collection (Figure 2.6) is a table, similar to that in the restaurant, on which the specimens brought back from distinct locations at different times are now displayed. Philosophy, the art of wonderment, should consider this table carefully, since it is where we see why the botanist gains so much more from her collection than she loses by distancing herself from the forest. Let us first review what we know of that superiority before again attempting to follow the intermediary steps.
 	
-	The first advantage: comfort. In leafing through the pages of news print, the researcher makes the dried stems and flowers visible so she can examine them at leisure, writing just beside them as if the stems
-	and flowers could imprint themselves directly onto the paper or at
-	least become compatible with the paper world. The supposedly vast
+	The first advantage: comfort. In leafing through the pages of news print, the researcher makes the dried stems and flowers visible so she can examine them at leisure, writing just beside them as if the stems and flowers could imprint themselves directly onto the paper or at least become compatible with the paper world. The supposedly vast
 	distance between writing and things is now only a few centimeters.
-	A second advantage, just as important, is that once classified, speci
-	mens from different locations and times become contemporaries of
-	one another on the flat table, all visible under the same unifying gaze.
-	This plant, classified three years ago, and this other, obtained more
-	a than a thousand kilometers away, conspire on the table to form a syn
-	optic tableau.
-	A third advantage, again equally decisive, is that the researcher can
-	shift the position of specimens and substitute one for another as if
-	shuffling cards. Plants are not exactly signs, yet they have become as
-	mobile and recombinable as the lead monotype characters of a print
-	ing press.
-	Hardly surprising, then, that in the calm and cool office the botanist
-	who patiently arranges the leaves is able to discern emerging patterns
-	that no predecessor could see. The contrary would be much more sur
-	prising. Innovations in knowledge naturally emerge from the collec
-	tion deployed on the table (Eisenstein 1979). In the forest, in the same
-	world but with all of its trees, plants, roots, soil, and worms, the bota
-	nist could not calmly arrange the pieces of her jigsaw puzzle on her
-	card table. Scattered through time and space, these leaves would never
-	have met without her redistributing their traits into new combina
-	tions.
-	At the card table, with so many trumps in hand, every scientist be
-	comes a structuralist. No need to look any further for the martingale
-	that wins every time against those who sweat in the forest, those
-	crushed beneath the complex phenomena that are maddeningly pres
-	ent, indiscernible, impossible to identify, reshuffle, and control. In los
-	ing the forest, we win knowledge of it. In a beautiful contradiction, the
-	English word "oversight" exactly captures the two meanings of this
-	domination by sight, since it means at once looking at something from
-	above and ignoring it.
+	
+	A second advantage, just as important, is that once classified, specimens from different locations and times become contemporaries of one another on the flat table, all visible under the same unifying gaze. This plant, classified three years ago, and this other, obtained more a than a thousand kilometers away, conspire on the table to form a synoptic tableau.
+	
+	A third advantage, again equally decisive, is that the researcher can shift the position of specimens and substitute one for another as if shuffling cards. Plants are not exactly signs, yet they have become as mobile and recombinable as the lead monotype characters of a printing press.
+	
+	Hardly surprising, then, that in the calm and cool office the botanist who patiently arranges the leaves is able to discern emerging patterns that no predecessor could see. The contrary would be much more surprising. Innovations in knowledge naturally emerge from the collection deployed on the table (Eisenstein 1979). In the forest, in the same world but with all of its trees, plants, roots, soil, and worms, the botanist could not calmly arrange the pieces of her jigsaw puzzle on her card table. Scattered through time and space, these leaves would never have met without her redistributing their traits into new combinations.
+	
+	At the card table, with so many trumps in hand, every scientist becomes a structuralist. No need to look any further for the martingale that wins every time against those who sweat in the forest, those crushed beneath the complex phenomena that are maddeningly present, indiscernible, impossible to identify, reshuffle, and control. In losing the forest, we win knowledge of it. In a beautiful contradiction, the English word "oversight" exactly captures the two meanings of this domination by sight, since it means at once looking at something from above and ignoring it.
 
 </div>
 :::
@@ -530,21 +506,86 @@ Thinking with data
 
 ----
 
+Ordering chaos
+
+<div id = "left">
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour6.png?raw=true" width=""/>
+
+</div>
+
+
+
+<div id = "right">
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour7.png?raw=true" width=""/>
+</div>
+
+
 ---
 
+Language
 
-u king any kind of gauge, Armand and René rely on a back-and
-1th discussion of their judgments of taste, as my father would do
-hen he tasted his Corton wines.
-Sundy-clay or clayey-sand?"
-No, I would say clayey, sandy, no sandy-clay."
-Wat, mold it a bit more, give it some time.'
-0 ay, yes, let's say between sandy-clay and clayey-sand."
+
+<div id = "left">
+
+Armand and René rely on a back-and-fourth discussion of their judgments of taste, as my father would do when he tasted his Corton wines.
+
+"Sandy-clay or clayey-sand?"
+
+"No, I would say clayey, sandy, no sandy-clay."
+
+"Wait, mold it a bit more, give it some time.'
+
+"0kay, yes, let's say between sandy-clay and clayey-sand."
+
+</div>
+
+
+
+<div id = "right">
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour8.png?raw=true" width=""/>
+
+</div>
+
+
 
 ---
 
+Transformation from world to words
+
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour9.png?raw=true" width="350"/>
+
+
+---
+
+"Saltationist's" model of representation (William James)
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour10.png?raw=true" width="350"/>
+
+
+---
+
+Latour's model of representation
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour11.png?raw=true" width="350"/>
+
+
+
+---
+
+Trade-offs at the gaps
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour12.png?raw=true" width="350"/>
+
+---
 
 # References
+
+
+
 
 ---
 
@@ -553,6 +594,11 @@ Wat, mold it a bit more, give it some time.'
 
 <div id = "refs">
 
+Darwin, C., 1909. _The origin of species_ (pp. 95-96). New York: PF Collier & son.
+
+Kuhn, T.S., 1970. _The structure of scientific revolutions_ (Vol. 111). University of Chicago Press: Chicago.
+
+Latour, B., 1999. _Pandora's hope: essays on the reality of science studies_. Harvard university press.
 
 
 
