@@ -537,7 +537,7 @@ Language
 
 	"Wait, mold it a bit more, give it some time.'
 
-	"0kay, yes, let's say between sandy-clay and clayey-sand."
+	"Okay, yes, let's say between sandy-clay and clayey-sand."
 
 </div>
 
