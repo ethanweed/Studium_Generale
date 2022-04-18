@@ -177,7 +177,7 @@ Science vs. pseudoscience
 </div>
 ---
 
-# Kuhn: Sociology of science
+## Kuhn: Sociology of science
 
 Science _is_ scientists
 
