@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slides/Lecture10_Linguistics-and-related-subjects.md",
+            "file": "Slides/Lecture11_Culture-of-science.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Popper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides/Lecture10_Linguistics-and-related-subjects.md",
+                "file": "Slides/Lecture11_Culture-of-science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5c3f5698b1fc6686",
   "lastOpenFiles": [
+    "Slides/Lecture11_Culture-of-science.md",
+    "Slides/Lecture01_What-is-science.md",
+    "Slides/Lecture02_History-of-science.md",
+    "Literature/03_Okasha_Ch2&3.md",
+    "Slides/Lecture03_Philosophy-of-science1.md",
     "Slides/Lecture10_Linguistics-and-related-subjects.md",
+    "Templates/New presentation.md",
     "Slides/Lecture06_History-of-linguistics2.md",
     "Slides/Lecture04_Scientific-argumentation.md",
-    "Slides/Lecture05_History-of-linguistics1.md",
-    "Slides/Lecture07_Linguistic-theories1.md",
-    "Slides/Lecture09_Hypothesis-testing.md",
-    "Templates/New presentation.md",
-    "CourseInfo/Syllabus.md",
-    "Slides/Lecture08_Linguistic-theories2.md",
-    "Mid-semester evaluation.md"
+    "Slides/Lecture05_History-of-linguistics1.md"
   ]
 }
