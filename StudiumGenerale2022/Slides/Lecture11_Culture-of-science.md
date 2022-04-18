@@ -259,7 +259,6 @@ The problem with philosophers of science is that they don't pay enough attention
 
 
 ::: {.incremental}
-
 - Our image of a scientist is Einstein or Newton making big discoveries
 - Most scientists don't make big discoveries
 - Most scientists don't even *try* to make big discoveries
@@ -270,7 +269,7 @@ The problem with philosophers of science is that they don't pay enough attention
 
 ## Normal science as puzzle-solving
 
-1. In normal science, a lot of the time we try to show what we already know
+In normal science, we often just try to demonstrate what we already believe
 
 ::: {.incremental}
 
@@ -323,14 +322,21 @@ The problem with philosophers of science is that they don't pay enough attention
 
 ## Crisis
 
-1. Crises do not usually sneak up on a scientific community 
+- Crises do not usually sneak up on a scientific community 
 
-3. Scientists can respond in many different ways:
-	- dig in and resist
-	- give up
-	- try to keep modifying the dominant paradigm *ad hoc*
-	- borrow ideas from a different branch of science
-	- etc.
+- Scientists can respond in many different ways:
+
+::: {.incremental}
+
+- dig in and resist
+- give up
+- try to keep modifying the dominant paradigm *ad hoc*
+- borrow ideas from a different branch of science
+
+
+:::
+
+
 
 ---
 
