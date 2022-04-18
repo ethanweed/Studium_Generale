@@ -510,7 +510,7 @@ Ordering chaos
 
 <div id = "left">
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour6.png?raw=true" width=""/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour6.png?raw=true" width="400"/>
 
 </div>
 
@@ -518,7 +518,7 @@ Ordering chaos
 
 <div id = "right">
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour7.png?raw=true" width=""/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour7.png?raw=true" width="400"/>
 </div>
 
 
@@ -529,15 +529,15 @@ Language
 
 <div id = "left">
 
-Armand and René rely on a back-and-fourth discussion of their judgments of taste, as my father would do when he tasted his Corton wines.
+	Armand and René rely on a back-and-fourth discussion of their judgments of taste, as my father would do when he tasted his Corton wines.
 
-"Sandy-clay or clayey-sand?"
+	"Sandy-clay or clayey-sand?"
 
-"No, I would say clayey, sandy, no sandy-clay."
+	"No, I would say clayey, sandy, no sandy-clay."
 
-"Wait, mold it a bit more, give it some time.'
+	"Wait, mold it a bit more, give it some time.'
 
-"0kay, yes, let's say between sandy-clay and clayey-sand."
+	"0kay, yes, let's say between sandy-clay and clayey-sand."
 
 </div>
 
