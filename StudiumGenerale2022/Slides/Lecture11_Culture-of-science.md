@@ -338,16 +338,11 @@ In normal science, we often just try to demonstrate what we already believe
 
 
 
+
+
 ---
 
 ## On the Origin of Species
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/1280px-Charles_Darwin_seated_crop.jpg" width="400"/>
-
----
-
-##   Darwin
-
 
 <div id = "left">
 
@@ -368,6 +363,27 @@ In normal science, we often just try to demonstrate what we already believe
 </div>
 
 
+---
+
+## On the Origin of Species
+
+<div id = "left">
+
+- _Origin of Species_ (1859)
+- Natural selection: mechanism of evolution
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Darwin%27s_finches_by_Gould.jpg" width="300"/>
+
+
+</div>
+
+
+<div id = "right">
+
+- How did "discover" evolution?
+- What was the response?
+
+</div>
 
 
 ---
@@ -390,6 +406,43 @@ In normal science, we often just try to demonstrate what we already believe
 ---
 
 # Latour: Circulating Reference
+
+---
+
+## Bruno Latour
+
+
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bruno_Latour_in_Taiwan_P1250394_%28cropped%29.jpg/440px-Bruno_Latour_in_Taiwan_P1250394_%28cropped%29.jpg" width=""/>
+
+</div>
+
+
+<div id = "right">
+
+- 1947 -
+- French philosopher and sociologist of science
+- Constructivist approach to science
+
+</div>
+
+---
+
+
+
+
+
+---
+
+
+u king any kind of gauge, Armand and René rely on a back-and
+1th discussion of their judgments of taste, as my father would do
+hen he tasted his Corton wines.
+Sundy-clay or clayey-sand?"
+No, I would say clayey, sandy, no sandy-clay."
+Wat, mold it a bit more, give it some time.'
+0 ay, yes, let's say between sandy-clay and clayey-sand."
 
 ---
 
