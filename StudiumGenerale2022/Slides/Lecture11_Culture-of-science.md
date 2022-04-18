@@ -430,7 +430,19 @@ In normal science, we often just try to demonstrate what we already believe
 ---
 
 
+<div id = "left">
 
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour1.png?raw=true" width=""/>
+
+</div>
+
+
+
+<div id = "right">
+
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour2.png?raw=true" width=""/>
+</div>
 
 
 ---
