@@ -429,7 +429,7 @@ In normal science, we often just try to demonstrate what we already believe
 
 ---
 
-The process of science
+The construction of science
 
 <div id = "left">
 
