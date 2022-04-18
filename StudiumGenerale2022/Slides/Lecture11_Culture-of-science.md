@@ -482,6 +482,10 @@ Thinking with data
 
 
 :::{.scrollable}
+<div id = "right">
+
+
+
 
 	Therefore we are neither very far from nor very close to the field
 	site. We are at a good distance, and we have transported a small num
@@ -533,6 +537,7 @@ Thinking with data
 	domination by sight, since it means at once looking at something from
 	above and ignoring it.
 
+</div>
 :::
 
 
