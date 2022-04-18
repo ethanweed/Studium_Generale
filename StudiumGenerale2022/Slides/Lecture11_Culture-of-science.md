@@ -586,7 +586,7 @@ Models of representation
 
 Latour's model of representation
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour11.png?raw=true" width="500"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour11.png?raw=true" width="700"/>
 
 
 
