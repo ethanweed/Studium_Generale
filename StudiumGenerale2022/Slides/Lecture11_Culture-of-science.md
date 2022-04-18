@@ -15,7 +15,7 @@
 
 ---
 
-# Scientific Revolutions
+# Sociology of science
 
 
 ---
