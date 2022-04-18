@@ -260,7 +260,7 @@ The problem with philosophers of science is that they don't pay enough attention
 
 ::: {.incremental}
 
-- Our image of a scientist may be Einstein, Marie Curie, or Newton making big discoveries
+- Our image of a scientist is Einstein or Newton making big discoveries
 - Most scientists don't make big discoveries
 - Most scientists don't even *try* to make big discoveries
 
@@ -271,8 +271,15 @@ The problem with philosophers of science is that they don't pay enough attention
 ## Normal science as puzzle-solving
 
 1. In normal science, a lot of the time we try to show what we already know
-	- if you get a finding that seems too strange, it might not get published
-	- scientists are part of a community that "believes" in the dominant paradigm
+
+::: incremental
+
+- if you get a finding that seems too strange, it might not get published
+- scientists are part of a community that "believes" in the dominant paradigm
+
+:::
+
+
 
 
 ---
