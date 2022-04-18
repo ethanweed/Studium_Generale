@@ -480,8 +480,8 @@ Thinking with data
 
 
 
-<div id = "right"> {.scrollable}
-
+<div id = "right"> 
+:::{.scrollable}
 
 Therefore we are neither very far from nor very close to the field
 site. We are at a good distance, and we have transported a small num
@@ -532,7 +532,7 @@ ing the forest, we win knowledge of it. In a beautiful contradiction, the
 English word "oversight" exactly captures the two meanings of this
 domination by sight, since it means at once looking at something from
 above and ignoring it.```
-
+:::
 </div>
 
 ----
