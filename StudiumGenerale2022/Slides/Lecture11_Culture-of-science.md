@@ -221,18 +221,29 @@ The problem with philosophers of science is that they don't pay enough attention
 
 ---
 
-## Normal science and paradigm shifts
+## Normal science
 
 
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/en/8/87/Thomas_Kuhn.jpg" width=""/>
+
+</div>
 
 
+<div id = "right">
+
+- Normal science is what most scientist do most of the time.
+- Normal science operates within a scientific _paradigm_
+
+</div>
 
 ---
 
 ## Paradigm shifts
 
 1. First, a new paradigm offers the promise of success
-1. Normal science makes good on that promise by
+1. Then, normal science makes good on that promise by
 	- filling in details
 	- expanding on certain aspects
 	- refining theoretical points
@@ -242,6 +253,8 @@ The problem with philosophers of science is that they don't pay enough attention
 ---
 
 ## Normal science is what most scientists do all their lives!
+
+---
 
 1. Our image of the scientist may be Einstein, Marie Curie, or Newton making big discoveries
 1. Most scientists don't make big discoveries
@@ -255,6 +268,12 @@ The problem with philosophers of science is that they don't pay enough attention
 1. In normal science, a lot of the time we try to show what we already know
 	- if you get a finding that seems too strange, it might not get published
 	- scientists are part of a community that "believes" in the dominant paradigm
+
+
+---
+
+## Normal science as puzzle-solving
+
 1. Doing normal science within the dominant paradigm gives the comfort that the problem we are working on actually has a solution
 1. We gain success from solving puzzles
 1. It is unpopular to say that a puzzle can't be solved
