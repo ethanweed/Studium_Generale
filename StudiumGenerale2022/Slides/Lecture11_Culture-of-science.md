@@ -310,7 +310,7 @@ The problem with philosophers of science is that they don't pay enough attention
 
 ---
 
-## Paradigm shift
+## Paradigm shifts
 
 1. Scientists don't look for anomalies
 1. But sometimes they find them
@@ -324,12 +324,18 @@ The problem with philosophers of science is that they don't pay enough attention
 ## Crisis
 
 1. Crises do not usually sneak up on a scientific community 
-1. Scientists can respond in many different ways:
+
+3. Scientists can respond in many different ways:
 	- dig in and resist
 	- give up
 	- try to keep modifying the dominant paradigm *ad hoc*
 	- borrow ideas from a different branch of science
 	- etc.
+
+
+## Evolution of Species
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/1280px-Charles_Darwin_seated_crop.jpg" width=""/>
 
 
 ---
