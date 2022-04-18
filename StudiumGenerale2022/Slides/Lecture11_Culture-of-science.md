@@ -405,7 +405,7 @@ In normal science, we often just try to demonstrate what we already believe
 
 ---
 
-# Latour: Circulating Reference
+# The process of science
 
 ---
 
@@ -424,6 +424,7 @@ In normal science, we often just try to demonstrate what we already believe
 - 1947 -
 - French philosopher and sociologist of science
 - Constructivist approach to science
+- Book chapter:  Circulating Reference (_Pandora's Hope_, 1999)
 
 </div>
 
