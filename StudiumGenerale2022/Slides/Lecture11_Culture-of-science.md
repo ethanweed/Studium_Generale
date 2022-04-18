@@ -21,7 +21,7 @@
 ---
 
 
-# Science as induction
+## Science as induction
 
 ---
 
@@ -198,7 +198,7 @@ Those among us who are unwilling to expose their ideas to the hazards of refutat
 ## Demarcation
 
 <div id="left_border">
-Science vs pseudoscience
+Science vs. pseudoscience
 </div>
 
 <div id="right_border">
