@@ -561,10 +561,26 @@ Transformation from world to words
 
 ---
 
-"Saltationist's" model of representation (William James)
+Models of representation
+
+
+<div id = "left">
 
 <img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour10.png?raw=true" width="500"/>
 
+
+</div>
+
+
+
+<div id = "right">
+
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/triangle-modist.png?raw=true" width="500"/>
+
+
+
+
+</div>
 
 ---
 
