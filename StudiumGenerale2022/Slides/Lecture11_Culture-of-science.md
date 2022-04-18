@@ -55,26 +55,6 @@ There is *no* amount of evidence that will ever be enough for us to justify beli
 
 ---
 
-## Logical positivists   
-
-- impressed by the scientific advances of early C20
-- wanted to make philosophy more “scientific” i
-
-
----
-
-## Logical positivists
-
-   
-
-– impressed by the apparent objectivity of science
-
-•Questions could be settled in a fully objective way, by comparison of predictions of theory with facts derived by experiments
-
-•Science was regarded as entirely rational: the route to truth
-
----
-
 ## Hempel's Covering Law
 
 <div id = "left_border_small">
@@ -98,32 +78,22 @@ Carl Hempel (1905 - 1997)
 
 ---
 
-## Causal asymmetry
+## Logical positivism 
 
-<div id = "left_border_small">
-
-X causes Y
-
-.˙. Y cannot cause X
-
-</div>
+- Hempel was a leading figure
+- Impressed by the scientific advances of early C20 (e.g. Einstein)
+- Wanted to make philosophy more “scientific”
 
 
-<div id = "right_border_small">
-
-But how can we be sure that X causes Y?
-
-</div>
 ---
 
-## Hume (again)
+## Logical positivists
 
-<div id = "left_border_small">
 
-- We can only know that which we can sense
-- Can we sense causality?
+- Impressed by the apparent objectivity of science
+- Questions could be settled in a fully objective way, by comparison of predictions of theory with facts derived by experiments
+•Science was regarded as entirely rational: the route to truth
 
-</div>
 
 ---
 
@@ -192,7 +162,6 @@ Those among us who are unwilling to expose their ideas to the hazards of refutat
 
 
 
-
 ---
 
 ## Demarcation
@@ -209,6 +178,52 @@ Science vs. pseudoscience
 ---
 
 ## Kuhn: Sociology of science
+
+Science _is_ scientists
+
+
+---
+
+## Thomas Kuhn
+
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/en/8/87/Thomas_Kuhn.jpg" width=""/>
+
+</div>
+
+
+
+<div id = "right">
+
+_The Structure of Scientific Revolutions_
+
+</div>
+
+
+
+## Thomas Kuhn
+
+<div id = "left">
+
+<img src="https://upload.wikimedia.org/wikipedia/en/8/87/Thomas_Kuhn.jpg" width=""/>
+
+</div>
+
+
+
+<div id = "right">
+
+The problem with philosophers of science is that they don't pay enough attention to the _history_ of science
+
+</div>
+
+
+---
+
+## Normal science and paradigm shifts
+
+
 
 
 
