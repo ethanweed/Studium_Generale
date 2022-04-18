@@ -487,22 +487,9 @@ Thinking with data
 
 
 
-	Therefore we are neither very far from nor very close to the field
-	site. We are at a good distance, and we have transported a small num
-	ber of pertinent features. During the transportation something has
-	been preserved. If I can manage to grasp this invariant, this je ne sais
-	quoi, I believe, I will have understood scientific reference.
-	In this little room where the botanist shelters her collection (Figure
-	2.6) is a table, similar to that in the restaurant, on which the speci
-	mens brought back from distinct locations at different times are now
-	displayed. Philosophy, the art of wonderment, should consider this
-	ble carefully, since it is where we see why the botanist gains so much
-	more from her collection than she loses by distancing herself from the forest. Let us first review what we know of that superiority before
-	again attempting to follow the intermediary steps.
+	Therefore we are neither very far from nor very close to the field site. We are at a good distance, and we have transported a small number of pertinent features. During the transportation something has been preserved. If I can manage to grasp this invariant, this je ne sais quoi, I believe, I will have understood scientific reference. In this little room where the botanist shelters her collection (Figure 2.6) is a table, similar to that in the restaurant, on which the specimens brought back from distinct locations at different times are now displayed. Philosophy, the art of wonderment, should consider this table carefully, since it is where we see why the botanist gains so much more from her collection than she loses by distancing herself from the forest. Let us first review what we know of that superiority before again attempting to follow the intermediary steps.
 	
-	The first advantage: comfort. In leafing through the pages of news
-	print, the researcher makes the dried stems and flowers visible so she
-	can examine them at leisure, writing just beside them as if the stems
+	The first advantage: comfort. In leafing through the pages of news print, the researcher makes the dried stems and flowers visible so she can examine them at leisure, writing just beside them as if the stems
 	and flowers could imprint themselves directly onto the paper or at
 	least become compatible with the paper world. The supposedly vast
 	distance between writing and things is now only a few centimeters.
