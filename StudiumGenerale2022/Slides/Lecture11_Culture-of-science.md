@@ -556,21 +556,21 @@ Language
 Transformation from world to words
 
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour9.png?raw=true" width="350"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour9.png?raw=true" width="500"/>
 
 
 ---
 
 "Saltationist's" model of representation (William James)
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour10.png?raw=true" width="350"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour10.png?raw=true" width="500"/>
 
 
 ---
 
 Latour's model of representation
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour11.png?raw=true" width="350"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour11.png?raw=true" width="500"/>
 
 
 
@@ -578,7 +578,7 @@ Latour's model of representation
 
 Trade-offs at the gaps
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour12.png?raw=true" width="350"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour12.png?raw=true" width="500"/>
 
 ---
 
