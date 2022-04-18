@@ -91,8 +91,8 @@ Carl Hempel (1905 - 1997)
 
 
 - Impressed by the apparent objectivity of science
-- Questions could be settled in a fully objective way, by comparison of predictions of theory with facts derived by experiments
-•Science was regarded as entirely rational: the route to truth
+- Questions can be settled objectively
+- Science is entirely rational: the route to truth
 
 
 ---
