@@ -332,10 +332,36 @@ The problem with philosophers of science is that they don't pay enough attention
 	- borrow ideas from a different branch of science
 	- etc.
 
+---
 
-## Evolution of Species
+## On the Origin of Species
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/1280px-Charles_Darwin_seated_crop.jpg" width=""/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/1280px-Charles_Darwin_seated_crop.jpg" width="400"/>
+
+---
+
+##   Darwin
+
+
+<div id = "left">
+
+- _Origin of Species_ (1859)
+- Natural selection: mechanism of evolution
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Darwin%27s_finches_by_Gould.jpg" width="300"/>
+
+
+</div>
+
+
+<div id = "right">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Darwin_Tree_1837.png/1024px-Darwin_Tree_1837.png" width="250"/>
+
+
+</div>
+
+
 
 
 ---
