@@ -454,7 +454,7 @@ Data collection and levels of abstraction
 
 <div id = "left">
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour3.png?raw=true" width=""/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour3.png?raw=true" width="350"/>
 
 </div>
 
@@ -462,7 +462,7 @@ Data collection and levels of abstraction
 
 <div id = "right">
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour4.png?raw=true" width=""/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour4.png?raw=true" width="350"/>
 
 </div>
 
