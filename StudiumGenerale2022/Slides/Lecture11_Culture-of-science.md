@@ -511,7 +511,7 @@ Ordering chaos
 
 <div id = "left">
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour6.png?raw=true" width="400"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour6.png?raw=true" width="350"/>
 
 </div>
 
@@ -519,7 +519,7 @@ Ordering chaos
 
 <div id = "right">
 
-<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour7.png?raw=true" width="400"/>
+<img src="https://github.com/ethanweed/Studium_Generale/blob/master/StudiumGenerale2022/Slides/Images/Latour7.png?raw=true" width="350"/>
 </div>
 
 
