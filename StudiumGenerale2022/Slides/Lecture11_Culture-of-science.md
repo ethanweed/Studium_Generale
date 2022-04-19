@@ -414,7 +414,7 @@ In normal science, we often just try to demonstrate what we already believe
 
 <div id = "left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bruno_Latour_in_Taiwan_P1250394_%28cropped%29.jpg/440px-Bruno_Latour_in_Taiwan_P1250394_%28cropped%29.jpg" width=""/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bruno_Latour_in_Taiwan_P1250394_%28cropped%29.jpg/440px-Bruno_Latour_in_Taiwan_P1250394_%28cropped%29.jpg" width="400"/>
 
 </div>
 
