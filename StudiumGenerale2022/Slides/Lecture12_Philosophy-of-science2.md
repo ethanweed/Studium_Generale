@@ -9,6 +9,10 @@ From Positivists to Anarchists
 
 ---------------------------------------- 
 
+Code for Small World globe demo
+
+Only if you are interested!
+
 ```
 # Small worlds demo from Richard McElreath
 # R code from https://bookdown.org/content/4857/small-worlds-and-large-worlds.html#bayesian-updating.
